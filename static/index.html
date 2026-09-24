@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>talk to jev-prime</title>
+<meta name="description" content="Talk to Jev-Prime — a mind that builds every word from scratch, one decision at a time. No templates, no memorised phrases.">
+<meta name="theme-color" content="#0a0a0f">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://talktojev.com/">
+<meta property="og:title" content="talk to jev">
+<meta property="og:description" content="A mind that builds every word from scratch, one decision at a time.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://talktojev.com/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="talk to jev">
+<meta name="twitter:description" content="A mind that builds every word from scratch, one decision at a time.">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #12121a;
+    --border: #2a2a3a;
+    --text: #e0e0e8;
+    --dim: #6b6b80;
+    --jev: #7ee787;
+    --jev-dim: #3fb950;
+    --accent: #238636;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+  }
+  #app {
+    width: 100%;
+    max-width: 640px;
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+    padding: 0 16px;
+  }
+  header {
+    padding: 24px 0 16px;
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  #header-top {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+  header h1 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--jev);
+    flex: 1;
+  }
+  #header-actions {
+    display: flex;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  #header-actions button {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--dim);
+    font-family: inherit;
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #header-actions button:hover { color: var(--text); border-color: var(--dim); }
+  #subtitle {
+    font-size: 12px;
+    color: var(--dim);
+    margin-top: 6px;
+  }
+  #links { display: flex; gap: 14px; font-size: 12px; margin-top: 6px; }
+  #links:empty { display: none; }
+  #links a { color: var(--dim); text-decoration: none; }
+  #links a:hover { color: var(--text); }
+  @media (min-width: 860px) {
+    #links { position: fixed; top: 28px; left: calc(50% + 348px); flex-direction: column; gap: 8px; margin: 0; }
+  }
+  #chat {
+    flex: 1;
+    overflow-y: auto;
+    padding: 16px 0;
+  }
+  #epigraph {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    white-space: pre-line;
+    color: var(--dim);
+    line-height: 2;
+    padding: 0 24px;
+    user-select: none;
+  }
+  .sys { margin-bottom: 16px; color: var(--dim); font-size: 12px; }
+  #below { padding: 0 0 12px; font-size: 11px; color: var(--dim); display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; }
+  #below button { color: var(--dim); background: none; border: none; font: inherit; cursor: pointer; text-decoration: underline; padding: 0; }
+  #below button:hover { color: var(--text); }
+  #keytoggle { color: var(--jev-dim); border: 1px solid var(--jev-dim); text-decoration: none; padding: 2px 8px; border-radius: 4px; opacity: 0.85; }
+  #keytoggle:hover { opacity: 1; color: var(--jev); border-color: var(--jev); }
+  #keybox { display: none; width: 100%; gap: 8px; align-items: center; flex-wrap: wrap; }
+  #keybox.open { display: flex; }
+  #key { flex: 1; min-width: 220px; background: var(--surface); border: 1px solid var(--border); color: var(--text); font: inherit; padding: 6px 8px; border-radius: 4px; outline: none; }
+  #key:focus { border-color: var(--jev-dim); }
+  #keynote { width: 100%; line-height: 1.5; }
+  #notice { position: fixed; left: 0; right: 0; bottom: 0; background: var(--surface); border-top: 1px solid var(--border); color: var(--dim); font-size: 11px; padding: 10px 16px; display: none; justify-content: center; gap: 12px; align-items: center; text-align: center; line-height: 1.6; z-index: 5; }
+  #notice.open { display: flex; flex-wrap: wrap; }
+  #notice button { background: none; border: 1px solid var(--border); color: var(--dim); font: inherit; padding: 2px 8px; border-radius: 4px; cursor: pointer; flex-shrink: 0; }
+  #notice .key-hint { color: var(--jev-dim); cursor: pointer; text-decoration: underline; }
+  #notice .key-hint:hover { color: var(--jev); }
+  .msg { margin-bottom: 16px; white-space: pre-wrap; word-break: break-word; }
+  .msg-user .label { color: var(--dim); }
+  .msg-jev .label { color: var(--jev-dim); }
+  .msg-jev .content { color: var(--jev); }
+  .msg-jev .interrupted { color: #d29922; opacity: 0.8; }
+  .cursor {
+    display: inline-block;
+    width: 7px;
+    height: 14px;
+    background: var(--jev);
+    vertical-align: text-bottom;
+    animation: blink 0.8s step-end infinite;
+  }
+  @keyframes blink { 50% { opacity: 0; } }
+  #input-area {
+    padding: 16px 0;
+    border-top: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  #input-form {
+    display: flex;
+    gap: 8px;
+  }
+  #message {
+    flex: 1;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 14px;
+    padding: 10px 12px;
+    border-radius: 6px;
+    outline: none;
+  }
+  #message:focus { border-color: var(--jev-dim); }
+  #message::placeholder { color: var(--dim); }
+  #send {
+    background: var(--accent);
+    border: none;
+    color: white;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  #send:hover { background: #2ea043; }
+  #send:disabled { opacity: 0.4; cursor: default; }
+  #chat { scrollbar-width: thin; scrollbar-color: transparent transparent; }
+  #chat::-webkit-scrollbar { width: 6px; }
+  #chat::-webkit-scrollbar-track { background: transparent; }
+  #chat::-webkit-scrollbar-thumb { background: transparent; border-radius: 3px; }
+  #chat:hover::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); }
+  #chat:hover { scrollbar-color: rgba(255,255,255,0.12) transparent; }
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 12px;
+    padding: 8px 16px;
+    border-radius: 6px;
+    opacity: 0;
+    transition: opacity 0.25s;
+    pointer-events: none;
+    z-index: 10;
+  }
+  .toast.show { opacity: 1; }
+  #key-dialog { display: none; position: fixed; inset: 0; z-index: 20; align-items: center; justify-content: center; padding: 16px; }
+  #key-dialog.open { display: flex; }
+  .kd-overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.6); }
+  .kd-box { position: relative; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; max-width: 400px; width: 100%; padding: 24px; max-height: calc(100dvh - 32px); overflow-y: auto; }
+  .kd-title { font-size: 15px; font-weight: 600; color: var(--jev); margin-bottom: 10px; }
+  .kd-desc { font-size: 12px; color: var(--dim); margin-bottom: 14px; line-height: 1.6; }
+  .kd-steps { font-size: 12px; color: var(--dim); margin: 0 0 16px; padding-left: 18px; line-height: 2.2; }
+  .kd-steps a { color: var(--jev-dim); text-decoration: none; }
+  .kd-steps a:hover { color: var(--jev); text-decoration: underline; }
+  #kd-key { width: 100%; background: var(--bg); border: 1px solid var(--border); color: var(--text); font: inherit; font-size: 13px; padding: 10px 12px; border-radius: 6px; outline: none; margin-bottom: 12px; }
+  #kd-key:focus { border-color: var(--jev-dim); }
+  #kd-go { width: 100%; background: var(--accent); border: none; color: white; font: inherit; font-size: 14px; font-weight: 500; padding: 10px; border-radius: 6px; cursor: pointer; margin-bottom: 10px; }
+  #kd-go:hover:not(:disabled) { background: #2ea043; }
+  #kd-go:disabled { opacity: 0.35; cursor: default; }
+  #kd-skip { display: block; width: 100%; background: none; border: none; color: var(--dim); font: inherit; font-size: 11px; cursor: pointer; text-align: center; padding: 6px; }
+  #kd-skip:hover { color: var(--text); }
+  .restored-note { text-align: center; color: var(--dim); font-size: 11px; padding: 8px 0 12px; opacity: 0.7; }
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div id="header-top">
+      <h1>talk to jev</h1>
+      <div id="header-actions">
+        <button id="share" hidden>share</button>
+        <button id="new-chat">new chat</button>
+      </div>
+    </div>
+    <p id="subtitle"></p>
+    <div id="links"></div>
+  </header>
+  <div id="chat"></div>
+  <div id="input-area">
+    <form id="input-form">
+      <input type="text" id="message" placeholder="say something..." autocomplete="off" autofocus>
+      <button type="submit" id="send">&rarr;</button>
+    </form>
+  </div>
+  <div id="below">
+    <button type="button" id="keytoggle">use your own key</button>
+    <div id="keybox">
+      <input type="password" id="key" placeholder="openrouter or typesafe key (optional)" autocomplete="off" spellcheck="false">
+      <button type="button" id="keyclear">forget it</button>
+      <div id="keynote">jev-prime runs on a small shared daily budget. with your own openrouter or typesafe key you are not limited by it. the key stays in this browser, is sent only with your messages so jev-prime can think, and is never stored or logged on the server.</div>
+    </div>
+  </div>
+</div>
+<div id="notice">
+  <span>not stored: cookies, tracking or conversations. <span class="key-hint" id="noticekeyhint">use your own key</span> for unlimited chats — it stays in your browser.</span>
+  <button type="button" id="noticeok">ok</button>
+</div>
+<div class="toast" id="toast"></div>
+<div id="key-dialog">
+  <div class="kd-overlay"></div>
+  <div class="kd-box">
+    <p class="kd-title">bring your own key</p>
+    <p class="kd-desc">jev-prime runs on a small shared daily budget that can run out. your own openrouter or typesafe key gives you unlimited conversations.</p>
+    <ol class="kd-steps kd-steps-or">
+      <li><a href="https://openrouter.ai/workspaces/default/keys" target="_blank" rel="noopener">create a free openrouter account + API key</a></li>
+      <li><a href="https://openrouter.ai/settings/credits" target="_blank" rel="noopener">add a few dollars of credit</a></li>
+      <li><a href="https://openrouter.ai/workspaces/default/guardrails" target="_blank" rel="noopener">set a spending limit</a> (recommended)</li>
+    </ol>
+    <ol class="kd-steps kd-steps-ts">
+      <li><a href="https://console.typesafe.ai/" target="_blank" rel="noopener">get a typesafe API key</a></li>
+    </ol>
+    <form id="kd-form" autocomplete="off">
+      <input type="password" id="kd-key" placeholder="sk-or-... or typesafe key" autocomplete="off" spellcheck="false">
+      <button type="submit" id="kd-go" disabled>go</button>
+    </form>
+    <button type="button" id="kd-skip">use communal credits (not guaranteed)</button>
+  </div>
+</div>
+
+<script>
+(function() {
+  const born = new Date('2026-09-20T00:00:00');
+  const days = Math.floor((Date.now() - born) / 86400000);
+  document.getElementById('subtitle').textContent =
+    'be patient, he is just ' + days + ' day' + (days === 1 ? '' : 's') + ' old';
+})();
+
+const chat = document.getElementById('chat');
+const form = document.getElementById('input-form');
+const input = document.getElementById('message');
+const sendBtn = document.getElementById('send');
+const newChatBtn = document.getElementById('new-chat');
+const shareBtn = document.getElementById('share');
+
+function makeId() {
+  return 'xxxx-xxxx-xxxx'.replace(/x/g, function() {
+    return (Math.random() * 16 | 0).toString(16);
+  });
+}
+let sessionId = localStorage.getItem('jev_session') || makeId();
+localStorage.setItem('jev_session', sessionId);
+let generating = false;
+
+let epigraphLine = null;
+let ownKey = localStorage.getItem('jev_key') || '';
+const keyBox = document.getElementById('keybox');
+const keyInput = document.getElementById('key');
+keyInput.value = ownKey;
+document.getElementById('keytoggle').addEventListener('click', () => keyBox.classList.toggle('open'));
+keyInput.addEventListener('change', () => {
+  ownKey = keyInput.value.trim();
+  if (ownKey) localStorage.setItem('jev_key', ownKey); else localStorage.removeItem('jev_key');
+});
+document.getElementById('keyclear').addEventListener('click', () => {
+  ownKey = ''; keyInput.value = ''; localStorage.removeItem('jev_key');
+});
+
+document.getElementById('noticekeyhint').addEventListener('click', () => {
+  localStorage.setItem('jev_notice_ok', '1');
+  document.getElementById('notice').classList.remove('open');
+  keyBox.classList.add('open');
+});
+
+const notice = document.getElementById('notice');
+if (!localStorage.getItem('jev_notice_ok')) notice.classList.add('open');
+document.getElementById('noticeok').addEventListener('click', () => {
+  localStorage.setItem('jev_notice_ok', '1'); notice.classList.remove('open');
+});
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(t._tid);
+  t._tid = setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+function updateShare() {
+  shareBtn.hidden = !chat.querySelector('.msg');
+}
+
+shareBtn.addEventListener('click', async () => {
+  const msgs = chat.querySelectorAll('.msg');
+  if (!msgs.length) return;
+  const lines = [];
+  msgs.forEach(m => {
+    const label = m.querySelector('.label').textContent.trim();
+    const content = m.querySelector('.content').textContent;
+    const inter = m.querySelector('.interrupted');
+    lines.push(label + ' ' + content + (inter ? ' ' + inter.textContent : ''));
+  });
+  const text = lines.join('\n') + '\n\n— talktojev.com';
+  if (navigator.share) {
+    try { await navigator.share({ title: 'talk to jev', text }); return; }
+    catch (e) { if (e.name === 'AbortError') return; }
+  }
+  try {
+    await navigator.clipboard.writeText(text);
+    showToast('copied to clipboard');
+  } catch (e) {
+    const ta = document.createElement('textarea');
+    ta.value = text; ta.style.cssText = 'position:fixed;opacity:0';
+    document.body.appendChild(ta); ta.select();
+    document.execCommand('copy') ? showToast('copied to clipboard') : showToast('could not copy');
+    ta.remove();
+  }
+});
+
+function addSystem(text) {
+  const div = document.createElement('div');
+  div.className = 'sys';
+  div.textContent = text;
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+}
+
+const INTERRUPTED = {
+  budget: "the shared budget for today is used up. add your own key below, or come back tomorrow.",
+  401: "that key was refused.", 402: "that key has no credit left.", 403: "that key has no credit left.",
+  429: "the model is rate limited right now. try again in a minute.",
+};
+
+async function fetchAbout() {
+  if (epigraphLine !== null) return;
+  try {
+    const about = await (await fetch('/api/about')).json();
+    epigraphLine = about.line || '';
+    if (about.max_chars) input.maxLength = about.max_chars;
+    const links = document.getElementById('links');
+    for (const [name, url] of Object.entries(about.links || {})) {
+      const a = document.createElement('a');
+      a.href = url; a.textContent = name; a.target = '_blank'; a.rel = 'noopener';
+      links.appendChild(a);
+    }
+    if (about.shared_budget_left === false && !ownKey) {
+      addSystem(INTERRUPTED.budget); keyBox.classList.add('open');
+    }
+  } catch (e) { epigraphLine = ''; }
+}
+
+async function showEpigraph() {
+  await fetchAbout();
+  if (!epigraphLine || chat.children.length) return;
+  const div = document.createElement('div');
+  div.id = 'epigraph';
+  div.textContent = epigraphLine.replace(/: |, /g, (m) => m.trim() + '\n');
+  chat.appendChild(div);
+}
+
+async function typeOut(el, text) {
+  for (const ch of text) {
+    el.textContent += ch;
+    chat.scrollTop = chat.scrollHeight;
+    await new Promise((r) => setTimeout(r, 14));
+  }
+}
+
+function hideEpigraph() {
+  const e = document.getElementById('epigraph');
+  if (e) e.remove();
+}
+
+function addMessage(role, text) {
+  const div = document.createElement('div');
+  div.className = `msg msg-${role}`;
+  div.innerHTML = `<span class="label">${role === 'user' ? '>' : 'jev′:'}</span> <span class="content"></span>`;
+  div.querySelector('.content').textContent = text;
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+  return div;
+}
+
+function addJevMessage() {
+  const div = document.createElement('div');
+  div.className = 'msg msg-jev';
+  div.innerHTML = '<span class="label">jev′:</span> <span class="content"></span><span class="cursor"></span>';
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+  return div;
+}
+
+function markInterrupted(contentEl, code) {
+  if (contentEl.parentNode.querySelector('.interrupted')) return;
+  const mark = document.createElement('span');
+  mark.className = 'interrupted';
+  mark.textContent = (contentEl.textContent.trim() ? ' ' : '') + '[interrupted' + (code ? '-' + code : '') + ']';
+  contentEl.after(mark);
+}
+
+async function send(text) {
+  if (!text.trim() || generating) return;
+  generating = true;
+  sendBtn.disabled = true;
+
+  hideEpigraph();
+  addMessage('user', text);
+  updateShare();
+  const jevDiv = addJevMessage();
+  const contentEl = jevDiv.querySelector('.content');
+  const cursorEl = jevDiv.querySelector('.cursor');
+
+  try {
+    const resp = await fetch('/api/chat', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({
+        message: text, session_id: sessionId, api_key: ownKey || undefined,
+        local_time: new Date().toLocaleString('en-GB', {weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit'}),
+      }),
+    });
+
+    if (!resp.ok) {
+      let err = {};
+      try { err = await resp.json(); } catch (e) {}
+      jevDiv.remove();
+      addSystem(err.message || 'something went wrong. try again.');
+      if (err.error === 'budget' || err.error === 'rate_day' || err.error === 'key') keyBox.classList.add('open');
+      generating = false; sendBtn.disabled = false; input.focus();
+      return;
+    }
+    const reader = resp.body.getReader();
+    const decoder = new TextDecoder();
+    let buf = '';
+
+    while (true) {
+      const {done, value} = await reader.read();
+      if (done) break;
+      buf += decoder.decode(value, {stream: true});
+
+      const lines = buf.split('\n');
+      buf = lines.pop();
+
+      for (const line of lines) {
+        if (!line.startsWith('data: ')) continue;
+        const data = JSON.parse(line.slice(6));
+        if (data.done) break;
+        if (data.char !== undefined) {
+          contentEl.textContent += data.char;
+        } else if (data.text !== undefined) {
+          await typeOut(contentEl, data.text);
+        }
+        if (data.interrupted) {
+          markInterrupted(contentEl, data.interrupted);
+          if (INTERRUPTED[data.interrupted]) addSystem(INTERRUPTED[data.interrupted]);
+          if (data.interrupted === 'budget') keyBox.classList.add('open');
+        }
+        chat.scrollTop = chat.scrollHeight;
+      }
+    }
+  } catch (e) {
+    markInterrupted(contentEl, 'connection');
+  }
+
+  cursorEl.remove();
+  generating = false;
+  sendBtn.disabled = false;
+  input.focus();
+}
+
+let pendingMessage = null;
+let keyDialogSeen = !!localStorage.getItem('jev_key_dialog_seen');
+const kdDialog = document.getElementById('key-dialog');
+const kdKey = document.getElementById('kd-key');
+const kdGo = document.getElementById('kd-go');
+
+function showKeyDialog() {
+  kdKey.value = ownKey;
+  kdGo.disabled = !kdKey.value.trim();
+  kdDialog.classList.add('open');
+  kdKey.focus();
+}
+
+function cancelKeyDialog() {
+  kdDialog.classList.remove('open');
+  const msg = pendingMessage;
+  pendingMessage = null;
+  if (msg) { input.value = msg; }
+  input.focus();
+}
+
+function dismissKeyDialog(saveKey) {
+  if (saveKey) {
+    ownKey = kdKey.value.trim();
+    if (ownKey) {
+      localStorage.setItem('jev_key', ownKey);
+      keyInput.value = ownKey;
+    }
+  }
+  keyDialogSeen = true;
+  localStorage.setItem('jev_key_dialog_seen', '1');
+  kdDialog.classList.remove('open');
+  const msg = pendingMessage;
+  pendingMessage = null;
+  if (msg) send(msg);
+  else input.focus();
+}
+
+const stepsOr = document.querySelector('.kd-steps-or');
+const stepsTs = document.querySelector('.kd-steps-ts');
+function updateKeySteps() {
+  const v = kdKey.value.trim();
+  kdGo.disabled = !v;
+  if (!v) { stepsOr.hidden = false; stepsTs.hidden = false; }
+  else if (v.startsWith('sk-or-')) { stepsOr.hidden = false; stepsTs.hidden = true; }
+  else { stepsOr.hidden = true; stepsTs.hidden = false; }
+}
+kdKey.addEventListener('input', updateKeySteps);
+document.getElementById('kd-form').addEventListener('submit', (e) => {
+  e.preventDefault();
+  if (kdKey.value.trim()) dismissKeyDialog(true);
+});
+document.getElementById('kd-skip').addEventListener('click', () => dismissKeyDialog(false));
+document.querySelector('.kd-overlay').addEventListener('click', () => cancelKeyDialog());
+kdDialog.addEventListener('keydown', (e) => { if (e.key === 'Escape') cancelKeyDialog(); });
+
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const text = input.value;
+  if (!text.trim() || generating) return;
+  input.value = '';
+  if (!ownKey && !keyDialogSeen) {
+    pendingMessage = text;
+    showKeyDialog();
+    return;
+  }
+  send(text);
+});
+
+newChatBtn.addEventListener('click', async () => {
+  await fetch('/api/new', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({session_id: sessionId}),
+  });
+  sessionId = makeId();
+  localStorage.setItem('jev_session', sessionId);
+  chat.innerHTML = '';
+  updateShare();
+  showEpigraph();
+  input.focus();
+});
+
+(async function restoreOrEpigraph() {
+  try {
+    const resp = await fetch('/api/history?session_id=' + encodeURIComponent(sessionId));
+    if (resp.ok) {
+      const data = await resp.json();
+      if (data.messages && data.messages.length) {
+        hideEpigraph();
+        const note = document.createElement('div');
+        note.className = 'restored-note';
+        note.textContent = 'restored from memory — may not survive restarts';
+        chat.appendChild(note);
+        for (const m of data.messages) addMessage(m.role === 'user' ? 'user' : 'jev', m.content);
+        updateShare();
+        chat.scrollTop = chat.scrollHeight;
+        fetchAbout();
+        input.focus();
+        return;
+      }
+    }
+  } catch (e) {}
+  showEpigraph();
+})();
+</script>
+</body>
+</html>

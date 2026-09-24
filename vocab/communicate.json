@@ -1,0 +1,391 @@
+{
+  "id": "communicate",
+  "label": "a communication word \u2014 say, tell, ask, talk, speak, write, read, call, explain, story",
+  "word_count": 96,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "advertising"
+    },
+    {
+      "type": "leaf",
+      "word": "announce"
+    },
+    {
+      "type": "leaf",
+      "word": "announcement"
+    },
+    {
+      "type": "leaf",
+      "word": "answer"
+    },
+    {
+      "type": "leaf",
+      "word": "argument"
+    },
+    {
+      "type": "leaf",
+      "word": "ask"
+    },
+    {
+      "type": "leaf",
+      "word": "asked"
+    },
+    {
+      "type": "leaf",
+      "word": "cable"
+    },
+    {
+      "type": "leaf",
+      "word": "call"
+    },
+    {
+      "type": "leaf",
+      "word": "called"
+    },
+    {
+      "type": "leaf",
+      "word": "chart"
+    },
+    {
+      "type": "leaf",
+      "word": "claim"
+    },
+    {
+      "type": "leaf",
+      "word": "clip"
+    },
+    {
+      "type": "leaf",
+      "word": "command"
+    },
+    {
+      "type": "leaf",
+      "word": "comment"
+    },
+    {
+      "type": "leaf",
+      "word": "communication"
+    },
+    {
+      "type": "leaf",
+      "word": "complain"
+    },
+    {
+      "type": "leaf",
+      "word": "conversation"
+    },
+    {
+      "type": "leaf",
+      "word": "cry"
+    },
+    {
+      "type": "leaf",
+      "word": "debate"
+    },
+    {
+      "type": "leaf",
+      "word": "demand"
+    },
+    {
+      "type": "leaf",
+      "word": "describe"
+    },
+    {
+      "type": "leaf",
+      "word": "description"
+    },
+    {
+      "type": "leaf",
+      "word": "direct"
+    },
+    {
+      "type": "leaf",
+      "word": "discuss"
+    },
+    {
+      "type": "leaf",
+      "word": "discussion"
+    },
+    {
+      "type": "leaf",
+      "word": "documents"
+    },
+    {
+      "type": "leaf",
+      "word": "explain"
+    },
+    {
+      "type": "leaf",
+      "word": "explanation"
+    },
+    {
+      "type": "leaf",
+      "word": "express"
+    },
+    {
+      "type": "leaf",
+      "word": "expression"
+    },
+    {
+      "type": "leaf",
+      "word": "feedback"
+    },
+    {
+      "type": "leaf",
+      "word": "footage"
+    },
+    {
+      "type": "leaf",
+      "word": "guide"
+    },
+    {
+      "type": "leaf",
+      "word": "indicate"
+    },
+    {
+      "type": "leaf",
+      "word": "information"
+    },
+    {
+      "type": "leaf",
+      "word": "interviews"
+    },
+    {
+      "type": "leaf",
+      "word": "invite"
+    },
+    {
+      "type": "leaf",
+      "word": "joke"
+    },
+    {
+      "type": "leaf",
+      "word": "language"
+    },
+    {
+      "type": "leaf",
+      "word": "laugh"
+    },
+    {
+      "type": "leaf",
+      "word": "meaning"
+    },
+    {
+      "type": "leaf",
+      "word": "meant"
+    },
+    {
+      "type": "leaf",
+      "word": "media"
+    },
+    {
+      "type": "leaf",
+      "word": "mention"
+    },
+    {
+      "type": "leaf",
+      "word": "message"
+    },
+    {
+      "type": "leaf",
+      "word": "name"
+    },
+    {
+      "type": "leaf",
+      "word": "named"
+    },
+    {
+      "type": "leaf",
+      "word": "news"
+    },
+    {
+      "type": "leaf",
+      "word": "note"
+    },
+    {
+      "type": "leaf",
+      "word": "order"
+    },
+    {
+      "type": "leaf",
+      "word": "poem"
+    },
+    {
+      "type": "leaf",
+      "word": "point"
+    },
+    {
+      "type": "leaf",
+      "word": "praise"
+    },
+    {
+      "type": "leaf",
+      "word": "press"
+    },
+    {
+      "type": "leaf",
+      "word": "promise"
+    },
+    {
+      "type": "leaf",
+      "word": "publications"
+    },
+    {
+      "type": "leaf",
+      "word": "question"
+    },
+    {
+      "type": "leaf",
+      "word": "quote"
+    },
+    {
+      "type": "leaf",
+      "word": "read"
+    },
+    {
+      "type": "leaf",
+      "word": "reading"
+    },
+    {
+      "type": "leaf",
+      "word": "recommend"
+    },
+    {
+      "type": "leaf",
+      "word": "refer"
+    },
+    {
+      "type": "leaf",
+      "word": "reply"
+    },
+    {
+      "type": "leaf",
+      "word": "report"
+    },
+    {
+      "type": "leaf",
+      "word": "request"
+    },
+    {
+      "type": "leaf",
+      "word": "respond"
+    },
+    {
+      "type": "leaf",
+      "word": "said"
+    },
+    {
+      "type": "leaf",
+      "word": "say"
+    },
+    {
+      "type": "leaf",
+      "word": "script"
+    },
+    {
+      "type": "leaf",
+      "word": "signal"
+    },
+    {
+      "type": "leaf",
+      "word": "smile"
+    },
+    {
+      "type": "leaf",
+      "word": "song"
+    },
+    {
+      "type": "leaf",
+      "word": "speak"
+    },
+    {
+      "type": "leaf",
+      "word": "speech"
+    },
+    {
+      "type": "leaf",
+      "word": "spoke"
+    },
+    {
+      "type": "leaf",
+      "word": "spoken"
+    },
+    {
+      "type": "leaf",
+      "word": "state"
+    },
+    {
+      "type": "leaf",
+      "word": "statement"
+    },
+    {
+      "type": "leaf",
+      "word": "stories"
+    },
+    {
+      "type": "leaf",
+      "word": "story"
+    },
+    {
+      "type": "leaf",
+      "word": "suggest"
+    },
+    {
+      "type": "leaf",
+      "word": "talk"
+    },
+    {
+      "type": "leaf",
+      "word": "talked"
+    },
+    {
+      "type": "leaf",
+      "word": "teach"
+    },
+    {
+      "type": "leaf",
+      "word": "tell"
+    },
+    {
+      "type": "leaf",
+      "word": "texts"
+    },
+    {
+      "type": "leaf",
+      "word": "thread"
+    },
+    {
+      "type": "leaf",
+      "word": "told"
+    },
+    {
+      "type": "leaf",
+      "word": "voice"
+    },
+    {
+      "type": "leaf",
+      "word": "word"
+    },
+    {
+      "type": "leaf",
+      "word": "words"
+    },
+    {
+      "type": "leaf",
+      "word": "write"
+    },
+    {
+      "type": "leaf",
+      "word": "writing"
+    },
+    {
+      "type": "leaf",
+      "word": "written"
+    },
+    {
+      "type": "leaf",
+      "word": "wrote"
+    }
+  ]
+}

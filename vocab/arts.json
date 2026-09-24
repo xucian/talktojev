@@ -1,0 +1,271 @@
+{
+  "id": "arts",
+  "label": "an arts or entertainment word \u2014 art, music, film, movie, game, sport, song, story",
+  "word_count": 66,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "actor"
+    },
+    {
+      "type": "leaf",
+      "word": "actress"
+    },
+    {
+      "type": "leaf",
+      "word": "adventure"
+    },
+    {
+      "type": "leaf",
+      "word": "album"
+    },
+    {
+      "type": "leaf",
+      "word": "arts"
+    },
+    {
+      "type": "leaf",
+      "word": "award"
+    },
+    {
+      "type": "leaf",
+      "word": "band"
+    },
+    {
+      "type": "leaf",
+      "word": "baseball"
+    },
+    {
+      "type": "leaf",
+      "word": "basketball"
+    },
+    {
+      "type": "leaf",
+      "word": "blog"
+    },
+    {
+      "type": "leaf",
+      "word": "broadcast"
+    },
+    {
+      "type": "leaf",
+      "word": "celebrity"
+    },
+    {
+      "type": "leaf",
+      "word": "championship"
+    },
+    {
+      "type": "leaf",
+      "word": "channel"
+    },
+    {
+      "type": "leaf",
+      "word": "collection"
+    },
+    {
+      "type": "leaf",
+      "word": "comedy"
+    },
+    {
+      "type": "leaf",
+      "word": "concert"
+    },
+    {
+      "type": "leaf",
+      "word": "designer"
+    },
+    {
+      "type": "leaf",
+      "word": "director"
+    },
+    {
+      "type": "leaf",
+      "word": "drama"
+    },
+    {
+      "type": "leaf",
+      "word": "edition"
+    },
+    {
+      "type": "leaf",
+      "word": "entertainment"
+    },
+    {
+      "type": "leaf",
+      "word": "episode"
+    },
+    {
+      "type": "leaf",
+      "word": "exhibition"
+    },
+    {
+      "type": "leaf",
+      "word": "fantasy"
+    },
+    {
+      "type": "leaf",
+      "word": "fiction"
+    },
+    {
+      "type": "leaf",
+      "word": "films"
+    },
+    {
+      "type": "leaf",
+      "word": "football"
+    },
+    {
+      "type": "leaf",
+      "word": "gallery"
+    },
+    {
+      "type": "leaf",
+      "word": "gaming"
+    },
+    {
+      "type": "leaf",
+      "word": "golf"
+    },
+    {
+      "type": "leaf",
+      "word": "guitar"
+    },
+    {
+      "type": "leaf",
+      "word": "hockey"
+    },
+    {
+      "type": "leaf",
+      "word": "horror"
+    },
+    {
+      "type": "leaf",
+      "word": "instrument"
+    },
+    {
+      "type": "leaf",
+      "word": "journal"
+    },
+    {
+      "type": "leaf",
+      "word": "journalist"
+    },
+    {
+      "type": "leaf",
+      "word": "league"
+    },
+    {
+      "type": "leaf",
+      "word": "legend"
+    },
+    {
+      "type": "leaf",
+      "word": "literature"
+    },
+    {
+      "type": "leaf",
+      "word": "magazine"
+    },
+    {
+      "type": "leaf",
+      "word": "magic"
+    },
+    {
+      "type": "leaf",
+      "word": "medal"
+    },
+    {
+      "type": "leaf",
+      "word": "musical"
+    },
+    {
+      "type": "leaf",
+      "word": "newspaper"
+    },
+    {
+      "type": "leaf",
+      "word": "novel"
+    },
+    {
+      "type": "leaf",
+      "word": "opera"
+    },
+    {
+      "type": "leaf",
+      "word": "photographer"
+    },
+    {
+      "type": "leaf",
+      "word": "photography"
+    },
+    {
+      "type": "leaf",
+      "word": "piano"
+    },
+    {
+      "type": "leaf",
+      "word": "plot"
+    },
+    {
+      "type": "leaf",
+      "word": "poetry"
+    },
+    {
+      "type": "leaf",
+      "word": "prize"
+    },
+    {
+      "type": "leaf",
+      "word": "producer"
+    },
+    {
+      "type": "leaf",
+      "word": "racing"
+    },
+    {
+      "type": "leaf",
+      "word": "singer"
+    },
+    {
+      "type": "leaf",
+      "word": "soccer"
+    },
+    {
+      "type": "leaf",
+      "word": "songs"
+    },
+    {
+      "type": "leaf",
+      "word": "sport"
+    },
+    {
+      "type": "leaf",
+      "word": "sports"
+    },
+    {
+      "type": "leaf",
+      "word": "studio"
+    },
+    {
+      "type": "leaf",
+      "word": "swimming"
+    },
+    {
+      "type": "leaf",
+      "word": "tale"
+    },
+    {
+      "type": "leaf",
+      "word": "tennis"
+    },
+    {
+      "type": "leaf",
+      "word": "tournament"
+    },
+    {
+      "type": "leaf",
+      "word": "toy"
+    }
+  ]
+}

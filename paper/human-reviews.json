@@ -1,0 +1,1502 @@
+[
+  {
+    "session": "r3nr5dap9l1",
+    "ratings": [
+      {
+        "t": 1790093414,
+        "rater": "Lucian",
+        "item": "r43",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790093414,
+        "rater": "Lucian",
+        "item": "r62",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790093414,
+        "rater": "Lucian",
+        "card": "v1",
+        "best": "r62"
+      },
+      {
+        "t": 1790093455,
+        "rater": "Lucian",
+        "item": "r61",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790093455,
+        "rater": "Lucian",
+        "item": "r72",
+        "naturalness": 5,
+        "relevance": 1
+      },
+      {
+        "t": 1790093455,
+        "rater": "Lucian",
+        "card": "v16",
+        "best": "r61"
+      },
+      {
+        "t": 1790095803,
+        "rater": "Lucian",
+        "item": "r8",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790095803,
+        "rater": "Lucian",
+        "item": "r34",
+        "naturalness": 4,
+        "relevance": 4
+      },
+      {
+        "t": 1790095803,
+        "rater": "Lucian",
+        "card": "v13",
+        "best": null
+      },
+      {
+        "t": 1790095843,
+        "rater": "Lucian",
+        "item": "r33",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790095843,
+        "rater": "Lucian",
+        "item": "r60",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790095843,
+        "rater": "Lucian",
+        "item": "r66",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790095843,
+        "rater": "Lucian",
+        "card": "v6",
+        "best": "r60"
+      },
+      {
+        "t": 1790095869,
+        "rater": "Lucian",
+        "item": "r44",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790095869,
+        "rater": "Lucian",
+        "item": "r49",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790095869,
+        "rater": "Lucian",
+        "card": "s5",
+        "best": "r44"
+      },
+      {
+        "t": 1790095881,
+        "rater": "Lucian",
+        "item": "r10",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790095881,
+        "rater": "Lucian",
+        "item": "r13",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790095881,
+        "rater": "Lucian",
+        "card": "s2",
+        "best": "r13"
+      },
+      {
+        "t": 1790095909,
+        "rater": "Lucian",
+        "item": "r2",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790095909,
+        "rater": "Lucian",
+        "item": "r3",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790095909,
+        "rater": "Lucian",
+        "item": "r19",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790095909,
+        "rater": "Lucian",
+        "item": "r58",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790095909,
+        "rater": "Lucian",
+        "card": "s3+v3",
+        "best": "r19"
+      },
+      {
+        "t": 1790096193,
+        "rater": "Lucian",
+        "item": "r46",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096193,
+        "rater": "Lucian",
+        "item": "r71",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096193,
+        "rater": "Lucian",
+        "card": "s1",
+        "best": "r71"
+      },
+      {
+        "t": 1790096206,
+        "rater": "Lucian",
+        "item": "r37",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096206,
+        "rater": "Lucian",
+        "card": "v12",
+        "best": null
+      },
+      {
+        "t": 1790096292,
+        "rater": "Lucian",
+        "item": "r5",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096292,
+        "rater": "Lucian",
+        "item": "r36",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096292,
+        "rater": "Lucian",
+        "card": "v11",
+        "best": "r5"
+      },
+      {
+        "t": 1790096363,
+        "rater": "Lucian",
+        "item": "r12",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096363,
+        "rater": "Lucian",
+        "item": "r45",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790096363,
+        "rater": "Lucian",
+        "card": "s7",
+        "best": "r12"
+      },
+      {
+        "t": 1790096384,
+        "rater": "Lucian",
+        "item": "r28",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096384,
+        "rater": "Lucian",
+        "item": "r56",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096384,
+        "rater": "Lucian",
+        "card": "v7",
+        "best": "r28"
+      },
+      {
+        "t": 1790096392,
+        "rater": "Lucian",
+        "item": "r4",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096392,
+        "rater": "Lucian",
+        "item": "r68",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096392,
+        "rater": "Lucian",
+        "card": "v14",
+        "best": null
+      },
+      {
+        "t": 1790096409,
+        "rater": "Lucian",
+        "item": "r9",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096409,
+        "rater": "Lucian",
+        "item": "r52",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096409,
+        "rater": "Lucian",
+        "card": "s4",
+        "best": "r9"
+      },
+      {
+        "t": 1790096614,
+        "rater": "Lucian",
+        "item": "r40",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096614,
+        "rater": "Lucian",
+        "item": "r67",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096614,
+        "rater": "Lucian",
+        "card": "v5",
+        "best": null
+      },
+      {
+        "t": 1790096626,
+        "rater": "Lucian",
+        "item": "r14",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096626,
+        "rater": "Lucian",
+        "item": "r42",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096626,
+        "rater": "Lucian",
+        "card": "v9",
+        "best": "r42"
+      },
+      {
+        "t": 1790096652,
+        "rater": "Lucian",
+        "item": "r20",
+        "naturalness": 5,
+        "relevance": 3
+      },
+      {
+        "t": 1790096652,
+        "rater": "Lucian",
+        "item": "r22",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096652,
+        "rater": "Lucian",
+        "item": "r63",
+        "naturalness": 3,
+        "relevance": 2
+      },
+      {
+        "t": 1790096652,
+        "rater": "Lucian",
+        "card": "s8",
+        "best": "r22"
+      },
+      {
+        "t": 1790096662,
+        "rater": "Lucian",
+        "item": "r51",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096662,
+        "rater": "Lucian",
+        "item": "r59",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096662,
+        "rater": "Lucian",
+        "card": "v8",
+        "best": "r59"
+      },
+      {
+        "t": 1790096672,
+        "rater": "Lucian",
+        "item": "r1",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096672,
+        "rater": "Lucian",
+        "item": "r47",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096672,
+        "rater": "Lucian",
+        "card": "v2",
+        "best": "r47"
+      },
+      {
+        "t": 1790096703,
+        "rater": "Lucian",
+        "item": "r6",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096703,
+        "rater": "Lucian",
+        "item": "r17",
+        "naturalness": 1,
+        "relevance": 2
+      },
+      {
+        "t": 1790096703,
+        "rater": "Lucian",
+        "item": "r39",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096703,
+        "rater": "Lucian",
+        "card": "s6",
+        "best": "r39"
+      },
+      {
+        "t": 1790096739,
+        "rater": "Lucian",
+        "item": "r16",
+        "naturalness": 4,
+        "relevance": 4
+      },
+      {
+        "t": 1790096739,
+        "rater": "Lucian",
+        "item": "r24",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096739,
+        "rater": "Lucian",
+        "card": "v4",
+        "best": "r24"
+      },
+      {
+        "t": 1790096753,
+        "rater": "Lucian",
+        "item": "r7",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790096753,
+        "rater": "Lucian",
+        "item": "r21",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096753,
+        "rater": "Lucian",
+        "card": "v15",
+        "best": "r21"
+      },
+      {
+        "t": 1790096859,
+        "rater": "Lucian",
+        "item": "r27",
+        "naturalness": 5,
+        "relevance": 4
+      },
+      {
+        "t": 1790096859,
+        "rater": "Lucian",
+        "item": "r32",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790096859,
+        "rater": "Lucian",
+        "item": "r35",
+        "naturalness": 3,
+        "relevance": 3
+      },
+      {
+        "t": 1790096859,
+        "rater": "Lucian",
+        "card": "v10",
+        "best": "r32"
+      }
+    ]
+  },
+  {
+    "session": "raqobsheybd",
+    "ratings": [
+      {
+        "t": 1790257892,
+        "rater": "Mike",
+        "item": "r44",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790257892,
+        "rater": "Mike",
+        "item": "r49",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790257892,
+        "rater": "Mike",
+        "card": "s5",
+        "best": "r49"
+      },
+      {
+        "t": 1790257909,
+        "rater": "Mike",
+        "item": "r28",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790257909,
+        "rater": "Mike",
+        "item": "r56",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257909,
+        "rater": "Mike",
+        "card": "v7",
+        "best": "r28"
+      },
+      {
+        "t": 1790257913,
+        "rater": "Mike",
+        "item": "r4",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257913,
+        "rater": "Mike",
+        "item": "r68",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257913,
+        "rater": "Mike",
+        "card": "v14",
+        "best": null
+      },
+      {
+        "t": 1790257917,
+        "rater": "Mike",
+        "item": "r7",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257917,
+        "rater": "Mike",
+        "item": "r21",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257917,
+        "rater": "Mike",
+        "card": "v15",
+        "best": null
+      },
+      {
+        "t": 1790257921,
+        "rater": "Mike",
+        "item": "r14",
+        "naturalness": 4,
+        "relevance": 3
+      },
+      {
+        "t": 1790257921,
+        "rater": "Mike",
+        "item": "r42",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257921,
+        "rater": "Mike",
+        "card": "v9",
+        "best": "r42"
+      },
+      {
+        "t": 1790257926,
+        "rater": "Mike",
+        "item": "r43",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790257926,
+        "rater": "Mike",
+        "item": "r62",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257926,
+        "rater": "Mike",
+        "card": "v1",
+        "best": "r62"
+      },
+      {
+        "t": 1790257941,
+        "rater": "Mike",
+        "item": "r8",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790257941,
+        "rater": "Mike",
+        "item": "r34",
+        "naturalness": 2,
+        "relevance": 3
+      },
+      {
+        "t": 1790257941,
+        "rater": "Mike",
+        "card": "v13",
+        "best": null
+      },
+      {
+        "t": 1790257947,
+        "rater": "Mike",
+        "item": "r9",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257947,
+        "rater": "Mike",
+        "item": "r52",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790257947,
+        "rater": "Mike",
+        "card": "s4",
+        "best": "r9"
+      },
+      {
+        "t": 1790257954,
+        "rater": "Mike",
+        "item": "r27",
+        "naturalness": 4,
+        "relevance": 3
+      },
+      {
+        "t": 1790257954,
+        "rater": "Mike",
+        "item": "r32",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257954,
+        "rater": "Mike",
+        "item": "r35",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790257954,
+        "rater": "Mike",
+        "card": "v10",
+        "best": "r32"
+      },
+      {
+        "t": 1790257960,
+        "rater": "Mike",
+        "item": "r12",
+        "naturalness": 2,
+        "relevance": 3
+      },
+      {
+        "t": 1790257960,
+        "rater": "Mike",
+        "item": "r45",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790257960,
+        "rater": "Mike",
+        "card": "s7",
+        "best": "r45"
+      },
+      {
+        "t": 1790257965,
+        "rater": "Mike",
+        "item": "r2",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790257965,
+        "rater": "Mike",
+        "item": "r3",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790257965,
+        "rater": "Mike",
+        "item": "r19",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257965,
+        "rater": "Mike",
+        "item": "r58",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257965,
+        "rater": "Mike",
+        "card": "s3+v3",
+        "best": "r19"
+      },
+      {
+        "t": 1790257969,
+        "rater": "Mike",
+        "item": "r10",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790257969,
+        "rater": "Mike",
+        "item": "r13",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257969,
+        "rater": "Mike",
+        "card": "s2",
+        "best": "r13"
+      },
+      {
+        "t": 1790257975,
+        "rater": "Mike",
+        "item": "r20",
+        "naturalness": 2,
+        "relevance": 2
+      },
+      {
+        "t": 1790257975,
+        "rater": "Mike",
+        "item": "r22",
+        "naturalness": 4,
+        "relevance": 4
+      },
+      {
+        "t": 1790257975,
+        "rater": "Mike",
+        "item": "r63",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790257975,
+        "rater": "Mike",
+        "card": "s8",
+        "best": "r22"
+      },
+      {
+        "t": 1790257980,
+        "rater": "Mike",
+        "item": "r5",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790257980,
+        "rater": "Mike",
+        "item": "r36",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790257980,
+        "rater": "Mike",
+        "card": "v11",
+        "best": "r5"
+      },
+      {
+        "t": 1790257984,
+        "rater": "Mike",
+        "item": "r1",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257984,
+        "rater": "Mike",
+        "item": "r47",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790257984,
+        "rater": "Mike",
+        "card": "v2",
+        "best": null
+      },
+      {
+        "t": 1790257990,
+        "rater": "Mike",
+        "item": "r51",
+        "naturalness": 3,
+        "relevance": 4
+      },
+      {
+        "t": 1790257990,
+        "rater": "Mike",
+        "item": "r59",
+        "naturalness": 3,
+        "relevance": 3
+      },
+      {
+        "t": 1790257990,
+        "rater": "Mike",
+        "card": "v8",
+        "best": "r51"
+      },
+      {
+        "t": 1790257995,
+        "rater": "Mike",
+        "item": "r46",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790257995,
+        "rater": "Mike",
+        "item": "r71",
+        "naturalness": 3,
+        "relevance": 4
+      },
+      {
+        "t": 1790257995,
+        "rater": "Mike",
+        "card": "s1",
+        "best": "r71"
+      },
+      {
+        "t": 1790258000,
+        "rater": "Mike",
+        "item": "r6",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790258000,
+        "rater": "Mike",
+        "item": "r17",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790258000,
+        "rater": "Mike",
+        "item": "r39",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790258000,
+        "rater": "Mike",
+        "card": "s6",
+        "best": "r6"
+      },
+      {
+        "t": 1790258005,
+        "rater": "Mike",
+        "item": "r40",
+        "naturalness": 3,
+        "relevance": 4
+      },
+      {
+        "t": 1790258005,
+        "rater": "Mike",
+        "item": "r67",
+        "naturalness": 3,
+        "relevance": 4
+      },
+      {
+        "t": 1790258005,
+        "rater": "Mike",
+        "card": "v5",
+        "best": null
+      },
+      {
+        "t": 1790258010,
+        "rater": "Mike",
+        "item": "r33",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790258010,
+        "rater": "Mike",
+        "item": "r60",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790258010,
+        "rater": "Mike",
+        "item": "r66",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790258010,
+        "rater": "Mike",
+        "card": "v6",
+        "best": "r60"
+      },
+      {
+        "t": 1790258018,
+        "rater": "Mike",
+        "item": "r61",
+        "naturalness": 3,
+        "relevance": 4
+      },
+      {
+        "t": 1790258018,
+        "rater": "Mike",
+        "item": "r72",
+        "naturalness": 4,
+        "relevance": 5
+      },
+      {
+        "t": 1790258018,
+        "rater": "Mike",
+        "card": "v16",
+        "best": "r72"
+      },
+      {
+        "t": 1790258023,
+        "rater": "Mike",
+        "item": "r16",
+        "naturalness": 3,
+        "relevance": 3
+      },
+      {
+        "t": 1790258023,
+        "rater": "Mike",
+        "item": "r24",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790258023,
+        "rater": "Mike",
+        "card": "v4",
+        "best": "r24"
+      },
+      {
+        "t": 1790258028,
+        "rater": "Mike",
+        "item": "r37",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790258028,
+        "rater": "Mike",
+        "card": "v12",
+        "best": null
+      }
+    ]
+  },
+  {
+    "session": "rsnqwes8orx",
+    "ratings": [
+      {
+        "t": 1790251952,
+        "rater": "Denisa",
+        "item": "r33",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790251952,
+        "rater": "Denisa",
+        "item": "r60",
+        "naturalness": 1,
+        "relevance": 2
+      },
+      {
+        "t": 1790251952,
+        "rater": "Denisa",
+        "item": "r66",
+        "naturalness": 1,
+        "relevance": 3
+      },
+      {
+        "t": 1790251952,
+        "rater": "Denisa",
+        "card": "v6",
+        "best": "r33"
+      },
+      {
+        "t": 1790251980,
+        "rater": "Denisa",
+        "item": "r37",
+        "naturalness": 3,
+        "relevance": 2
+      },
+      {
+        "t": 1790251980,
+        "rater": "Denisa",
+        "card": "v12",
+        "best": null
+      },
+      {
+        "t": 1790252027,
+        "rater": "Denisa",
+        "item": "r44",
+        "naturalness": 3,
+        "relevance": 4
+      },
+      {
+        "t": 1790252027,
+        "rater": "Denisa",
+        "item": "r49",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252027,
+        "rater": "Denisa",
+        "card": "s5",
+        "best": "r49"
+      },
+      {
+        "t": 1790252038,
+        "rater": "Denisa",
+        "item": "r10",
+        "naturalness": 2,
+        "relevance": 3
+      },
+      {
+        "t": 1790252038,
+        "rater": "Denisa",
+        "item": "r13",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252038,
+        "rater": "Denisa",
+        "card": "s2",
+        "best": "r13"
+      },
+      {
+        "t": 1790252047,
+        "rater": "Denisa",
+        "item": "r40",
+        "naturalness": 5,
+        "relevance": 3
+      },
+      {
+        "t": 1790252047,
+        "rater": "Denisa",
+        "item": "r67",
+        "naturalness": 5,
+        "relevance": 3
+      },
+      {
+        "t": 1790252047,
+        "rater": "Denisa",
+        "card": "v5",
+        "best": null
+      },
+      {
+        "t": 1790252069,
+        "rater": "Denisa",
+        "item": "r51",
+        "naturalness": 2,
+        "relevance": 3
+      },
+      {
+        "t": 1790252069,
+        "rater": "Denisa",
+        "item": "r59",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252069,
+        "rater": "Denisa",
+        "card": "v8",
+        "best": "r59"
+      },
+      {
+        "t": 1790252086,
+        "rater": "Denisa",
+        "item": "r20",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790252086,
+        "rater": "Denisa",
+        "item": "r22",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252086,
+        "rater": "Denisa",
+        "item": "r63",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790252086,
+        "rater": "Denisa",
+        "card": "s8",
+        "best": "r22"
+      },
+      {
+        "t": 1790252100,
+        "rater": "Denisa",
+        "item": "r7",
+        "naturalness": 3,
+        "relevance": 3
+      },
+      {
+        "t": 1790252100,
+        "rater": "Denisa",
+        "item": "r21",
+        "naturalness": 3,
+        "relevance": 3
+      },
+      {
+        "t": 1790252100,
+        "rater": "Denisa",
+        "card": "v15",
+        "best": null
+      },
+      {
+        "t": 1790252116,
+        "rater": "Denisa",
+        "item": "r27",
+        "naturalness": 1,
+        "relevance": 5
+      },
+      {
+        "t": 1790252116,
+        "rater": "Denisa",
+        "item": "r32",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252116,
+        "rater": "Denisa",
+        "item": "r35",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790252116,
+        "rater": "Denisa",
+        "card": "v10",
+        "best": "r32"
+      },
+      {
+        "t": 1790252139,
+        "rater": "Denisa",
+        "item": "r46",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252139,
+        "rater": "Denisa",
+        "item": "r71",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252139,
+        "rater": "Denisa",
+        "card": "s1",
+        "best": null
+      },
+      {
+        "t": 1790252147,
+        "rater": "Denisa",
+        "item": "r1",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252147,
+        "rater": "Denisa",
+        "item": "r47",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252147,
+        "rater": "Denisa",
+        "card": "v2",
+        "best": null
+      },
+      {
+        "t": 1790252165,
+        "rater": "Denisa",
+        "item": "r61",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252165,
+        "rater": "Denisa",
+        "item": "r72",
+        "naturalness": 5,
+        "relevance": 2
+      },
+      {
+        "t": 1790252165,
+        "rater": "Denisa",
+        "card": "v16",
+        "best": "r61"
+      },
+      {
+        "t": 1790252206,
+        "rater": "Denisa",
+        "item": "r14",
+        "naturalness": 5,
+        "relevance": 1
+      },
+      {
+        "t": 1790252206,
+        "rater": "Denisa",
+        "item": "r42",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252206,
+        "rater": "Denisa",
+        "card": "v9",
+        "best": "r42"
+      },
+      {
+        "t": 1790252215,
+        "rater": "Denisa",
+        "item": "r43",
+        "naturalness": 1,
+        "relevance": 5
+      },
+      {
+        "t": 1790252215,
+        "rater": "Denisa",
+        "item": "r62",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252215,
+        "rater": "Denisa",
+        "card": "v1",
+        "best": "r62"
+      },
+      {
+        "t": 1790252235,
+        "rater": "Denisa",
+        "item": "r12",
+        "naturalness": 5,
+        "relevance": 2
+      },
+      {
+        "t": 1790252235,
+        "rater": "Denisa",
+        "item": "r45",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252235,
+        "rater": "Denisa",
+        "card": "s7",
+        "best": "r45"
+      },
+      {
+        "t": 1790252256,
+        "rater": "Denisa",
+        "item": "r9",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252256,
+        "rater": "Denisa",
+        "item": "r52",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790252256,
+        "rater": "Denisa",
+        "card": "s4",
+        "best": "r9"
+      },
+      {
+        "t": 1790252270,
+        "rater": "Denisa",
+        "item": "r8",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790252270,
+        "rater": "Denisa",
+        "item": "r34",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252270,
+        "rater": "Denisa",
+        "card": "v13",
+        "best": null
+      },
+      {
+        "t": 1790252292,
+        "rater": "Denisa",
+        "item": "r5",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252292,
+        "rater": "Denisa",
+        "item": "r36",
+        "naturalness": 3,
+        "relevance": 1
+      },
+      {
+        "t": 1790252292,
+        "rater": "Denisa",
+        "card": "v11",
+        "best": "r5"
+      },
+      {
+        "t": 1790252306,
+        "rater": "Denisa",
+        "item": "r16",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790252306,
+        "rater": "Denisa",
+        "item": "r24",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252306,
+        "rater": "Denisa",
+        "card": "v4",
+        "best": "r24"
+      },
+      {
+        "t": 1790252351,
+        "rater": "Denisa",
+        "item": "r28",
+        "naturalness": 2,
+        "relevance": 4
+      },
+      {
+        "t": 1790252351,
+        "rater": "Denisa",
+        "item": "r56",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252351,
+        "rater": "Denisa",
+        "card": "v7",
+        "best": "r56"
+      },
+      {
+        "t": 1790252369,
+        "rater": "Denisa",
+        "item": "r6",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252369,
+        "rater": "Denisa",
+        "item": "r17",
+        "naturalness": 1,
+        "relevance": 1
+      },
+      {
+        "t": 1790252369,
+        "rater": "Denisa",
+        "item": "r39",
+        "naturalness": 1,
+        "relevance": 5
+      },
+      {
+        "t": 1790252369,
+        "rater": "Denisa",
+        "card": "s6",
+        "best": "r6"
+      },
+      {
+        "t": 1790252799,
+        "rater": "Denisa",
+        "item": "r2",
+        "naturalness": 1,
+        "relevance": 5
+      },
+      {
+        "t": 1790252799,
+        "rater": "Denisa",
+        "item": "r3",
+        "naturalness": 1,
+        "relevance": 5
+      },
+      {
+        "t": 1790252799,
+        "rater": "Denisa",
+        "item": "r19",
+        "naturalness": 3,
+        "relevance": 5
+      },
+      {
+        "t": 1790252799,
+        "rater": "Denisa",
+        "item": "r58",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252799,
+        "rater": "Denisa",
+        "card": "s3+v3",
+        "best": "r58"
+      },
+      {
+        "t": 1790252815,
+        "rater": "Denisa",
+        "item": "r4",
+        "naturalness": 5,
+        "relevance": 5
+      },
+      {
+        "t": 1790252815,
+        "rater": "Denisa",
+        "item": "r68",
+        "naturalness": 5,
+        "relevance": 1
+      },
+      {
+        "t": 1790252815,
+        "rater": "Denisa",
+        "card": "v14",
+        "best": "r4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "work",
+  "label": "a work or career word \u2014 job, office, company, employee, manager, boss, project, meeting, hire, professional",
+  "word_count": 26,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "bonus"
+    },
+    {
+      "type": "leaf",
+      "word": "businesses"
+    },
+    {
+      "type": "leaf",
+      "word": "corporation"
+    },
+    {
+      "type": "leaf",
+      "word": "crew"
+    },
+    {
+      "type": "leaf",
+      "word": "efficiency"
+    },
+    {
+      "type": "leaf",
+      "word": "employees"
+    },
+    {
+      "type": "leaf",
+      "word": "employer"
+    },
+    {
+      "type": "leaf",
+      "word": "employers"
+    },
+    {
+      "type": "leaf",
+      "word": "factory"
+    },
+    {
+      "type": "leaf",
+      "word": "fired"
+    },
+    {
+      "type": "leaf",
+      "word": "firm"
+    },
+    {
+      "type": "leaf",
+      "word": "firms"
+    },
+    {
+      "type": "leaf",
+      "word": "hire"
+    },
+    {
+      "type": "leaf",
+      "word": "hired"
+    },
+    {
+      "type": "leaf",
+      "word": "hiring"
+    },
+    {
+      "type": "leaf",
+      "word": "industries"
+    },
+    {
+      "type": "leaf",
+      "word": "interview"
+    },
+    {
+      "type": "leaf",
+      "word": "managers"
+    },
+    {
+      "type": "leaf",
+      "word": "meetings"
+    },
+    {
+      "type": "leaf",
+      "word": "offices"
+    },
+    {
+      "type": "leaf",
+      "word": "promotion"
+    },
+    {
+      "type": "leaf",
+      "word": "retired"
+    },
+    {
+      "type": "leaf",
+      "word": "shift"
+    },
+    {
+      "type": "leaf",
+      "word": "tasks"
+    },
+    {
+      "type": "leaf",
+      "word": "unemployment"
+    },
+    {
+      "type": "leaf",
+      "word": "working"
+    }
+  ]
+}

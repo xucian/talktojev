@@ -1,0 +1,127 @@
+{
+  "id": "military",
+  "label": "a conflict or military word \u2014 war, army, soldier, battle, attack, weapon, enemy, defense, troops, combat",
+  "word_count": 30,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "alliance"
+    },
+    {
+      "type": "leaf",
+      "word": "allies"
+    },
+    {
+      "type": "leaf",
+      "word": "armed"
+    },
+    {
+      "type": "leaf",
+      "word": "attacks"
+    },
+    {
+      "type": "leaf",
+      "word": "bomb"
+    },
+    {
+      "type": "leaf",
+      "word": "bullet"
+    },
+    {
+      "type": "leaf",
+      "word": "captain"
+    },
+    {
+      "type": "leaf",
+      "word": "colonel"
+    },
+    {
+      "type": "leaf",
+      "word": "combat"
+    },
+    {
+      "type": "leaf",
+      "word": "commander"
+    },
+    {
+      "type": "leaf",
+      "word": "defeat"
+    },
+    {
+      "type": "leaf",
+      "word": "enemies"
+    },
+    {
+      "type": "leaf",
+      "word": "fighting"
+    },
+    {
+      "type": "leaf",
+      "word": "forces"
+    },
+    {
+      "type": "leaf",
+      "word": "fought"
+    },
+    {
+      "type": "leaf",
+      "word": "guns"
+    },
+    {
+      "type": "leaf",
+      "word": "invasion"
+    },
+    {
+      "type": "leaf",
+      "word": "lieutenant"
+    },
+    {
+      "type": "leaf",
+      "word": "marine"
+    },
+    {
+      "type": "leaf",
+      "word": "navy"
+    },
+    {
+      "type": "leaf",
+      "word": "officers"
+    },
+    {
+      "type": "leaf",
+      "word": "protection"
+    },
+    {
+      "type": "leaf",
+      "word": "soldiers"
+    },
+    {
+      "type": "leaf",
+      "word": "tank"
+    },
+    {
+      "type": "leaf",
+      "word": "terrorism"
+    },
+    {
+      "type": "leaf",
+      "word": "terrorist"
+    },
+    {
+      "type": "leaf",
+      "word": "troops"
+    },
+    {
+      "type": "leaf",
+      "word": "victory"
+    },
+    {
+      "type": "leaf",
+      "word": "violent"
+    },
+    {
+      "type": "leaf",
+      "word": "weapons"
+    }
+  ]
+}

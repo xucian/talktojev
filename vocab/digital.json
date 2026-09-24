@@ -1,0 +1,127 @@
+{
+  "id": "digital",
+  "label": "a technology or internet word \u2014 computer, software, app, website, data, online, code, email, screen, network",
+  "word_count": 30,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "app"
+    },
+    {
+      "type": "leaf",
+      "word": "application"
+    },
+    {
+      "type": "leaf",
+      "word": "applications"
+    },
+    {
+      "type": "leaf",
+      "word": "apps"
+    },
+    {
+      "type": "leaf",
+      "word": "audio"
+    },
+    {
+      "type": "leaf",
+      "word": "cameras"
+    },
+    {
+      "type": "leaf",
+      "word": "click"
+    },
+    {
+      "type": "leaf",
+      "word": "cloud"
+    },
+    {
+      "type": "leaf",
+      "word": "computers"
+    },
+    {
+      "type": "leaf",
+      "word": "devices"
+    },
+    {
+      "type": "leaf",
+      "word": "display"
+    },
+    {
+      "type": "leaf",
+      "word": "download"
+    },
+    {
+      "type": "leaf",
+      "word": "emails"
+    },
+    {
+      "type": "leaf",
+      "word": "files"
+    },
+    {
+      "type": "leaf",
+      "word": "laptop"
+    },
+    {
+      "type": "leaf",
+      "word": "link"
+    },
+    {
+      "type": "leaf",
+      "word": "links"
+    },
+    {
+      "type": "leaf",
+      "word": "messages"
+    },
+    {
+      "type": "leaf",
+      "word": "monitor"
+    },
+    {
+      "type": "leaf",
+      "word": "networks"
+    },
+    {
+      "type": "leaf",
+      "word": "phones"
+    },
+    {
+      "type": "leaf",
+      "word": "platform"
+    },
+    {
+      "type": "leaf",
+      "word": "programming"
+    },
+    {
+      "type": "leaf",
+      "word": "storage"
+    },
+    {
+      "type": "leaf",
+      "word": "streaming"
+    },
+    {
+      "type": "leaf",
+      "word": "tech"
+    },
+    {
+      "type": "leaf",
+      "word": "update"
+    },
+    {
+      "type": "leaf",
+      "word": "user"
+    },
+    {
+      "type": "leaf",
+      "word": "users"
+    },
+    {
+      "type": "leaf",
+      "word": "web"
+    }
+  ]
+}

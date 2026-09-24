@@ -1,0 +1,527 @@
+{
+  "id": "object",
+  "label": "an object or thing \u2014 thing, book, car, phone, tool, device, machine, food, clothes",
+  "word_count": 130,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "art"
+    },
+    {
+      "type": "leaf",
+      "word": "bag"
+    },
+    {
+      "type": "leaf",
+      "word": "ball"
+    },
+    {
+      "type": "leaf",
+      "word": "bank"
+    },
+    {
+      "type": "leaf",
+      "word": "banks"
+    },
+    {
+      "type": "leaf",
+      "word": "bed"
+    },
+    {
+      "type": "leaf",
+      "word": "beer"
+    },
+    {
+      "type": "leaf",
+      "word": "belt"
+    },
+    {
+      "type": "leaf",
+      "word": "bill"
+    },
+    {
+      "type": "leaf",
+      "word": "bills"
+    },
+    {
+      "type": "leaf",
+      "word": "bit"
+    },
+    {
+      "type": "leaf",
+      "word": "boat"
+    },
+    {
+      "type": "leaf",
+      "word": "book"
+    },
+    {
+      "type": "leaf",
+      "word": "books"
+    },
+    {
+      "type": "leaf",
+      "word": "bottle"
+    },
+    {
+      "type": "leaf",
+      "word": "box"
+    },
+    {
+      "type": "leaf",
+      "word": "bread"
+    },
+    {
+      "type": "leaf",
+      "word": "bus"
+    },
+    {
+      "type": "leaf",
+      "word": "cake"
+    },
+    {
+      "type": "leaf",
+      "word": "camera"
+    },
+    {
+      "type": "leaf",
+      "word": "cannot"
+    },
+    {
+      "type": "leaf",
+      "word": "car"
+    },
+    {
+      "type": "leaf",
+      "word": "card"
+    },
+    {
+      "type": "leaf",
+      "word": "cars"
+    },
+    {
+      "type": "leaf",
+      "word": "cash"
+    },
+    {
+      "type": "leaf",
+      "word": "chair"
+    },
+    {
+      "type": "leaf",
+      "word": "chocolate"
+    },
+    {
+      "type": "leaf",
+      "word": "clock"
+    },
+    {
+      "type": "leaf",
+      "word": "clothes"
+    },
+    {
+      "type": "leaf",
+      "word": "coat"
+    },
+    {
+      "type": "leaf",
+      "word": "coffee"
+    },
+    {
+      "type": "leaf",
+      "word": "computer"
+    },
+    {
+      "type": "leaf",
+      "word": "cost"
+    },
+    {
+      "type": "leaf",
+      "word": "cup"
+    },
+    {
+      "type": "leaf",
+      "word": "data"
+    },
+    {
+      "type": "leaf",
+      "word": "design"
+    },
+    {
+      "type": "leaf",
+      "word": "desk"
+    },
+    {
+      "type": "leaf",
+      "word": "device"
+    },
+    {
+      "type": "leaf",
+      "word": "document"
+    },
+    {
+      "type": "leaf",
+      "word": "dollar"
+    },
+    {
+      "type": "leaf",
+      "word": "dollars"
+    },
+    {
+      "type": "leaf",
+      "word": "dress"
+    },
+    {
+      "type": "leaf",
+      "word": "drink"
+    },
+    {
+      "type": "leaf",
+      "word": "drug"
+    },
+    {
+      "type": "leaf",
+      "word": "drugs"
+    },
+    {
+      "type": "leaf",
+      "word": "egg"
+    },
+    {
+      "type": "leaf",
+      "word": "eggs"
+    },
+    {
+      "type": "leaf",
+      "word": "email"
+    },
+    {
+      "type": "leaf",
+      "word": "equipment"
+    },
+    {
+      "type": "leaf",
+      "word": "file"
+    },
+    {
+      "type": "leaf",
+      "word": "film"
+    },
+    {
+      "type": "leaf",
+      "word": "flag"
+    },
+    {
+      "type": "leaf",
+      "word": "fruit"
+    },
+    {
+      "type": "leaf",
+      "word": "furniture"
+    },
+    {
+      "type": "leaf",
+      "word": "gas"
+    },
+    {
+      "type": "leaf",
+      "word": "george"
+    },
+    {
+      "type": "leaf",
+      "word": "glass"
+    },
+    {
+      "type": "leaf",
+      "word": "gold"
+    },
+    {
+      "type": "leaf",
+      "word": "gun"
+    },
+    {
+      "type": "leaf",
+      "word": "hat"
+    },
+    {
+      "type": "leaf",
+      "word": "image"
+    },
+    {
+      "type": "leaf",
+      "word": "internet"
+    },
+    {
+      "type": "leaf",
+      "word": "item"
+    },
+    {
+      "type": "leaf",
+      "word": "knife"
+    },
+    {
+      "type": "leaf",
+      "word": "letter"
+    },
+    {
+      "type": "leaf",
+      "word": "letters"
+    },
+    {
+      "type": "leaf",
+      "word": "lock"
+    },
+    {
+      "type": "leaf",
+      "word": "machine"
+    },
+    {
+      "type": "leaf",
+      "word": "map"
+    },
+    {
+      "type": "leaf",
+      "word": "meat"
+    },
+    {
+      "type": "leaf",
+      "word": "medicine"
+    },
+    {
+      "type": "leaf",
+      "word": "metal"
+    },
+    {
+      "type": "leaf",
+      "word": "miles"
+    },
+    {
+      "type": "leaf",
+      "word": "milk"
+    },
+    {
+      "type": "leaf",
+      "word": "money"
+    },
+    {
+      "type": "leaf",
+      "word": "movie"
+    },
+    {
+      "type": "leaf",
+      "word": "movies"
+    },
+    {
+      "type": "leaf",
+      "word": "music"
+    },
+    {
+      "type": "leaf",
+      "word": "object"
+    },
+    {
+      "type": "leaf",
+      "word": "oil"
+    },
+    {
+      "type": "leaf",
+      "word": "page"
+    },
+    {
+      "type": "leaf",
+      "word": "pages"
+    },
+    {
+      "type": "leaf",
+      "word": "pain"
+    },
+    {
+      "type": "leaf",
+      "word": "painting"
+    },
+    {
+      "type": "leaf",
+      "word": "paper"
+    },
+    {
+      "type": "leaf",
+      "word": "phone"
+    },
+    {
+      "type": "leaf",
+      "word": "photo"
+    },
+    {
+      "type": "leaf",
+      "word": "photograph"
+    },
+    {
+      "type": "leaf",
+      "word": "picture"
+    },
+    {
+      "type": "leaf",
+      "word": "piece"
+    },
+    {
+      "type": "leaf",
+      "word": "plane"
+    },
+    {
+      "type": "leaf",
+      "word": "plastic"
+    },
+    {
+      "type": "leaf",
+      "word": "plate"
+    },
+    {
+      "type": "leaf",
+      "word": "price"
+    },
+    {
+      "type": "leaf",
+      "word": "radio"
+    },
+    {
+      "type": "leaf",
+      "word": "rice"
+    },
+    {
+      "type": "leaf",
+      "word": "ring"
+    },
+    {
+      "type": "leaf",
+      "word": "rock"
+    },
+    {
+      "type": "leaf",
+      "word": "salt"
+    },
+    {
+      "type": "leaf",
+      "word": "screen"
+    },
+    {
+      "type": "leaf",
+      "word": "sex"
+    },
+    {
+      "type": "leaf",
+      "word": "ship"
+    },
+    {
+      "type": "leaf",
+      "word": "shirt"
+    },
+    {
+      "type": "leaf",
+      "word": "shoe"
+    },
+    {
+      "type": "leaf",
+      "word": "shoes"
+    },
+    {
+      "type": "leaf",
+      "word": "show"
+    },
+    {
+      "type": "leaf",
+      "word": "shows"
+    },
+    {
+      "type": "leaf",
+      "word": "sign"
+    },
+    {
+      "type": "leaf",
+      "word": "software"
+    },
+    {
+      "type": "leaf",
+      "word": "stone"
+    },
+    {
+      "type": "leaf",
+      "word": "stuff"
+    },
+    {
+      "type": "leaf",
+      "word": "sugar"
+    },
+    {
+      "type": "leaf",
+      "word": "suit"
+    },
+    {
+      "type": "leaf",
+      "word": "sword"
+    },
+    {
+      "type": "leaf",
+      "word": "table"
+    },
+    {
+      "type": "leaf",
+      "word": "tea"
+    },
+    {
+      "type": "leaf",
+      "word": "television"
+    },
+    {
+      "type": "leaf",
+      "word": "thing"
+    },
+    {
+      "type": "leaf",
+      "word": "things"
+    },
+    {
+      "type": "leaf",
+      "word": "tool"
+    },
+    {
+      "type": "leaf",
+      "word": "train"
+    },
+    {
+      "type": "leaf",
+      "word": "truck"
+    },
+    {
+      "type": "leaf",
+      "word": "tv"
+    },
+    {
+      "type": "leaf",
+      "word": "vehicle"
+    },
+    {
+      "type": "leaf",
+      "word": "video"
+    },
+    {
+      "type": "leaf",
+      "word": "visit"
+    },
+    {
+      "type": "leaf",
+      "word": "weapon"
+    },
+    {
+      "type": "leaf",
+      "word": "website"
+    },
+    {
+      "type": "leaf",
+      "word": "wine"
+    },
+    {
+      "type": "leaf",
+      "word": "wood"
+    }
+  ]
+}

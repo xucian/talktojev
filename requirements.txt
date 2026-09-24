@@ -1,0 +1,5 @@
+fastapi>=0.115
+uvicorn>=0.30
+httpx>=0.27
+python-dotenv>=1.0
+psutil>=5.9

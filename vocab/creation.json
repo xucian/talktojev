@@ -1,0 +1,131 @@
+{
+  "id": "creation",
+  "label": "a making or building word \u2014 make, build, create, design, produce, develop, form, write, invent, generate",
+  "word_count": 31,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "composed"
+    },
+    {
+      "type": "leaf",
+      "word": "constructed"
+    },
+    {
+      "type": "leaf",
+      "word": "construction"
+    },
+    {
+      "type": "leaf",
+      "word": "craft"
+    },
+    {
+      "type": "leaf",
+      "word": "creating"
+    },
+    {
+      "type": "leaf",
+      "word": "creation"
+    },
+    {
+      "type": "leaf",
+      "word": "designed"
+    },
+    {
+      "type": "leaf",
+      "word": "developing"
+    },
+    {
+      "type": "leaf",
+      "word": "drawing"
+    },
+    {
+      "type": "leaf",
+      "word": "drew"
+    },
+    {
+      "type": "leaf",
+      "word": "foundation"
+    },
+    {
+      "type": "leaf",
+      "word": "founded"
+    },
+    {
+      "type": "leaf",
+      "word": "generate"
+    },
+    {
+      "type": "leaf",
+      "word": "generated"
+    },
+    {
+      "type": "leaf",
+      "word": "installed"
+    },
+    {
+      "type": "leaf",
+      "word": "launch"
+    },
+    {
+      "type": "leaf",
+      "word": "launched"
+    },
+    {
+      "type": "leaf",
+      "word": "makes"
+    },
+    {
+      "type": "leaf",
+      "word": "manufacturing"
+    },
+    {
+      "type": "leaf",
+      "word": "organized"
+    },
+    {
+      "type": "leaf",
+      "word": "paint"
+    },
+    {
+      "type": "leaf",
+      "word": "painted"
+    },
+    {
+      "type": "leaf",
+      "word": "prepare"
+    },
+    {
+      "type": "leaf",
+      "word": "prepared"
+    },
+    {
+      "type": "leaf",
+      "word": "preparing"
+    },
+    {
+      "type": "leaf",
+      "word": "producing"
+    },
+    {
+      "type": "leaf",
+      "word": "published"
+    },
+    {
+      "type": "leaf",
+      "word": "recorded"
+    },
+    {
+      "type": "leaf",
+      "word": "recording"
+    },
+    {
+      "type": "leaf",
+      "word": "shape"
+    },
+    {
+      "type": "leaf",
+      "word": "shaped"
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "id": "people",
+  "label": "a person or group \u2014 person, people, man, woman, friend, family, child, team, company",
+  "word_count": 193,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "adult"
+    },
+    {
+      "type": "leaf",
+      "word": "agents"
+    },
+    {
+      "type": "leaf",
+      "word": "ambassador"
+    },
+    {
+      "type": "leaf",
+      "word": "army"
+    },
+    {
+      "type": "leaf",
+      "word": "artist"
+    },
+    {
+      "type": "leaf",
+      "word": "athletes"
+    },
+    {
+      "type": "leaf",
+      "word": "audience"
+    },
+    {
+      "type": "leaf",
+      "word": "author"
+    },
+    {
+      "type": "leaf",
+      "word": "baby"
+    },
+    {
+      "type": "leaf",
+      "word": "boss"
+    },
+    {
+      "type": "leaf",
+      "word": "boy"
+    },
+    {
+      "type": "leaf",
+      "word": "boyfriend"
+    },
+    {
+      "type": "leaf",
+      "word": "brother"
+    },
+    {
+      "type": "leaf",
+      "word": "brothers"
+    },
+    {
+      "type": "leaf",
+      "word": "candidate"
+    },
+    {
+      "type": "leaf",
+      "word": "chairman"
+    },
+    {
+      "type": "leaf",
+      "word": "champion"
+    },
+    {
+      "type": "leaf",
+      "word": "champions"
+    },
+    {
+      "type": "leaf",
+      "word": "character"
+    },
+    {
+      "type": "leaf",
+      "word": "chef"
+    },
+    {
+      "type": "leaf",
+      "word": "child"
+    },
+    {
+      "type": "leaf",
+      "word": "children"
+    },
+    {
+      "type": "leaf",
+      "word": "citizen"
+    },
+    {
+      "type": "leaf",
+      "word": "citizens"
+    },
+    {
+      "type": "leaf",
+      "word": "client"
+    },
+    {
+      "type": "leaf",
+      "word": "clients"
+    },
+    {
+      "type": "leaf",
+      "word": "coach"
+    },
+    {
+      "type": "leaf",
+      "word": "coaches"
+    },
+    {
+      "type": "leaf",
+      "word": "colleagues"
+    },
+    {
+      "type": "leaf",
+      "word": "commissioner"
+    },
+    {
+      "type": "leaf",
+      "word": "community"
+    },
+    {
+      "type": "leaf",
+      "word": "companies"
+    },
+    {
+      "type": "leaf",
+      "word": "company"
+    },
+    {
+      "type": "leaf",
+      "word": "consumers"
+    },
+    {
+      "type": "leaf",
+      "word": "couple"
+    },
+    {
+      "type": "leaf",
+      "word": "critics"
+    },
+    {
+      "type": "leaf",
+      "word": "crowd"
+    },
+    {
+      "type": "leaf",
+      "word": "customer"
+    },
+    {
+      "type": "leaf",
+      "word": "customers"
+    },
+    {
+      "type": "leaf",
+      "word": "dad"
+    },
+    {
+      "type": "leaf",
+      "word": "daddy"
+    },
+    {
+      "type": "leaf",
+      "word": "daughter"
+    },
+    {
+      "type": "leaf",
+      "word": "daughters"
+    },
+    {
+      "type": "leaf",
+      "word": "deputy"
+    },
+    {
+      "type": "leaf",
+      "word": "developers"
+    },
+    {
+      "type": "leaf",
+      "word": "doctor"
+    },
+    {
+      "type": "leaf",
+      "word": "doctors"
+    },
+    {
+      "type": "leaf",
+      "word": "emperor"
+    },
+    {
+      "type": "leaf",
+      "word": "employee"
+    },
+    {
+      "type": "leaf",
+      "word": "enemy"
+    },
+    {
+      "type": "leaf",
+      "word": "engineers"
+    },
+    {
+      "type": "leaf",
+      "word": "expert"
+    },
+    {
+      "type": "leaf",
+      "word": "experts"
+    },
+    {
+      "type": "leaf",
+      "word": "faculty"
+    },
+    {
+      "type": "leaf",
+      "word": "families"
+    },
+    {
+      "type": "leaf",
+      "word": "family"
+    },
+    {
+      "type": "leaf",
+      "word": "fan"
+    },
+    {
+      "type": "leaf",
+      "word": "fans"
+    },
+    {
+      "type": "leaf",
+      "word": "father"
+    },
+    {
+      "type": "leaf",
+      "word": "females"
+    },
+    {
+      "type": "leaf",
+      "word": "fighter"
+    },
+    {
+      "type": "leaf",
+      "word": "folk"
+    },
+    {
+      "type": "leaf",
+      "word": "folks"
+    },
+    {
+      "type": "leaf",
+      "word": "founder"
+    },
+    {
+      "type": "leaf",
+      "word": "friend"
+    },
+    {
+      "type": "leaf",
+      "word": "friends"
+    },
+    {
+      "type": "leaf",
+      "word": "ghost"
+    },
+    {
+      "type": "leaf",
+      "word": "giants"
+    },
+    {
+      "type": "leaf",
+      "word": "girl"
+    },
+    {
+      "type": "leaf",
+      "word": "gods"
+    },
+    {
+      "type": "leaf",
+      "word": "government"
+    },
+    {
+      "type": "leaf",
+      "word": "governments"
+    },
+    {
+      "type": "leaf",
+      "word": "governor"
+    },
+    {
+      "type": "leaf",
+      "word": "grandfather"
+    },
+    {
+      "type": "leaf",
+      "word": "group"
+    },
+    {
+      "type": "leaf",
+      "word": "groups"
+    },
+    {
+      "type": "leaf",
+      "word": "guards"
+    },
+    {
+      "type": "leaf",
+      "word": "guest"
+    },
+    {
+      "type": "leaf",
+      "word": "guests"
+    },
+    {
+      "type": "leaf",
+      "word": "guy"
+    },
+    {
+      "type": "leaf",
+      "word": "guys"
+    },
+    {
+      "type": "leaf",
+      "word": "hero"
+    },
+    {
+      "type": "leaf",
+      "word": "heroes"
+    },
+    {
+      "type": "leaf",
+      "word": "homeless"
+    },
+    {
+      "type": "leaf",
+      "word": "hosts"
+    },
+    {
+      "type": "leaf",
+      "word": "humans"
+    },
+    {
+      "type": "leaf",
+      "word": "hunter"
+    },
+    {
+      "type": "leaf",
+      "word": "husband"
+    },
+    {
+      "type": "leaf",
+      "word": "immigrants"
+    },
+    {
+      "type": "leaf",
+      "word": "individual"
+    },
+    {
+      "type": "leaf",
+      "word": "individuals"
+    },
+    {
+      "type": "leaf",
+      "word": "kid"
+    },
+    {
+      "type": "leaf",
+      "word": "kids"
+    },
+    {
+      "type": "leaf",
+      "word": "killer"
+    },
+    {
+      "type": "leaf",
+      "word": "king"
+    },
+    {
+      "type": "leaf",
+      "word": "ladies"
+    },
+    {
+      "type": "leaf",
+      "word": "lady"
+    },
+    {
+      "type": "leaf",
+      "word": "lawyer"
+    },
+    {
+      "type": "leaf",
+      "word": "leader"
+    },
+    {
+      "type": "leaf",
+      "word": "lord"
+    },
+    {
+      "type": "leaf",
+      "word": "mama"
+    },
+    {
+      "type": "leaf",
+      "word": "man"
+    },
+    {
+      "type": "leaf",
+      "word": "manager"
+    },
+    {
+      "type": "leaf",
+      "word": "manufacturers"
+    },
+    {
+      "type": "leaf",
+      "word": "master"
+    },
+    {
+      "type": "leaf",
+      "word": "masters"
+    },
+    {
+      "type": "leaf",
+      "word": "mayor"
+    },
+    {
+      "type": "leaf",
+      "word": "member"
+    },
+    {
+      "type": "leaf",
+      "word": "members"
+    },
+    {
+      "type": "leaf",
+      "word": "men"
+    },
+    {
+      "type": "leaf",
+      "word": "minister"
+    },
+    {
+      "type": "leaf",
+      "word": "ministers"
+    },
+    {
+      "type": "leaf",
+      "word": "mother"
+    },
+    {
+      "type": "leaf",
+      "word": "mothers"
+    },
+    {
+      "type": "leaf",
+      "word": "mr"
+    },
+    {
+      "type": "leaf",
+      "word": "mrs"
+    },
+    {
+      "type": "leaf",
+      "word": "nation"
+    },
+    {
+      "type": "leaf",
+      "word": "nations"
+    },
+    {
+      "type": "leaf",
+      "word": "nurse"
+    },
+    {
+      "type": "leaf",
+      "word": "officer"
+    },
+    {
+      "type": "leaf",
+      "word": "opponents"
+    },
+    {
+      "type": "leaf",
+      "word": "organization"
+    },
+    {
+      "type": "leaf",
+      "word": "owners"
+    },
+    {
+      "type": "leaf",
+      "word": "parent"
+    },
+    {
+      "type": "leaf",
+      "word": "parents"
+    },
+    {
+      "type": "leaf",
+      "word": "participants"
+    },
+    {
+      "type": "leaf",
+      "word": "parties"
+    },
+    {
+      "type": "leaf",
+      "word": "partner"
+    },
+    {
+      "type": "leaf",
+      "word": "partners"
+    },
+    {
+      "type": "leaf",
+      "word": "party"
+    },
+    {
+      "type": "leaf",
+      "word": "patient"
+    },
+    {
+      "type": "leaf",
+      "word": "people"
+    },
+    {
+      "type": "leaf",
+      "word": "peoples"
+    },
+    {
+      "type": "leaf",
+      "word": "person"
+    },
+    {
+      "type": "leaf",
+      "word": "personnel"
+    },
+    {
+      "type": "leaf",
+      "word": "persons"
+    },
+    {
+      "type": "leaf",
+      "word": "pet"
+    },
+    {
+      "type": "leaf",
+      "word": "pilot"
+    },
+    {
+      "type": "leaf",
+      "word": "player"
+    },
+    {
+      "type": "leaf",
+      "word": "players"
+    },
+    {
+      "type": "leaf",
+      "word": "police"
+    },
+    {
+      "type": "leaf",
+      "word": "pope"
+    },
+    {
+      "type": "leaf",
+      "word": "population"
+    },
+    {
+      "type": "leaf",
+      "word": "premier"
+    },
+    {
+      "type": "leaf",
+      "word": "president"
+    },
+    {
+      "type": "leaf",
+      "word": "priest"
+    },
+    {
+      "type": "leaf",
+      "word": "prince"
+    },
+    {
+      "type": "leaf",
+      "word": "princess"
+    },
+    {
+      "type": "leaf",
+      "word": "producers"
+    },
+    {
+      "type": "leaf",
+      "word": "professionals"
+    },
+    {
+      "type": "leaf",
+      "word": "professor"
+    },
+    {
+      "type": "leaf",
+      "word": "queen"
+    },
+    {
+      "type": "leaf",
+      "word": "representative"
+    },
+    {
+      "type": "leaf",
+      "word": "researchers"
+    },
+    {
+      "type": "leaf",
+      "word": "residents"
+    },
+    {
+      "type": "leaf",
+      "word": "scientists"
+    },
+    {
+      "type": "leaf",
+      "word": "secretary"
+    },
+    {
+      "type": "leaf",
+      "word": "singles"
+    },
+    {
+      "type": "leaf",
+      "word": "sir"
+    },
+    {
+      "type": "leaf",
+      "word": "sister"
+    },
+    {
+      "type": "leaf",
+      "word": "sisters"
+    },
+    {
+      "type": "leaf",
+      "word": "society"
+    },
+    {
+      "type": "leaf",
+      "word": "soldier"
+    },
+    {
+      "type": "leaf",
+      "word": "son"
+    },
+    {
+      "type": "leaf",
+      "word": "sons"
+    },
+    {
+      "type": "leaf",
+      "word": "soul"
+    },
+    {
+      "type": "leaf",
+      "word": "speakers"
+    },
+    {
+      "type": "leaf",
+      "word": "spirit"
+    },
+    {
+      "type": "leaf",
+      "word": "spy"
+    },
+    {
+      "type": "leaf",
+      "word": "staff"
+    },
+    {
+      "type": "leaf",
+      "word": "stranger"
+    },
+    {
+      "type": "leaf",
+      "word": "student"
+    },
+    {
+      "type": "leaf",
+      "word": "students"
+    },
+    {
+      "type": "leaf",
+      "word": "supporters"
+    },
+    {
+      "type": "leaf",
+      "word": "teacher"
+    },
+    {
+      "type": "leaf",
+      "word": "team"
+    },
+    {
+      "type": "leaf",
+      "word": "teams"
+    },
+    {
+      "type": "leaf",
+      "word": "veterans"
+    },
+    {
+      "type": "leaf",
+      "word": "victim"
+    },
+    {
+      "type": "leaf",
+      "word": "victims"
+    },
+    {
+      "type": "leaf",
+      "word": "viewers"
+    },
+    {
+      "type": "leaf",
+      "word": "visitors"
+    },
+    {
+      "type": "leaf",
+      "word": "volunteer"
+    },
+    {
+      "type": "leaf",
+      "word": "volunteers"
+    },
+    {
+      "type": "leaf",
+      "word": "warriors"
+    },
+    {
+      "type": "leaf",
+      "word": "wife"
+    },
+    {
+      "type": "leaf",
+      "word": "winners"
+    },
+    {
+      "type": "leaf",
+      "word": "woman"
+    },
+    {
+      "type": "leaf",
+      "word": "women"
+    },
+    {
+      "type": "leaf",
+      "word": "worker"
+    },
+    {
+      "type": "leaf",
+      "word": "workers"
+    },
+    {
+      "type": "leaf",
+      "word": "writer"
+    },
+    {
+      "type": "leaf",
+      "word": "writers"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "event_time",
+  "label": "a time or event \u2014 time, day, year, moment, history, event, game, meeting, morning",
+  "word_count": 58,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "accident"
+    },
+    {
+      "type": "leaf",
+      "word": "afternoon"
+    },
+    {
+      "type": "leaf",
+      "word": "age"
+    },
+    {
+      "type": "leaf",
+      "word": "appointment"
+    },
+    {
+      "type": "leaf",
+      "word": "beginning"
+    },
+    {
+      "type": "leaf",
+      "word": "case"
+    },
+    {
+      "type": "leaf",
+      "word": "cases"
+    },
+    {
+      "type": "leaf",
+      "word": "celebration"
+    },
+    {
+      "type": "leaf",
+      "word": "century"
+    },
+    {
+      "type": "leaf",
+      "word": "ceremony"
+    },
+    {
+      "type": "leaf",
+      "word": "conference"
+    },
+    {
+      "type": "leaf",
+      "word": "date"
+    },
+    {
+      "type": "leaf",
+      "word": "day"
+    },
+    {
+      "type": "leaf",
+      "word": "days"
+    },
+    {
+      "type": "leaf",
+      "word": "decade"
+    },
+    {
+      "type": "leaf",
+      "word": "ending"
+    },
+    {
+      "type": "leaf",
+      "word": "era"
+    },
+    {
+      "type": "leaf",
+      "word": "evening"
+    },
+    {
+      "type": "leaf",
+      "word": "event"
+    },
+    {
+      "type": "leaf",
+      "word": "events"
+    },
+    {
+      "type": "leaf",
+      "word": "festival"
+    },
+    {
+      "type": "leaf",
+      "word": "future"
+    },
+    {
+      "type": "leaf",
+      "word": "game"
+    },
+    {
+      "type": "leaf",
+      "word": "games"
+    },
+    {
+      "type": "leaf",
+      "word": "history"
+    },
+    {
+      "type": "leaf",
+      "word": "holiday"
+    },
+    {
+      "type": "leaf",
+      "word": "hour"
+    },
+    {
+      "type": "leaf",
+      "word": "hours"
+    },
+    {
+      "type": "leaf",
+      "word": "incident"
+    },
+    {
+      "type": "leaf",
+      "word": "journey"
+    },
+    {
+      "type": "leaf",
+      "word": "match"
+    },
+    {
+      "type": "leaf",
+      "word": "meeting"
+    },
+    {
+      "type": "leaf",
+      "word": "minute"
+    },
+    {
+      "type": "leaf",
+      "word": "minutes"
+    },
+    {
+      "type": "leaf",
+      "word": "moment"
+    },
+    {
+      "type": "leaf",
+      "word": "month"
+    },
+    {
+      "type": "leaf",
+      "word": "months"
+    },
+    {
+      "type": "leaf",
+      "word": "morning"
+    },
+    {
+      "type": "leaf",
+      "word": "night"
+    },
+    {
+      "type": "leaf",
+      "word": "nights"
+    },
+    {
+      "type": "leaf",
+      "word": "past"
+    },
+    {
+      "type": "leaf",
+      "word": "period"
+    },
+    {
+      "type": "leaf",
+      "word": "present"
+    },
+    {
+      "type": "leaf",
+      "word": "race"
+    },
+    {
+      "type": "leaf",
+      "word": "schedule"
+    },
+    {
+      "type": "leaf",
+      "word": "season"
+    },
+    {
+      "type": "leaf",
+      "word": "situation"
+    },
+    {
+      "type": "leaf",
+      "word": "time"
+    },
+    {
+      "type": "leaf",
+      "word": "times"
+    },
+    {
+      "type": "leaf",
+      "word": "tour"
+    },
+    {
+      "type": "leaf",
+      "word": "trip"
+    },
+    {
+      "type": "leaf",
+      "word": "vacation"
+    },
+    {
+      "type": "leaf",
+      "word": "wedding"
+    },
+    {
+      "type": "leaf",
+      "word": "week"
+    },
+    {
+      "type": "leaf",
+      "word": "weekend"
+    },
+    {
+      "type": "leaf",
+      "word": "weeks"
+    },
+    {
+      "type": "leaf",
+      "word": "year"
+    },
+    {
+      "type": "leaf",
+      "word": "years"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "health",
+  "label": "a health or medical word \u2014 disease, patient, hospital, treatment, surgery, medicine, symptom, injury, cure, recovery",
+  "word_count": 26,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "anxiety"
+    },
+    {
+      "type": "leaf",
+      "word": "cancer"
+    },
+    {
+      "type": "leaf",
+      "word": "cure"
+    },
+    {
+      "type": "leaf",
+      "word": "depression"
+    },
+    {
+      "type": "leaf",
+      "word": "diseases"
+    },
+    {
+      "type": "leaf",
+      "word": "disorder"
+    },
+    {
+      "type": "leaf",
+      "word": "exercise"
+    },
+    {
+      "type": "leaf",
+      "word": "fever"
+    },
+    {
+      "type": "leaf",
+      "word": "fitness"
+    },
+    {
+      "type": "leaf",
+      "word": "healing"
+    },
+    {
+      "type": "leaf",
+      "word": "healthcare"
+    },
+    {
+      "type": "leaf",
+      "word": "healthy"
+    },
+    {
+      "type": "leaf",
+      "word": "hospitals"
+    },
+    {
+      "type": "leaf",
+      "word": "illness"
+    },
+    {
+      "type": "leaf",
+      "word": "injuries"
+    },
+    {
+      "type": "leaf",
+      "word": "injury"
+    },
+    {
+      "type": "leaf",
+      "word": "nursing"
+    },
+    {
+      "type": "leaf",
+      "word": "patients"
+    },
+    {
+      "type": "leaf",
+      "word": "pregnancy"
+    },
+    {
+      "type": "leaf",
+      "word": "pregnant"
+    },
+    {
+      "type": "leaf",
+      "word": "procedure"
+    },
+    {
+      "type": "leaf",
+      "word": "recover"
+    },
+    {
+      "type": "leaf",
+      "word": "recovery"
+    },
+    {
+      "type": "leaf",
+      "word": "stroke"
+    },
+    {
+      "type": "leaf",
+      "word": "symptoms"
+    },
+    {
+      "type": "leaf",
+      "word": "wound"
+    }
+  ]
+}

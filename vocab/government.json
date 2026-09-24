@@ -1,0 +1,123 @@
+{
+  "id": "government",
+  "label": "a government or politics word \u2014 president, election, congress, vote, policy, reform, senator, nation, official, law",
+  "word_count": 29,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "authorities"
+    },
+    {
+      "type": "leaf",
+      "word": "cabinet"
+    },
+    {
+      "type": "leaf",
+      "word": "candidates"
+    },
+    {
+      "type": "leaf",
+      "word": "congress"
+    },
+    {
+      "type": "leaf",
+      "word": "conservative"
+    },
+    {
+      "type": "leaf",
+      "word": "counties"
+    },
+    {
+      "type": "leaf",
+      "word": "county"
+    },
+    {
+      "type": "leaf",
+      "word": "democrat"
+    },
+    {
+      "type": "leaf",
+      "word": "democrats"
+    },
+    {
+      "type": "leaf",
+      "word": "districts"
+    },
+    {
+      "type": "leaf",
+      "word": "elections"
+    },
+    {
+      "type": "leaf",
+      "word": "federal"
+    },
+    {
+      "type": "leaf",
+      "word": "liberal"
+    },
+    {
+      "type": "leaf",
+      "word": "officials"
+    },
+    {
+      "type": "leaf",
+      "word": "parliament"
+    },
+    {
+      "type": "leaf",
+      "word": "policies"
+    },
+    {
+      "type": "leaf",
+      "word": "politicians"
+    },
+    {
+      "type": "leaf",
+      "word": "politics"
+    },
+    {
+      "type": "leaf",
+      "word": "poll"
+    },
+    {
+      "type": "leaf",
+      "word": "presidential"
+    },
+    {
+      "type": "leaf",
+      "word": "refugees"
+    },
+    {
+      "type": "leaf",
+      "word": "republican"
+    },
+    {
+      "type": "leaf",
+      "word": "republicans"
+    },
+    {
+      "type": "leaf",
+      "word": "senate"
+    },
+    {
+      "type": "leaf",
+      "word": "senator"
+    },
+    {
+      "type": "leaf",
+      "word": "socialist"
+    },
+    {
+      "type": "leaf",
+      "word": "voters"
+    },
+    {
+      "type": "leaf",
+      "word": "votes"
+    },
+    {
+      "type": "leaf",
+      "word": "voting"
+    }
+  ]
+}

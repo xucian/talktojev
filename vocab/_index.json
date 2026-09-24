@@ -1,0 +1,220 @@
+{
+  "categories": [
+    {
+      "id": "social",
+      "label": "a social word \u2014 hello, hi, thanks, please, sorry, yes, no, okay, sure, agree",
+      "file": "social.json",
+      "word_count": 46
+    },
+    {
+      "id": "pronoun",
+      "label": "a person reference \u2014 I, you, he, she, it, we, they, me, my, your, who, someone",
+      "file": "pronoun.json",
+      "word_count": 57
+    },
+    {
+      "id": "grammar",
+      "label": "a connecting word \u2014 is, am, are, was, the, a, to, for, and, but, or, not, can, will",
+      "file": "grammar.json",
+      "word_count": 131
+    },
+    {
+      "id": "feeling",
+      "label": "a feeling or desire \u2014 good, happy, sad, love, hate, want, hope, care, enjoy, fine, well",
+      "file": "feeling.json",
+      "word_count": 101
+    },
+    {
+      "id": "think",
+      "label": "a thinking word \u2014 think, know, believe, understand, learn, remember, see, hear, idea",
+      "file": "think.json",
+      "word_count": 78
+    },
+    {
+      "id": "communicate",
+      "label": "a communication word \u2014 say, tell, ask, talk, speak, write, read, call, explain, story",
+      "file": "communicate.json",
+      "word_count": 96
+    },
+    {
+      "id": "action",
+      "label": "an action \u2014 go, come, take, give, make, get, put, move, do, run, work, play, help",
+      "file": "action.json",
+      "word_count": 942
+    },
+    {
+      "id": "describe",
+      "label": "a describing word \u2014 big, small, new, old, different, important, same, long, high, fast",
+      "file": "describe.json",
+      "word_count": 692
+    },
+    {
+      "id": "time_manner",
+      "label": "a time or manner word \u2014 now, then, always, very, really, just, also, only, too, how, why",
+      "file": "time_manner.json",
+      "word_count": 183
+    },
+    {
+      "id": "number",
+      "label": "a number or quantity \u2014 one, two, many, some, all, every, more, most, first, last",
+      "file": "number.json",
+      "word_count": 48
+    },
+    {
+      "id": "people",
+      "label": "a person or group \u2014 person, people, man, woman, friend, family, child, team, company",
+      "file": "people.json",
+      "word_count": 193
+    },
+    {
+      "id": "world",
+      "label": "a place or thing in the world \u2014 home, world, country, city, room, body, animal, nature",
+      "file": "world.json",
+      "word_count": 172
+    },
+    {
+      "id": "concept",
+      "label": "an idea or concept \u2014 way, idea, fact, reason, problem, plan, system, goal, purpose",
+      "file": "concept.json",
+      "word_count": 491
+    },
+    {
+      "id": "society",
+      "label": "a society or work word \u2014 business, money, job, career, economy, market, trade, law, role",
+      "file": "society.json",
+      "word_count": 114
+    },
+    {
+      "id": "event_time",
+      "label": "a time or event \u2014 time, day, year, moment, history, event, game, meeting, morning",
+      "file": "event_time.json",
+      "word_count": 58
+    },
+    {
+      "id": "object",
+      "label": "an object or thing \u2014 thing, book, car, phone, tool, device, machine, food, clothes",
+      "file": "object.json",
+      "word_count": 130
+    },
+    {
+      "id": "science",
+      "label": "a science or tech word \u2014 science, technology, computer, research, data, digital, medical",
+      "file": "science.json",
+      "word_count": 56
+    },
+    {
+      "id": "arts",
+      "label": "an arts or entertainment word \u2014 art, music, film, movie, game, sport, song, story",
+      "file": "arts.json",
+      "word_count": 66
+    },
+    {
+      "id": "food_drink",
+      "label": "a food or drink word \u2014 meal, breakfast, dinner, cook, fruit, bread, coffee, meat, rice, drink, taste",
+      "file": "food_drink.json",
+      "word_count": 23
+    },
+    {
+      "id": "health",
+      "label": "a health or medical word \u2014 disease, patient, hospital, treatment, surgery, medicine, symptom, injury, cure, recovery",
+      "file": "health.json",
+      "word_count": 26
+    },
+    {
+      "id": "education",
+      "label": "a learning or school word \u2014 school, student, teacher, class, lesson, degree, graduate, exam, study, university",
+      "file": "education.json",
+      "word_count": 23
+    },
+    {
+      "id": "legal",
+      "label": "a law or justice word \u2014 court, crime, judge, prison, trial, attorney, evidence, guilty, arrest, sentence",
+      "file": "legal.json",
+      "word_count": 33
+    },
+    {
+      "id": "transport",
+      "label": "a travel or vehicle word \u2014 car, bus, train, plane, drive, road, flight, trip, ticket, speed, travel",
+      "file": "transport.json",
+      "word_count": 38
+    },
+    {
+      "id": "money",
+      "label": "a money or finance word \u2014 dollar, price, cost, payment, tax, profit, debt, budget, bank, investment, income",
+      "file": "money.json",
+      "word_count": 35
+    },
+    {
+      "id": "government",
+      "label": "a government or politics word \u2014 president, election, congress, vote, policy, reform, senator, nation, official, law",
+      "file": "government.json",
+      "word_count": 29
+    },
+    {
+      "id": "military",
+      "label": "a conflict or military word \u2014 war, army, soldier, battle, attack, weapon, enemy, defense, troops, combat",
+      "file": "military.json",
+      "word_count": 30
+    },
+    {
+      "id": "digital",
+      "label": "a technology or internet word \u2014 computer, software, app, website, data, online, code, email, screen, network",
+      "file": "digital.json",
+      "word_count": 30
+    },
+    {
+      "id": "nature",
+      "label": "a nature or environment word \u2014 tree, forest, mountain, river, ocean, rain, sun, animal, flower, weather, sky",
+      "file": "nature.json",
+      "word_count": 32
+    },
+    {
+      "id": "body",
+      "label": "a body part word \u2014 head, hand, face, eye, heart, arm, leg, foot, brain, skin, mouth, finger",
+      "file": "body.json",
+      "word_count": 11
+    },
+    {
+      "id": "home",
+      "label": "a home or living space word \u2014 house, apartment, room, kitchen, bedroom, furniture, door, window, rent, floor",
+      "file": "home.json",
+      "word_count": 24
+    },
+    {
+      "id": "work",
+      "label": "a work or career word \u2014 job, office, company, employee, manager, boss, project, meeting, hire, professional",
+      "file": "work.json",
+      "word_count": 26
+    },
+    {
+      "id": "movement",
+      "label": "a movement word \u2014 go, come, walk, run, move, drive, fly, sit, stand, turn, enter, leave, arrive",
+      "file": "movement.json",
+      "word_count": 36
+    },
+    {
+      "id": "creation",
+      "label": "a making or building word \u2014 make, build, create, design, produce, develop, form, write, invent, generate",
+      "file": "creation.json",
+      "word_count": 31
+    },
+    {
+      "id": "change",
+      "label": "a change or transformation word \u2014 change, grow, improve, increase, reduce, fix, update, adjust, become, develop",
+      "file": "change.json",
+      "word_count": 23
+    },
+    {
+      "id": "names",
+      "label": "a name \u2014 a person's name, city, country, or place name like John, Paris, London, America",
+      "file": "names.json",
+      "word_count": 125
+    },
+    {
+      "id": "misc",
+      "label": "another word not in the above categories",
+      "file": "misc.json",
+      "word_count": 519
+    }
+  ]
+}

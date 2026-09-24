@@ -1,0 +1,147 @@
+{
+  "id": "money",
+  "label": "a money or finance word \u2014 dollar, price, cost, payment, tax, profit, debt, budget, bank, investment, income",
+  "word_count": 35,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "accounts"
+    },
+    {
+      "type": "leaf",
+      "word": "assets"
+    },
+    {
+      "type": "leaf",
+      "word": "banking"
+    },
+    {
+      "type": "leaf",
+      "word": "bonds"
+    },
+    {
+      "type": "leaf",
+      "word": "cent"
+    },
+    {
+      "type": "leaf",
+      "word": "cents"
+    },
+    {
+      "type": "leaf",
+      "word": "coins"
+    },
+    {
+      "type": "leaf",
+      "word": "commerce"
+    },
+    {
+      "type": "leaf",
+      "word": "costs"
+    },
+    {
+      "type": "leaf",
+      "word": "credits"
+    },
+    {
+      "type": "leaf",
+      "word": "currency"
+    },
+    {
+      "type": "leaf",
+      "word": "earnings"
+    },
+    {
+      "type": "leaf",
+      "word": "equity"
+    },
+    {
+      "type": "leaf",
+      "word": "expense"
+    },
+    {
+      "type": "leaf",
+      "word": "expenses"
+    },
+    {
+      "type": "leaf",
+      "word": "fee"
+    },
+    {
+      "type": "leaf",
+      "word": "fees"
+    },
+    {
+      "type": "leaf",
+      "word": "finance"
+    },
+    {
+      "type": "leaf",
+      "word": "funding"
+    },
+    {
+      "type": "leaf",
+      "word": "grant"
+    },
+    {
+      "type": "leaf",
+      "word": "investments"
+    },
+    {
+      "type": "leaf",
+      "word": "investors"
+    },
+    {
+      "type": "leaf",
+      "word": "loans"
+    },
+    {
+      "type": "leaf",
+      "word": "losses"
+    },
+    {
+      "type": "leaf",
+      "word": "mortgage"
+    },
+    {
+      "type": "leaf",
+      "word": "paying"
+    },
+    {
+      "type": "leaf",
+      "word": "payments"
+    },
+    {
+      "type": "leaf",
+      "word": "prices"
+    },
+    {
+      "type": "leaf",
+      "word": "profits"
+    },
+    {
+      "type": "leaf",
+      "word": "retirement"
+    },
+    {
+      "type": "leaf",
+      "word": "revenue"
+    },
+    {
+      "type": "leaf",
+      "word": "spending"
+    },
+    {
+      "type": "leaf",
+      "word": "stocks"
+    },
+    {
+      "type": "leaf",
+      "word": "trading"
+    },
+    {
+      "type": "leaf",
+      "word": "wages"
+    }
+  ]
+}

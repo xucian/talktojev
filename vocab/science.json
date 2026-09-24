@@ -1,0 +1,259 @@
+{
+  "id": "science",
+  "label": "a science or tech word — science, technology, computer, research, data, digital, medical",
+  "word_count": 56,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "ai"
+    },
+    {
+      "type": "leaf",
+      "word": "artificial"
+    },
+    {
+      "type": "leaf",
+      "word": "battery"
+    },
+    {
+      "type": "leaf",
+      "word": "biology"
+    },
+    {
+      "type": "leaf",
+      "word": "carbon"
+    },
+    {
+      "type": "leaf",
+      "word": "chemical"
+    },
+    {
+      "type": "leaf",
+      "word": "chemistry"
+    },
+    {
+      "type": "leaf",
+      "word": "chip"
+    },
+    {
+      "type": "leaf",
+      "word": "circuit"
+    },
+    {
+      "type": "leaf",
+      "word": "climate"
+    },
+    {
+      "type": "leaf",
+      "word": "clinical"
+    },
+    {
+      "type": "leaf",
+      "word": "conclusion"
+    },
+    {
+      "type": "leaf",
+      "word": "copper"
+    },
+    {
+      "type": "leaf",
+      "word": "database"
+    },
+    {
+      "type": "leaf",
+      "word": "density"
+    },
+    {
+      "type": "leaf",
+      "word": "dna"
+    },
+    {
+      "type": "leaf",
+      "word": "electricity"
+    },
+    {
+      "type": "leaf",
+      "word": "engineering"
+    },
+    {
+      "type": "leaf",
+      "word": "evolution"
+    },
+    {
+      "type": "leaf",
+      "word": "experiment"
+    },
+    {
+      "type": "leaf",
+      "word": "formula"
+    },
+    {
+      "type": "leaf",
+      "word": "frequency"
+    },
+    {
+      "type": "leaf",
+      "word": "fuel"
+    },
+    {
+      "type": "leaf",
+      "word": "gene"
+    },
+    {
+      "type": "leaf",
+      "word": "genetic"
+    },
+    {
+      "type": "leaf",
+      "word": "hardware"
+    },
+    {
+      "type": "leaf",
+      "word": "infection"
+    },
+    {
+      "type": "leaf",
+      "word": "iron"
+    },
+    {
+      "type": "leaf",
+      "word": "laboratory"
+    },
+    {
+      "type": "leaf",
+      "word": "mass"
+    },
+    {
+      "type": "leaf",
+      "word": "math"
+    },
+    {
+      "type": "leaf",
+      "word": "molecules"
+    },
+    {
+      "type": "leaf",
+      "word": "nuclear"
+    },
+    {
+      "type": "leaf",
+      "word": "online"
+    },
+    {
+      "type": "leaf",
+      "word": "oxygen"
+    },
+    {
+      "type": "leaf",
+      "word": "particles"
+    },
+    {
+      "type": "leaf",
+      "word": "physics"
+    },
+    {
+      "type": "leaf",
+      "word": "protein"
+    },
+    {
+      "type": "leaf",
+      "word": "radiation"
+    },
+    {
+      "type": "leaf",
+      "word": "robot"
+    },
+    {
+      "type": "leaf",
+      "word": "sample"
+    },
+    {
+      "type": "leaf",
+      "word": "satellite"
+    },
+    {
+      "type": "leaf",
+      "word": "scatter"
+    },
+    {
+      "type": "leaf",
+      "word": "scattering"
+    },
+    {
+      "type": "leaf",
+      "word": "scatters"
+    },
+    {
+      "type": "leaf",
+      "word": "server"
+    },
+    {
+      "type": "leaf",
+      "word": "solar"
+    },
+    {
+      "type": "leaf",
+      "word": "species"
+    },
+    {
+      "type": "leaf",
+      "word": "spectrum"
+    },
+    {
+      "type": "leaf",
+      "word": "steel"
+    },
+    {
+      "type": "leaf",
+      "word": "stem"
+    },
+    {
+      "type": "leaf",
+      "word": "sunlight"
+    },
+    {
+      "type": "leaf",
+      "word": "surgery"
+    },
+    {
+      "type": "leaf",
+      "word": "temperature"
+    },
+    {
+      "type": "leaf",
+      "word": "therapy"
+    },
+    {
+      "type": "leaf",
+      "word": "tissue"
+    },
+    {
+      "type": "leaf",
+      "word": "treatment"
+    },
+    {
+      "type": "leaf",
+      "word": "virtual"
+    },
+    {
+      "type": "leaf",
+      "word": "virus"
+    },
+    {
+      "type": "leaf",
+      "word": "volume"
+    },
+    {
+      "type": "leaf",
+      "word": "waste"
+    },
+    {
+      "type": "leaf",
+      "word": "wave"
+    },
+    {
+      "type": "leaf",
+      "word": "wavelength"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "movement",
+  "label": "a movement word \u2014 go, come, walk, run, move, drive, fly, sit, stand, turn, enter, leave, arrive",
+  "word_count": 36,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "advance"
+    },
+    {
+      "type": "leaf",
+      "word": "arrive"
+    },
+    {
+      "type": "leaf",
+      "word": "arrived"
+    },
+    {
+      "type": "leaf",
+      "word": "chase"
+    },
+    {
+      "type": "leaf",
+      "word": "comes"
+    },
+    {
+      "type": "leaf",
+      "word": "crossed"
+    },
+    {
+      "type": "leaf",
+      "word": "crossing"
+    },
+    {
+      "type": "leaf",
+      "word": "dancing"
+    },
+    {
+      "type": "leaf",
+      "word": "driven"
+    },
+    {
+      "type": "leaf",
+      "word": "dropped"
+    },
+    {
+      "type": "leaf",
+      "word": "entering"
+    },
+    {
+      "type": "leaf",
+      "word": "escape"
+    },
+    {
+      "type": "leaf",
+      "word": "explore"
+    },
+    {
+      "type": "leaf",
+      "word": "fallen"
+    },
+    {
+      "type": "leaf",
+      "word": "falling"
+    },
+    {
+      "type": "leaf",
+      "word": "flying"
+    },
+    {
+      "type": "leaf",
+      "word": "goes"
+    },
+    {
+      "type": "leaf",
+      "word": "jumped"
+    },
+    {
+      "type": "leaf",
+      "word": "jumping"
+    },
+    {
+      "type": "leaf",
+      "word": "landed"
+    },
+    {
+      "type": "leaf",
+      "word": "landing"
+    },
+    {
+      "type": "leaf",
+      "word": "leaving"
+    },
+    {
+      "type": "leaf",
+      "word": "moves"
+    },
+    {
+      "type": "leaf",
+      "word": "moving"
+    },
+    {
+      "type": "leaf",
+      "word": "passing"
+    },
+    {
+      "type": "leaf",
+      "word": "reaching"
+    },
+    {
+      "type": "leaf",
+      "word": "returning"
+    },
+    {
+      "type": "leaf",
+      "word": "riding"
+    },
+    {
+      "type": "leaf",
+      "word": "rising"
+    },
+    {
+      "type": "leaf",
+      "word": "rush"
+    },
+    {
+      "type": "leaf",
+      "word": "sitting"
+    },
+    {
+      "type": "leaf",
+      "word": "slide"
+    },
+    {
+      "type": "leaf",
+      "word": "slip"
+    },
+    {
+      "type": "leaf",
+      "word": "standing"
+    },
+    {
+      "type": "leaf",
+      "word": "turning"
+    },
+    {
+      "type": "leaf",
+      "word": "walking"
+    }
+  ]
+}

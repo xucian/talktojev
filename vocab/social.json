@@ -1,0 +1,191 @@
+{
+  "id": "social",
+  "label": "a social word \u2014 hello, hi, thanks, please, sorry, yes, no, okay, sure, agree",
+  "word_count": 46,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "absolutely"
+    },
+    {
+      "type": "leaf",
+      "word": "agree"
+    },
+    {
+      "type": "leaf",
+      "word": "alright"
+    },
+    {
+      "type": "leaf",
+      "word": "ass"
+    },
+    {
+      "type": "leaf",
+      "word": "bye"
+    },
+    {
+      "type": "leaf",
+      "word": "certainly"
+    },
+    {
+      "type": "leaf",
+      "word": "correct"
+    },
+    {
+      "type": "leaf",
+      "word": "damn"
+    },
+    {
+      "type": "leaf",
+      "word": "definitely"
+    },
+    {
+      "type": "leaf",
+      "word": "exactly"
+    },
+    {
+      "type": "leaf",
+      "word": "excuse"
+    },
+    {
+      "type": "leaf",
+      "word": "false"
+    },
+    {
+      "type": "leaf",
+      "word": "gonna"
+    },
+    {
+      "type": "leaf",
+      "word": "goodbye"
+    },
+    {
+      "type": "leaf",
+      "word": "gotta"
+    },
+    {
+      "type": "leaf",
+      "word": "hell"
+    },
+    {
+      "type": "leaf",
+      "word": "hello"
+    },
+    {
+      "type": "leaf",
+      "word": "hey"
+    },
+    {
+      "type": "leaf",
+      "word": "hi"
+    },
+    {
+      "type": "leaf",
+      "word": "indeed"
+    },
+    {
+      "type": "leaf",
+      "word": "miss"
+    },
+    {
+      "type": "leaf",
+      "word": "mom"
+    },
+    {
+      "type": "leaf",
+      "word": "neither"
+    },
+    {
+      "type": "leaf",
+      "word": "never"
+    },
+    {
+      "type": "leaf",
+      "word": "no"
+    },
+    {
+      "type": "leaf",
+      "word": "none"
+    },
+    {
+      "type": "leaf",
+      "word": "nope"
+    },
+    {
+      "type": "leaf",
+      "word": "nor"
+    },
+    {
+      "type": "leaf",
+      "word": "oh"
+    },
+    {
+      "type": "leaf",
+      "word": "ok"
+    },
+    {
+      "type": "leaf",
+      "word": "okay"
+    },
+    {
+      "type": "leaf",
+      "word": "please"
+    },
+    {
+      "type": "leaf",
+      "word": "refuse"
+    },
+    {
+      "type": "leaf",
+      "word": "right"
+    },
+    {
+      "type": "leaf",
+      "word": "sorry"
+    },
+    {
+      "type": "leaf",
+      "word": "sure"
+    },
+    {
+      "type": "leaf",
+      "word": "thank"
+    },
+    {
+      "type": "leaf",
+      "word": "thanks"
+    },
+    {
+      "type": "leaf",
+      "word": "totally"
+    },
+    {
+      "type": "leaf",
+      "word": "true"
+    },
+    {
+      "type": "leaf",
+      "word": "wanna"
+    },
+    {
+      "type": "leaf",
+      "word": "welcome"
+    },
+    {
+      "type": "leaf",
+      "word": "wow"
+    },
+    {
+      "type": "leaf",
+      "word": "wrong"
+    },
+    {
+      "type": "leaf",
+      "word": "yeah"
+    },
+    {
+      "type": "leaf",
+      "word": "yes"
+    }
+  ]
+}

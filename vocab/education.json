@@ -1,0 +1,99 @@
+{
+  "id": "education",
+  "label": "a learning or school word \u2014 school, student, teacher, class, lesson, degree, graduate, exam, study, university",
+  "word_count": 23,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "academic"
+    },
+    {
+      "type": "leaf",
+      "word": "academy"
+    },
+    {
+      "type": "leaf",
+      "word": "certificate"
+    },
+    {
+      "type": "leaf",
+      "word": "classes"
+    },
+    {
+      "type": "leaf",
+      "word": "colleges"
+    },
+    {
+      "type": "leaf",
+      "word": "courses"
+    },
+    {
+      "type": "leaf",
+      "word": "dean"
+    },
+    {
+      "type": "leaf",
+      "word": "degrees"
+    },
+    {
+      "type": "leaf",
+      "word": "essay"
+    },
+    {
+      "type": "leaf",
+      "word": "exam"
+    },
+    {
+      "type": "leaf",
+      "word": "grade"
+    },
+    {
+      "type": "leaf",
+      "word": "grades"
+    },
+    {
+      "type": "leaf",
+      "word": "graduate"
+    },
+    {
+      "type": "leaf",
+      "word": "institute"
+    },
+    {
+      "type": "leaf",
+      "word": "lab"
+    },
+    {
+      "type": "leaf",
+      "word": "lesson"
+    },
+    {
+      "type": "leaf",
+      "word": "lessons"
+    },
+    {
+      "type": "leaf",
+      "word": "principal"
+    },
+    {
+      "type": "leaf",
+      "word": "studied"
+    },
+    {
+      "type": "leaf",
+      "word": "studying"
+    },
+    {
+      "type": "leaf",
+      "word": "teachers"
+    },
+    {
+      "type": "leaf",
+      "word": "tests"
+    },
+    {
+      "type": "leaf",
+      "word": "universities"
+    }
+  ]
+}

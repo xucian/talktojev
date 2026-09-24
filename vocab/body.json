@@ -1,0 +1,51 @@
+{
+  "id": "body",
+  "label": "a body part word \u2014 head, hand, face, eye, heart, arm, leg, foot, brain, skin, mouth, finger",
+  "word_count": 11,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "bodies"
+    },
+    {
+      "type": "leaf",
+      "word": "bones"
+    },
+    {
+      "type": "leaf",
+      "word": "ears"
+    },
+    {
+      "type": "leaf",
+      "word": "faces"
+    },
+    {
+      "type": "leaf",
+      "word": "fingers"
+    },
+    {
+      "type": "leaf",
+      "word": "heads"
+    },
+    {
+      "type": "leaf",
+      "word": "hip"
+    },
+    {
+      "type": "leaf",
+      "word": "knee"
+    },
+    {
+      "type": "leaf",
+      "word": "lips"
+    },
+    {
+      "type": "leaf",
+      "word": "palm"
+    },
+    {
+      "type": "leaf",
+      "word": "teeth"
+    }
+  ]
+}

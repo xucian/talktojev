@@ -1,0 +1,139 @@
+{
+  "id": "legal",
+  "label": "a law or justice word \u2014 court, crime, judge, prison, trial, attorney, evidence, guilty, arrest, sentence",
+  "word_count": 33,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "abuse"
+    },
+    {
+      "type": "leaf",
+      "word": "accused"
+    },
+    {
+      "type": "leaf",
+      "word": "appeal"
+    },
+    {
+      "type": "leaf",
+      "word": "arrest"
+    },
+    {
+      "type": "leaf",
+      "word": "arrested"
+    },
+    {
+      "type": "leaf",
+      "word": "assault"
+    },
+    {
+      "type": "leaf",
+      "word": "attorney"
+    },
+    {
+      "type": "leaf",
+      "word": "cop"
+    },
+    {
+      "type": "leaf",
+      "word": "cops"
+    },
+    {
+      "type": "leaf",
+      "word": "courts"
+    },
+    {
+      "type": "leaf",
+      "word": "crimes"
+    },
+    {
+      "type": "leaf",
+      "word": "criminal"
+    },
+    {
+      "type": "leaf",
+      "word": "defense"
+    },
+    {
+      "type": "leaf",
+      "word": "enforcement"
+    },
+    {
+      "type": "leaf",
+      "word": "fraud"
+    },
+    {
+      "type": "leaf",
+      "word": "illegal"
+    },
+    {
+      "type": "leaf",
+      "word": "innocent"
+    },
+    {
+      "type": "leaf",
+      "word": "jail"
+    },
+    {
+      "type": "leaf",
+      "word": "judges"
+    },
+    {
+      "type": "leaf",
+      "word": "jury"
+    },
+    {
+      "type": "leaf",
+      "word": "lawyers"
+    },
+    {
+      "type": "leaf",
+      "word": "murder"
+    },
+    {
+      "type": "leaf",
+      "word": "offense"
+    },
+    {
+      "type": "leaf",
+      "word": "penalty"
+    },
+    {
+      "type": "leaf",
+      "word": "prisoners"
+    },
+    {
+      "type": "leaf",
+      "word": "rape"
+    },
+    {
+      "type": "leaf",
+      "word": "regulations"
+    },
+    {
+      "type": "leaf",
+      "word": "ruling"
+    },
+    {
+      "type": "leaf",
+      "word": "sue"
+    },
+    {
+      "type": "leaf",
+      "word": "suspect"
+    },
+    {
+      "type": "leaf",
+      "word": "trials"
+    },
+    {
+      "type": "leaf",
+      "word": "warrant"
+    },
+    {
+      "type": "leaf",
+      "word": "witness"
+    }
+  ]
+}

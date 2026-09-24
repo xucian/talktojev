@@ -1,0 +1,199 @@
+{
+  "id": "number",
+  "label": "a number or quantity \u2014 one, two, many, some, all, every, more, most, first, last",
+  "word_count": 48,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "all"
+    },
+    {
+      "type": "leaf",
+      "word": "amount"
+    },
+    {
+      "type": "leaf",
+      "word": "any"
+    },
+    {
+      "type": "leaf",
+      "word": "average"
+    },
+    {
+      "type": "leaf",
+      "word": "billion"
+    },
+    {
+      "type": "leaf",
+      "word": "degree"
+    },
+    {
+      "type": "leaf",
+      "word": "double"
+    },
+    {
+      "type": "leaf",
+      "word": "dozen"
+    },
+    {
+      "type": "leaf",
+      "word": "eight"
+    },
+    {
+      "type": "leaf",
+      "word": "every"
+    },
+    {
+      "type": "leaf",
+      "word": "few"
+    },
+    {
+      "type": "leaf",
+      "word": "first"
+    },
+    {
+      "type": "leaf",
+      "word": "five"
+    },
+    {
+      "type": "leaf",
+      "word": "four"
+    },
+    {
+      "type": "leaf",
+      "word": "half"
+    },
+    {
+      "type": "leaf",
+      "word": "hundred"
+    },
+    {
+      "type": "leaf",
+      "word": "last"
+    },
+    {
+      "type": "leaf",
+      "word": "least"
+    },
+    {
+      "type": "leaf",
+      "word": "less"
+    },
+    {
+      "type": "leaf",
+      "word": "lot"
+    },
+    {
+      "type": "leaf",
+      "word": "lots"
+    },
+    {
+      "type": "leaf",
+      "word": "many"
+    },
+    {
+      "type": "leaf",
+      "word": "maximum"
+    },
+    {
+      "type": "leaf",
+      "word": "million"
+    },
+    {
+      "type": "leaf",
+      "word": "minimum"
+    },
+    {
+      "type": "leaf",
+      "word": "more"
+    },
+    {
+      "type": "leaf",
+      "word": "most"
+    },
+    {
+      "type": "leaf",
+      "word": "much"
+    },
+    {
+      "type": "leaf",
+      "word": "next"
+    },
+    {
+      "type": "leaf",
+      "word": "nine"
+    },
+    {
+      "type": "leaf",
+      "word": "number"
+    },
+    {
+      "type": "leaf",
+      "word": "pair"
+    },
+    {
+      "type": "leaf",
+      "word": "percent"
+    },
+    {
+      "type": "leaf",
+      "word": "plenty"
+    },
+    {
+      "type": "leaf",
+      "word": "quarter"
+    },
+    {
+      "type": "leaf",
+      "word": "rate"
+    },
+    {
+      "type": "leaf",
+      "word": "score"
+    },
+    {
+      "type": "leaf",
+      "word": "second"
+    },
+    {
+      "type": "leaf",
+      "word": "seven"
+    },
+    {
+      "type": "leaf",
+      "word": "several"
+    },
+    {
+      "type": "leaf",
+      "word": "six"
+    },
+    {
+      "type": "leaf",
+      "word": "some"
+    },
+    {
+      "type": "leaf",
+      "word": "ten"
+    },
+    {
+      "type": "leaf",
+      "word": "third"
+    },
+    {
+      "type": "leaf",
+      "word": "thousand"
+    },
+    {
+      "type": "leaf",
+      "word": "three"
+    },
+    {
+      "type": "leaf",
+      "word": "two"
+    },
+    {
+      "type": "leaf",
+      "word": "zone"
+    }
+  ]
+}

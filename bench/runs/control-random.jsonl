@@ -1,0 +1,24 @@
+{"id": "v1", "rep": 1, "control": "uniform-random", "user": "hello", "text": "the", "words": 1, "random_decisions": 19, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.6}
+{"id": "v2", "rep": 1, "control": "uniform-random", "user": "how are you", "text": "", "words": 0, "random_decisions": 5, "critique_final": 0, "critique": [0], "calls": 0, "seconds": 0.0}
+{"id": "v3", "rep": 1, "control": "uniform-random", "user": "do you like music", "text": "that", "words": 1, "random_decisions": 15, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.4}
+{"id": "v4", "rep": 1, "control": "uniform-random", "user": "what makes you special", "text": "", "words": 0, "random_decisions": 5, "critique_final": 0, "critique": [0], "calls": 0, "seconds": 0.1}
+{"id": "v5", "rep": 1, "control": "uniform-random", "user": "say something deep", "text": "", "words": 0, "random_decisions": 6, "critique_final": 0, "critique": [0], "calls": 0, "seconds": 0.0}
+{"id": "v6", "rep": 1, "control": "uniform-random", "user": "are you alive", "text": "this", "words": 1, "random_decisions": 48, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.4}
+{"id": "v7", "rep": 1, "control": "uniform-random", "user": "what scares you", "text": "these", "words": 1, "random_decisions": 25, "critique_final": 4, "critique": [4], "calls": 2, "seconds": 0.3}
+{"id": "v8", "rep": 1, "control": "uniform-random", "user": "im feeling sad today", "text": "this", "words": 1, "random_decisions": 20, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.3}
+{"id": "v9", "rep": 1, "control": "uniform-random", "user": "who are you", "text": "this this these that these", "words": 5, "random_decisions": 54, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.3}
+{"id": "v10", "rep": 1, "control": "uniform-random", "user": "if you could be anything", "text": "this that", "words": 2, "random_decisions": 27, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.4}
+{"id": "v11", "rep": 1, "control": "uniform-random", "user": "what do you think about love", "text": "this this a", "words": 3, "random_decisions": 37, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.3}
+{"id": "v12", "rep": 1, "control": "uniform-random", "user": "why is the sky blue", "text": "the", "words": 1, "random_decisions": 24, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.3}
+{"id": "v13", "rep": 1, "control": "uniform-random", "user": "convince me to trust you", "text": "this", "words": 1, "random_decisions": 19, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.3}
+{"id": "v14", "rep": 1, "control": "uniform-random", "user": "do you dream", "text": "", "words": 0, "random_decisions": 5, "critique_final": 0, "critique": [0], "calls": 0, "seconds": 0.0}
+{"id": "v15", "rep": 1, "control": "uniform-random", "user": "are you happy", "text": "the this", "words": 2, "random_decisions": 21, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.6}
+{"id": "v16", "rep": 1, "control": "uniform-random", "user": "tell me about yourself", "text": "", "words": 0, "random_decisions": 5, "critique_final": 0, "critique": [0], "calls": 0, "seconds": 0.0}
+{"id": "s1", "rep": 1, "control": "uniform-random", "user": "what is the meaning of life?", "text": "this", "words": 1, "random_decisions": 34, "critique_final": 3, "critique": [3], "calls": 2, "seconds": 0.4}
+{"id": "s2", "rep": 1, "control": "uniform-random", "user": "hi", "text": "this", "words": 1, "random_decisions": 12, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.5}
+{"id": "s3", "rep": 1, "control": "uniform-random", "user": "do you like music?", "text": "the", "words": 1, "random_decisions": 11, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.3}
+{"id": "s4", "rep": 1, "control": "uniform-random", "user": "i feel really sad today", "text": "", "words": 0, "random_decisions": 5, "critique_final": 0, "critique": [0], "calls": 0, "seconds": 0.0}
+{"id": "s5", "rep": 1, "control": "uniform-random", "user": "what should i paint next?", "text": "a", "words": 1, "random_decisions": 33, "critique_final": 1, "critique": [1], "calls": 2, "seconds": 0.4}
+{"id": "s6", "rep": 1, "control": "uniform-random", "user": "are you real?", "text": "this that", "words": 2, "random_decisions": 60, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.3}
+{"id": "s7", "rep": 1, "control": "uniform-random", "user": "what is consciousness?", "text": "a", "words": 1, "random_decisions": 54, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.4}
+{"id": "s8", "rep": 1, "control": "uniform-random", "user": "tell me something weird", "text": "a", "words": 1, "random_decisions": 17, "critique_final": 0, "critique": [0], "calls": 2, "seconds": 0.4}

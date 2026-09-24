@@ -1,0 +1,511 @@
+{
+  "id": "names",
+  "label": "a name \u2014 a person's name, city, country, or place name like John, Paris, London, America",
+  "word_count": 126,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "aaron"
+    },
+    {
+      "type": "leaf",
+      "word": "alan"
+    },
+    {
+      "type": "leaf",
+      "word": "alice"
+    },
+    {
+      "type": "leaf",
+      "word": "anderson"
+    },
+    {
+      "type": "leaf",
+      "word": "andrew"
+    },
+    {
+      "type": "leaf",
+      "word": "angeles"
+    },
+    {
+      "type": "leaf",
+      "word": "anne"
+    },
+    {
+      "type": "leaf",
+      "word": "anthony"
+    },
+    {
+      "type": "leaf",
+      "word": "arthur"
+    },
+    {
+      "type": "leaf",
+      "word": "asia"
+    },
+    {
+      "type": "leaf",
+      "word": "austin"
+    },
+    {
+      "type": "leaf",
+      "word": "baker"
+    },
+    {
+      "type": "leaf",
+      "word": "barcelona"
+    },
+    {
+      "type": "leaf",
+      "word": "barry"
+    },
+    {
+      "type": "leaf",
+      "word": "bell"
+    },
+    {
+      "type": "leaf",
+      "word": "berlin"
+    },
+    {
+      "type": "leaf",
+      "word": "bobby"
+    },
+    {
+      "type": "leaf",
+      "word": "brian"
+    },
+    {
+      "type": "leaf",
+      "word": "britain"
+    },
+    {
+      "type": "leaf",
+      "word": "brooklyn"
+    },
+    {
+      "type": "leaf",
+      "word": "cambridge"
+    },
+    {
+      "type": "leaf",
+      "word": "cameron"
+    },
+    {
+      "type": "leaf",
+      "word": "campbell"
+    },
+    {
+      "type": "leaf",
+      "word": "carter"
+    },
+    {
+      "type": "leaf",
+      "word": "charlie"
+    },
+    {
+      "type": "leaf",
+      "word": "chelsea"
+    },
+    {
+      "type": "leaf",
+      "word": "chicago"
+    },
+    {
+      "type": "leaf",
+      "word": "christ"
+    },
+    {
+      "type": "leaf",
+      "word": "christians"
+    },
+    {
+      "type": "leaf",
+      "word": "christopher"
+    },
+    {
+      "type": "leaf",
+      "word": "colorado"
+    },
+    {
+      "type": "leaf",
+      "word": "cooper"
+    },
+    {
+      "type": "leaf",
+      "word": "daniel"
+    },
+    {
+      "type": "leaf",
+      "word": "danny"
+    },
+    {
+      "type": "leaf",
+      "word": "davis"
+    },
+    {
+      "type": "leaf",
+      "word": "dc"
+    },
+    {
+      "type": "leaf",
+      "word": "delhi"
+    },
+    {
+      "type": "leaf",
+      "word": "denver"
+    },
+    {
+      "type": "leaf",
+      "word": "diogo"
+    },
+    {
+      "type": "leaf",
+      "word": "duke"
+    },
+    {
+      "type": "leaf",
+      "word": "edinburgh"
+    },
+    {
+      "type": "leaf",
+      "word": "evans"
+    },
+    {
+      "type": "leaf",
+      "word": "francis"
+    },
+    {
+      "type": "leaf",
+      "word": "georgia"
+    },
+    {
+      "type": "leaf",
+      "word": "gop"
+    },
+    {
+      "type": "leaf",
+      "word": "gordon"
+    },
+    {
+      "type": "leaf",
+      "word": "greg"
+    },
+    {
+      "type": "leaf",
+      "word": "harris"
+    },
+    {
+      "type": "leaf",
+      "word": "harry"
+    },
+    {
+      "type": "leaf",
+      "word": "houston"
+    },
+    {
+      "type": "leaf",
+      "word": "howard"
+    },
+    {
+      "type": "leaf",
+      "word": "jacob"
+    },
+    {
+      "type": "leaf",
+      "word": "jason"
+    },
+    {
+      "type": "leaf",
+      "word": "jerry"
+    },
+    {
+      "type": "leaf",
+      "word": "jersey"
+    },
+    {
+      "type": "leaf",
+      "word": "jev"
+    },
+    {
+      "type": "leaf",
+      "word": "jev-prime"
+    },
+    {
+      "type": "leaf",
+      "word": "jim"
+    },
+    {
+      "type": "leaf",
+      "word": "jimmy"
+    },
+    {
+      "type": "leaf",
+      "word": "johnny"
+    },
+    {
+      "type": "leaf",
+      "word": "jon"
+    },
+    {
+      "type": "leaf",
+      "word": "jonathan"
+    },
+    {
+      "type": "leaf",
+      "word": "jordan"
+    },
+    {
+      "type": "leaf",
+      "word": "joseph"
+    },
+    {
+      "type": "leaf",
+      "word": "josh"
+    },
+    {
+      "type": "leaf",
+      "word": "justin"
+    },
+    {
+      "type": "leaf",
+      "word": "kansas"
+    },
+    {
+      "type": "leaf",
+      "word": "kennedy"
+    },
+    {
+      "type": "leaf",
+      "word": "kevin"
+    },
+    {
+      "type": "leaf",
+      "word": "kim"
+    },
+    {
+      "type": "leaf",
+      "word": "las"
+    },
+    {
+      "type": "leaf",
+      "word": "laura"
+    },
+    {
+      "type": "leaf",
+      "word": "lawrence"
+    },
+    {
+      "type": "leaf",
+      "word": "lee"
+    },
+    {
+      "type": "leaf",
+      "word": "leo"
+    },
+    {
+      "type": "leaf",
+      "word": "lincoln"
+    },
+    {
+      "type": "leaf",
+      "word": "liverpool"
+    },
+    {
+      "type": "leaf",
+      "word": "lucian"
+    },
+    {
+      "type": "leaf",
+      "word": "manchester"
+    },
+    {
+      "type": "leaf",
+      "word": "margaret"
+    },
+    {
+      "type": "leaf",
+      "word": "maria"
+    },
+    {
+      "type": "leaf",
+      "word": "mario"
+    },
+    {
+      "type": "leaf",
+      "word": "marshall"
+    },
+    {
+      "type": "leaf",
+      "word": "martin"
+    },
+    {
+      "type": "leaf",
+      "word": "massachusetts"
+    },
+    {
+      "type": "leaf",
+      "word": "matt"
+    },
+    {
+      "type": "leaf",
+      "word": "matthew"
+    },
+    {
+      "type": "leaf",
+      "word": "minnesota"
+    },
+    {
+      "type": "leaf",
+      "word": "missouri"
+    },
+    {
+      "type": "leaf",
+      "word": "mitchell"
+    },
+    {
+      "type": "leaf",
+      "word": "moore"
+    },
+    {
+      "type": "leaf",
+      "word": "moscow"
+    },
+    {
+      "type": "leaf",
+      "word": "murray"
+    },
+    {
+      "type": "leaf",
+      "word": "netherlands"
+    },
+    {
+      "type": "leaf",
+      "word": "nigeria"
+    },
+    {
+      "type": "leaf",
+      "word": "oklahoma"
+    },
+    {
+      "type": "leaf",
+      "word": "oliver"
+    },
+    {
+      "type": "leaf",
+      "word": "oscar"
+    },
+    {
+      "type": "leaf",
+      "word": "oxford"
+    },
+    {
+      "type": "leaf",
+      "word": "parker"
+    },
+    {
+      "type": "leaf",
+      "word": "pat"
+    },
+    {
+      "type": "leaf",
+      "word": "patrick"
+    },
+    {
+      "type": "leaf",
+      "word": "phil"
+    },
+    {
+      "type": "leaf",
+      "word": "philadelphia"
+    },
+    {
+      "type": "leaf",
+      "word": "philip"
+    },
+    {
+      "type": "leaf",
+      "word": "philippines"
+    },
+    {
+      "type": "leaf",
+      "word": "rio"
+    },
+    {
+      "type": "leaf",
+      "word": "ross"
+    },
+    {
+      "type": "leaf",
+      "word": "ryan"
+    },
+    {
+      "type": "leaf",
+      "word": "santa"
+    },
+    {
+      "type": "leaf",
+      "word": "scotland"
+    },
+    {
+      "type": "leaf",
+      "word": "scott"
+    },
+    {
+      "type": "leaf",
+      "word": "sean"
+    },
+    {
+      "type": "leaf",
+      "word": "steve"
+    },
+    {
+      "type": "leaf",
+      "word": "stewart"
+    },
+    {
+      "type": "leaf",
+      "word": "sweden"
+    },
+    {
+      "type": "leaf",
+      "word": "sydney"
+    },
+    {
+      "type": "leaf",
+      "word": "syria"
+    },
+    {
+      "type": "leaf",
+      "word": "thailand"
+    },
+    {
+      "type": "leaf",
+      "word": "thompson"
+    },
+    {
+      "type": "leaf",
+      "word": "turkey"
+    },
+    {
+      "type": "leaf",
+      "word": "typesafe"
+    },
+    {
+      "type": "leaf",
+      "word": "walker"
+    },
+    {
+      "type": "leaf",
+      "word": "wilson"
+    },
+    {
+      "type": "leaf",
+      "word": "wisconsin"
+    },
+    {
+      "type": "leaf",
+      "word": "zealand"
+    }
+  ]
+}

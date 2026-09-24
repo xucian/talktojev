@@ -1,0 +1,319 @@
+{
+  "id": "think",
+  "label": "a thinking word \u2014 think, know, believe, understand, learn, remember, see, hear, idea",
+  "word_count": 78,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "accept"
+    },
+    {
+      "type": "leaf",
+      "word": "allow"
+    },
+    {
+      "type": "leaf",
+      "word": "assume"
+    },
+    {
+      "type": "leaf",
+      "word": "attention"
+    },
+    {
+      "type": "leaf",
+      "word": "aware"
+    },
+    {
+      "type": "leaf",
+      "word": "awareness"
+    },
+    {
+      "type": "leaf",
+      "word": "based"
+    },
+    {
+      "type": "leaf",
+      "word": "belief"
+    },
+    {
+      "type": "leaf",
+      "word": "believe"
+    },
+    {
+      "type": "leaf",
+      "word": "compare"
+    },
+    {
+      "type": "leaf",
+      "word": "concept"
+    },
+    {
+      "type": "leaf",
+      "word": "confirm"
+    },
+    {
+      "type": "leaf",
+      "word": "consider"
+    },
+    {
+      "type": "leaf",
+      "word": "considered"
+    },
+    {
+      "type": "leaf",
+      "word": "decide"
+    },
+    {
+      "type": "leaf",
+      "word": "define"
+    },
+    {
+      "type": "leaf",
+      "word": "determine"
+    },
+    {
+      "type": "leaf",
+      "word": "discover"
+    },
+    {
+      "type": "leaf",
+      "word": "dream"
+    },
+    {
+      "type": "leaf",
+      "word": "expect"
+    },
+    {
+      "type": "leaf",
+      "word": "experience"
+    },
+    {
+      "type": "leaf",
+      "word": "figure"
+    },
+    {
+      "type": "leaf",
+      "word": "finding"
+    },
+    {
+      "type": "leaf",
+      "word": "focus"
+    },
+    {
+      "type": "leaf",
+      "word": "forget"
+    },
+    {
+      "type": "leaf",
+      "word": "found"
+    },
+    {
+      "type": "leaf",
+      "word": "guess"
+    },
+    {
+      "type": "leaf",
+      "word": "hear"
+    },
+    {
+      "type": "leaf",
+      "word": "heard"
+    },
+    {
+      "type": "leaf",
+      "word": "idea"
+    },
+    {
+      "type": "leaf",
+      "word": "identify"
+    },
+    {
+      "type": "leaf",
+      "word": "imagination"
+    },
+    {
+      "type": "leaf",
+      "word": "imagine"
+    },
+    {
+      "type": "leaf",
+      "word": "intelligence"
+    },
+    {
+      "type": "leaf",
+      "word": "judge"
+    },
+    {
+      "type": "leaf",
+      "word": "judgment"
+    },
+    {
+      "type": "leaf",
+      "word": "know"
+    },
+    {
+      "type": "leaf",
+      "word": "knowing"
+    },
+    {
+      "type": "leaf",
+      "word": "knowledge"
+    },
+    {
+      "type": "leaf",
+      "word": "known"
+    },
+    {
+      "type": "leaf",
+      "word": "learn"
+    },
+    {
+      "type": "leaf",
+      "word": "listen"
+    },
+    {
+      "type": "leaf",
+      "word": "logic"
+    },
+    {
+      "type": "leaf",
+      "word": "look"
+    },
+    {
+      "type": "leaf",
+      "word": "memory"
+    },
+    {
+      "type": "leaf",
+      "word": "notice"
+    },
+    {
+      "type": "leaf",
+      "word": "opinion"
+    },
+    {
+      "type": "leaf",
+      "word": "perspective"
+    },
+    {
+      "type": "leaf",
+      "word": "plan"
+    },
+    {
+      "type": "leaf",
+      "word": "principle"
+    },
+    {
+      "type": "leaf",
+      "word": "prove"
+    },
+    {
+      "type": "leaf",
+      "word": "realize"
+    },
+    {
+      "type": "leaf",
+      "word": "reason"
+    },
+    {
+      "type": "leaf",
+      "word": "recall"
+    },
+    {
+      "type": "leaf",
+      "word": "recognition"
+    },
+    {
+      "type": "leaf",
+      "word": "recognize"
+    },
+    {
+      "type": "leaf",
+      "word": "reflect"
+    },
+    {
+      "type": "leaf",
+      "word": "remember"
+    },
+    {
+      "type": "leaf",
+      "word": "remind"
+    },
+    {
+      "type": "leaf",
+      "word": "research"
+    },
+    {
+      "type": "leaf",
+      "word": "review"
+    },
+    {
+      "type": "leaf",
+      "word": "saw"
+    },
+    {
+      "type": "leaf",
+      "word": "see"
+    },
+    {
+      "type": "leaf",
+      "word": "seen"
+    },
+    {
+      "type": "leaf",
+      "word": "sense"
+    },
+    {
+      "type": "leaf",
+      "word": "solve"
+    },
+    {
+      "type": "leaf",
+      "word": "study"
+    },
+    {
+      "type": "leaf",
+      "word": "suppose"
+    },
+    {
+      "type": "leaf",
+      "word": "theory"
+    },
+    {
+      "type": "leaf",
+      "word": "think"
+    },
+    {
+      "type": "leaf",
+      "word": "thinking"
+    },
+    {
+      "type": "leaf",
+      "word": "thought"
+    },
+    {
+      "type": "leaf",
+      "word": "understand"
+    },
+    {
+      "type": "leaf",
+      "word": "understanding"
+    },
+    {
+      "type": "leaf",
+      "word": "view"
+    },
+    {
+      "type": "leaf",
+      "word": "watch"
+    },
+    {
+      "type": "leaf",
+      "word": "wisdom"
+    },
+    {
+      "type": "leaf",
+      "word": "wonder"
+    }
+  ]
+}

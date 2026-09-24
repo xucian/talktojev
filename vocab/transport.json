@@ -1,0 +1,159 @@
+{
+  "id": "transport",
+  "label": "a travel or vehicle word \u2014 car, bus, train, plane, drive, road, flight, trip, ticket, speed, travel",
+  "word_count": 38,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "aircraft"
+    },
+    {
+      "type": "leaf",
+      "word": "arrival"
+    },
+    {
+      "type": "leaf",
+      "word": "bike"
+    },
+    {
+      "type": "leaf",
+      "word": "crash"
+    },
+    {
+      "type": "leaf",
+      "word": "departure"
+    },
+    {
+      "type": "leaf",
+      "word": "destination"
+    },
+    {
+      "type": "leaf",
+      "word": "driver"
+    },
+    {
+      "type": "leaf",
+      "word": "drivers"
+    },
+    {
+      "type": "leaf",
+      "word": "driving"
+    },
+    {
+      "type": "leaf",
+      "word": "engine"
+    },
+    {
+      "type": "leaf",
+      "word": "engines"
+    },
+    {
+      "type": "leaf",
+      "word": "flight"
+    },
+    {
+      "type": "leaf",
+      "word": "garage"
+    },
+    {
+      "type": "leaf",
+      "word": "highway"
+    },
+    {
+      "type": "leaf",
+      "word": "jet"
+    },
+    {
+      "type": "leaf",
+      "word": "lane"
+    },
+    {
+      "type": "leaf",
+      "word": "mile"
+    },
+    {
+      "type": "leaf",
+      "word": "parking"
+    },
+    {
+      "type": "leaf",
+      "word": "passenger"
+    },
+    {
+      "type": "leaf",
+      "word": "passengers"
+    },
+    {
+      "type": "leaf",
+      "word": "ride"
+    },
+    {
+      "type": "leaf",
+      "word": "roads"
+    },
+    {
+      "type": "leaf",
+      "word": "rocket"
+    },
+    {
+      "type": "leaf",
+      "word": "route"
+    },
+    {
+      "type": "leaf",
+      "word": "ships"
+    },
+    {
+      "type": "leaf",
+      "word": "speed"
+    },
+    {
+      "type": "leaf",
+      "word": "streets"
+    },
+    {
+      "type": "leaf",
+      "word": "terminal"
+    },
+    {
+      "type": "leaf",
+      "word": "ticket"
+    },
+    {
+      "type": "leaf",
+      "word": "tickets"
+    },
+    {
+      "type": "leaf",
+      "word": "traffic"
+    },
+    {
+      "type": "leaf",
+      "word": "trains"
+    },
+    {
+      "type": "leaf",
+      "word": "travel"
+    },
+    {
+      "type": "leaf",
+      "word": "trips"
+    },
+    {
+      "type": "leaf",
+      "word": "van"
+    },
+    {
+      "type": "leaf",
+      "word": "vehicles"
+    },
+    {
+      "type": "leaf",
+      "word": "wheel"
+    },
+    {
+      "type": "leaf",
+      "word": "wheels"
+    }
+  ]
+}

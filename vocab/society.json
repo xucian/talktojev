@@ -1,0 +1,463 @@
+{
+  "id": "society",
+  "label": "a society or work word \u2014 business, money, job, career, economy, market, trade, law, role",
+  "word_count": 114,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "administration"
+    },
+    {
+      "type": "leaf",
+      "word": "agencies"
+    },
+    {
+      "type": "leaf",
+      "word": "agency"
+    },
+    {
+      "type": "leaf",
+      "word": "agreement"
+    },
+    {
+      "type": "leaf",
+      "word": "aid"
+    },
+    {
+      "type": "leaf",
+      "word": "amendment"
+    },
+    {
+      "type": "leaf",
+      "word": "asset"
+    },
+    {
+      "type": "leaf",
+      "word": "authority"
+    },
+    {
+      "type": "leaf",
+      "word": "battle"
+    },
+    {
+      "type": "leaf",
+      "word": "board"
+    },
+    {
+      "type": "leaf",
+      "word": "boards"
+    },
+    {
+      "type": "leaf",
+      "word": "bond"
+    },
+    {
+      "type": "leaf",
+      "word": "budget"
+    },
+    {
+      "type": "leaf",
+      "word": "bureau"
+    },
+    {
+      "type": "leaf",
+      "word": "business"
+    },
+    {
+      "type": "leaf",
+      "word": "campaign"
+    },
+    {
+      "type": "leaf",
+      "word": "career"
+    },
+    {
+      "type": "leaf",
+      "word": "charity"
+    },
+    {
+      "type": "leaf",
+      "word": "commission"
+    },
+    {
+      "type": "leaf",
+      "word": "committee"
+    },
+    {
+      "type": "leaf",
+      "word": "communities"
+    },
+    {
+      "type": "leaf",
+      "word": "conflict"
+    },
+    {
+      "type": "leaf",
+      "word": "constitution"
+    },
+    {
+      "type": "leaf",
+      "word": "contract"
+    },
+    {
+      "type": "leaf",
+      "word": "contracts"
+    },
+    {
+      "type": "leaf",
+      "word": "control"
+    },
+    {
+      "type": "leaf",
+      "word": "controls"
+    },
+    {
+      "type": "leaf",
+      "word": "cooperation"
+    },
+    {
+      "type": "leaf",
+      "word": "corruption"
+    },
+    {
+      "type": "leaf",
+      "word": "council"
+    },
+    {
+      "type": "leaf",
+      "word": "credit"
+    },
+    {
+      "type": "leaf",
+      "word": "crime"
+    },
+    {
+      "type": "leaf",
+      "word": "crisis"
+    },
+    {
+      "type": "leaf",
+      "word": "deal"
+    },
+    {
+      "type": "leaf",
+      "word": "deals"
+    },
+    {
+      "type": "leaf",
+      "word": "debt"
+    },
+    {
+      "type": "leaf",
+      "word": "democracy"
+    },
+    {
+      "type": "leaf",
+      "word": "department"
+    },
+    {
+      "type": "leaf",
+      "word": "discrimination"
+    },
+    {
+      "type": "leaf",
+      "word": "diversity"
+    },
+    {
+      "type": "leaf",
+      "word": "duties"
+    },
+    {
+      "type": "leaf",
+      "word": "duty"
+    },
+    {
+      "type": "leaf",
+      "word": "economics"
+    },
+    {
+      "type": "leaf",
+      "word": "economy"
+    },
+    {
+      "type": "leaf",
+      "word": "election"
+    },
+    {
+      "type": "leaf",
+      "word": "equality"
+    },
+    {
+      "type": "leaf",
+      "word": "estate"
+    },
+    {
+      "type": "leaf",
+      "word": "freedom"
+    },
+    {
+      "type": "leaf",
+      "word": "fund"
+    },
+    {
+      "type": "leaf",
+      "word": "funds"
+    },
+    {
+      "type": "leaf",
+      "word": "immigration"
+    },
+    {
+      "type": "leaf",
+      "word": "income"
+    },
+    {
+      "type": "leaf",
+      "word": "independence"
+    },
+    {
+      "type": "leaf",
+      "word": "industry"
+    },
+    {
+      "type": "leaf",
+      "word": "institution"
+    },
+    {
+      "type": "leaf",
+      "word": "insurance"
+    },
+    {
+      "type": "leaf",
+      "word": "interest"
+    },
+    {
+      "type": "leaf",
+      "word": "investment"
+    },
+    {
+      "type": "leaf",
+      "word": "job"
+    },
+    {
+      "type": "leaf",
+      "word": "jobs"
+    },
+    {
+      "type": "leaf",
+      "word": "justice"
+    },
+    {
+      "type": "leaf",
+      "word": "labor"
+    },
+    {
+      "type": "leaf",
+      "word": "leadership"
+    },
+    {
+      "type": "leaf",
+      "word": "legislation"
+    },
+    {
+      "type": "leaf",
+      "word": "liberty"
+    },
+    {
+      "type": "leaf",
+      "word": "loan"
+    },
+    {
+      "type": "leaf",
+      "word": "loss"
+    },
+    {
+      "type": "leaf",
+      "word": "management"
+    },
+    {
+      "type": "leaf",
+      "word": "ministry"
+    },
+    {
+      "type": "leaf",
+      "word": "organizations"
+    },
+    {
+      "type": "leaf",
+      "word": "payment"
+    },
+    {
+      "type": "leaf",
+      "word": "peace"
+    },
+    {
+      "type": "leaf",
+      "word": "pension"
+    },
+    {
+      "type": "leaf",
+      "word": "poverty"
+    },
+    {
+      "type": "leaf",
+      "word": "prison"
+    },
+    {
+      "type": "leaf",
+      "word": "profit"
+    },
+    {
+      "type": "leaf",
+      "word": "property"
+    },
+    {
+      "type": "leaf",
+      "word": "proposal"
+    },
+    {
+      "type": "leaf",
+      "word": "racism"
+    },
+    {
+      "type": "leaf",
+      "word": "ranks"
+    },
+    {
+      "type": "leaf",
+      "word": "reform"
+    },
+    {
+      "type": "leaf",
+      "word": "regulation"
+    },
+    {
+      "type": "leaf",
+      "word": "relief"
+    },
+    {
+      "type": "leaf",
+      "word": "resolution"
+    },
+    {
+      "type": "leaf",
+      "word": "resource"
+    },
+    {
+      "type": "leaf",
+      "word": "resources"
+    },
+    {
+      "type": "leaf",
+      "word": "responsibility"
+    },
+    {
+      "type": "leaf",
+      "word": "revolution"
+    },
+    {
+      "type": "leaf",
+      "word": "rights"
+    },
+    {
+      "type": "leaf",
+      "word": "risk"
+    },
+    {
+      "type": "leaf",
+      "word": "role"
+    },
+    {
+      "type": "leaf",
+      "word": "roles"
+    },
+    {
+      "type": "leaf",
+      "word": "safety"
+    },
+    {
+      "type": "leaf",
+      "word": "salary"
+    },
+    {
+      "type": "leaf",
+      "word": "securities"
+    },
+    {
+      "type": "leaf",
+      "word": "security"
+    },
+    {
+      "type": "leaf",
+      "word": "sentence"
+    },
+    {
+      "type": "leaf",
+      "word": "shares"
+    },
+    {
+      "type": "leaf",
+      "word": "stock"
+    },
+    {
+      "type": "leaf",
+      "word": "supply"
+    },
+    {
+      "type": "leaf",
+      "word": "tax"
+    },
+    {
+      "type": "leaf",
+      "word": "taxes"
+    },
+    {
+      "type": "leaf",
+      "word": "threat"
+    },
+    {
+      "type": "leaf",
+      "word": "trade"
+    },
+    {
+      "type": "leaf",
+      "word": "treaty"
+    },
+    {
+      "type": "leaf",
+      "word": "trial"
+    },
+    {
+      "type": "leaf",
+      "word": "unions"
+    },
+    {
+      "type": "leaf",
+      "word": "violence"
+    },
+    {
+      "type": "leaf",
+      "word": "vote"
+    },
+    {
+      "type": "leaf",
+      "word": "wage"
+    },
+    {
+      "type": "leaf",
+      "word": "war"
+    },
+    {
+      "type": "leaf",
+      "word": "wars"
+    },
+    {
+      "type": "leaf",
+      "word": "wealth"
+    },
+    {
+      "type": "leaf",
+      "word": "welfare"
+    }
+  ]
+}

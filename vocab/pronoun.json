@@ -1,0 +1,235 @@
+{
+  "id": "pronoun",
+  "label": "a person reference \u2014 I, you, he, she, it, we, they, me, my, your, who, someone",
+  "word_count": 57,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "another"
+    },
+    {
+      "type": "leaf",
+      "word": "anyone"
+    },
+    {
+      "type": "leaf",
+      "word": "anything"
+    },
+    {
+      "type": "leaf",
+      "word": "both"
+    },
+    {
+      "type": "leaf",
+      "word": "chat"
+    },
+    {
+      "type": "leaf",
+      "word": "each"
+    },
+    {
+      "type": "leaf",
+      "word": "either"
+    },
+    {
+      "type": "leaf",
+      "word": "everyone"
+    },
+    {
+      "type": "leaf",
+      "word": "everything"
+    },
+    {
+      "type": "leaf",
+      "word": "he"
+    },
+    {
+      "type": "leaf",
+      "word": "her"
+    },
+    {
+      "type": "leaf",
+      "word": "herself"
+    },
+    {
+      "type": "leaf",
+      "word": "him"
+    },
+    {
+      "type": "leaf",
+      "word": "himself"
+    },
+    {
+      "type": "leaf",
+      "word": "his"
+    },
+    {
+      "type": "leaf",
+      "word": "however"
+    },
+    {
+      "type": "leaf",
+      "word": "i"
+    },
+    {
+      "type": "leaf",
+      "word": "it"
+    },
+    {
+      "type": "leaf",
+      "word": "its"
+    },
+    {
+      "type": "leaf",
+      "word": "itself"
+    },
+    {
+      "type": "leaf",
+      "word": "me"
+    },
+    {
+      "type": "leaf",
+      "word": "mine"
+    },
+    {
+      "type": "leaf",
+      "word": "my"
+    },
+    {
+      "type": "leaf",
+      "word": "myself"
+    },
+    {
+      "type": "leaf",
+      "word": "nobody"
+    },
+    {
+      "type": "leaf",
+      "word": "nothing"
+    },
+    {
+      "type": "leaf",
+      "word": "one"
+    },
+    {
+      "type": "leaf",
+      "word": "ones"
+    },
+    {
+      "type": "leaf",
+      "word": "other"
+    },
+    {
+      "type": "leaf",
+      "word": "our"
+    },
+    {
+      "type": "leaf",
+      "word": "ourselves"
+    },
+    {
+      "type": "leaf",
+      "word": "own"
+    },
+    {
+      "type": "leaf",
+      "word": "self"
+    },
+    {
+      "type": "leaf",
+      "word": "she"
+    },
+    {
+      "type": "leaf",
+      "word": "somebody"
+    },
+    {
+      "type": "leaf",
+      "word": "someone"
+    },
+    {
+      "type": "leaf",
+      "word": "something"
+    },
+    {
+      "type": "leaf",
+      "word": "such"
+    },
+    {
+      "type": "leaf",
+      "word": "their"
+    },
+    {
+      "type": "leaf",
+      "word": "them"
+    },
+    {
+      "type": "leaf",
+      "word": "themselves"
+    },
+    {
+      "type": "leaf",
+      "word": "they"
+    },
+    {
+      "type": "leaf",
+      "word": "us"
+    },
+    {
+      "type": "leaf",
+      "word": "we"
+    },
+    {
+      "type": "leaf",
+      "word": "what"
+    },
+    {
+      "type": "leaf",
+      "word": "whatever"
+    },
+    {
+      "type": "leaf",
+      "word": "whenever"
+    },
+    {
+      "type": "leaf",
+      "word": "wherever"
+    },
+    {
+      "type": "leaf",
+      "word": "which"
+    },
+    {
+      "type": "leaf",
+      "word": "who"
+    },
+    {
+      "type": "leaf",
+      "word": "whoever"
+    },
+    {
+      "type": "leaf",
+      "word": "whom"
+    },
+    {
+      "type": "leaf",
+      "word": "whose"
+    },
+    {
+      "type": "leaf",
+      "word": "you"
+    },
+    {
+      "type": "leaf",
+      "word": "your"
+    },
+    {
+      "type": "leaf",
+      "word": "yours"
+    },
+    {
+      "type": "leaf",
+      "word": "yourself"
+    }
+  ]
+}

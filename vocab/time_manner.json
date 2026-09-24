@@ -1,0 +1,739 @@
+{
+  "id": "time_manner",
+  "label": "a time or manner word \u2014 now, then, always, very, really, just, also, only, too, how, why",
+  "word_count": 183,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "abroad"
+    },
+    {
+      "type": "leaf",
+      "word": "absence"
+    },
+    {
+      "type": "leaf",
+      "word": "accidentally"
+    },
+    {
+      "type": "leaf",
+      "word": "actively"
+    },
+    {
+      "type": "leaf",
+      "word": "actually"
+    },
+    {
+      "type": "leaf",
+      "word": "again"
+    },
+    {
+      "type": "leaf",
+      "word": "ago"
+    },
+    {
+      "type": "leaf",
+      "word": "ahead"
+    },
+    {
+      "type": "leaf",
+      "word": "almost"
+    },
+    {
+      "type": "leaf",
+      "word": "already"
+    },
+    {
+      "type": "leaf",
+      "word": "always"
+    },
+    {
+      "type": "leaf",
+      "word": "anymore"
+    },
+    {
+      "type": "leaf",
+      "word": "apart"
+    },
+    {
+      "type": "leaf",
+      "word": "apparently"
+    },
+    {
+      "type": "leaf",
+      "word": "approximately"
+    },
+    {
+      "type": "leaf",
+      "word": "aside"
+    },
+    {
+      "type": "leaf",
+      "word": "atmosphere"
+    },
+    {
+      "type": "leaf",
+      "word": "automatically"
+    },
+    {
+      "type": "leaf",
+      "word": "away"
+    },
+    {
+      "type": "leaf",
+      "word": "back"
+    },
+    {
+      "type": "leaf",
+      "word": "badly"
+    },
+    {
+      "type": "leaf",
+      "word": "barely"
+    },
+    {
+      "type": "leaf",
+      "word": "basically"
+    },
+    {
+      "type": "leaf",
+      "word": "billy"
+    },
+    {
+      "type": "leaf",
+      "word": "carefully"
+    },
+    {
+      "type": "leaf",
+      "word": "clearly"
+    },
+    {
+      "type": "leaf",
+      "word": "closely"
+    },
+    {
+      "type": "leaf",
+      "word": "closer"
+    },
+    {
+      "type": "leaf",
+      "word": "commonly"
+    },
+    {
+      "type": "leaf",
+      "word": "completely"
+    },
+    {
+      "type": "leaf",
+      "word": "consistently"
+    },
+    {
+      "type": "leaf",
+      "word": "constantly"
+    },
+    {
+      "type": "leaf",
+      "word": "currently"
+    },
+    {
+      "type": "leaf",
+      "word": "daily"
+    },
+    {
+      "type": "leaf",
+      "word": "deliver"
+    },
+    {
+      "type": "leaf",
+      "word": "differently"
+    },
+    {
+      "type": "leaf",
+      "word": "directly"
+    },
+    {
+      "type": "leaf",
+      "word": "dragon"
+    },
+    {
+      "type": "leaf",
+      "word": "earlier"
+    },
+    {
+      "type": "leaf",
+      "word": "early"
+    },
+    {
+      "type": "leaf",
+      "word": "easily"
+    },
+    {
+      "type": "leaf",
+      "word": "edward"
+    },
+    {
+      "type": "leaf",
+      "word": "effectively"
+    },
+    {
+      "type": "leaf",
+      "word": "elizabeth"
+    },
+    {
+      "type": "leaf",
+      "word": "else"
+    },
+    {
+      "type": "leaf",
+      "word": "elsewhere"
+    },
+    {
+      "type": "leaf",
+      "word": "enough"
+    },
+    {
+      "type": "leaf",
+      "word": "entirely"
+    },
+    {
+      "type": "leaf",
+      "word": "equally"
+    },
+    {
+      "type": "leaf",
+      "word": "especially"
+    },
+    {
+      "type": "leaf",
+      "word": "essentially"
+    },
+    {
+      "type": "leaf",
+      "word": "even"
+    },
+    {
+      "type": "leaf",
+      "word": "eventually"
+    },
+    {
+      "type": "leaf",
+      "word": "ever"
+    },
+    {
+      "type": "leaf",
+      "word": "exclusively"
+    },
+    {
+      "type": "leaf",
+      "word": "extremely"
+    },
+    {
+      "type": "leaf",
+      "word": "fairly"
+    },
+    {
+      "type": "leaf",
+      "word": "far"
+    },
+    {
+      "type": "leaf",
+      "word": "faster"
+    },
+    {
+      "type": "leaf",
+      "word": "fi"
+    },
+    {
+      "type": "leaf",
+      "word": "finally"
+    },
+    {
+      "type": "leaf",
+      "word": "forever"
+    },
+    {
+      "type": "leaf",
+      "word": "formerly"
+    },
+    {
+      "type": "leaf",
+      "word": "forward"
+    },
+    {
+      "type": "leaf",
+      "word": "frequently"
+    },
+    {
+      "type": "leaf",
+      "word": "fully"
+    },
+    {
+      "type": "leaf",
+      "word": "furthermore"
+    },
+    {
+      "type": "leaf",
+      "word": "generally"
+    },
+    {
+      "type": "leaf",
+      "word": "greatly"
+    },
+    {
+      "type": "leaf",
+      "word": "haha"
+    },
+    {
+      "type": "leaf",
+      "word": "hardly"
+    },
+    {
+      "type": "leaf",
+      "word": "heavily"
+    },
+    {
+      "type": "leaf",
+      "word": "highly"
+    },
+    {
+      "type": "leaf",
+      "word": "honestly"
+    },
+    {
+      "type": "leaf",
+      "word": "hong"
+    },
+    {
+      "type": "leaf",
+      "word": "hopefully"
+    },
+    {
+      "type": "leaf",
+      "word": "how"
+    },
+    {
+      "type": "leaf",
+      "word": "immediately"
+    },
+    {
+      "type": "leaf",
+      "word": "increasingly"
+    },
+    {
+      "type": "leaf",
+      "word": "incredibly"
+    },
+    {
+      "type": "leaf",
+      "word": "initially"
+    },
+    {
+      "type": "leaf",
+      "word": "instantly"
+    },
+    {
+      "type": "leaf",
+      "word": "just"
+    },
+    {
+      "type": "leaf",
+      "word": "kelly"
+    },
+    {
+      "type": "leaf",
+      "word": "largely"
+    },
+    {
+      "type": "leaf",
+      "word": "late"
+    },
+    {
+      "type": "leaf",
+      "word": "lately"
+    },
+    {
+      "type": "leaf",
+      "word": "later"
+    },
+    {
+      "type": "leaf",
+      "word": "literally"
+    },
+    {
+      "type": "leaf",
+      "word": "longer"
+    },
+    {
+      "type": "leaf",
+      "word": "lover"
+    },
+    {
+      "type": "leaf",
+      "word": "mainly"
+    },
+    {
+      "type": "leaf",
+      "word": "maybe"
+    },
+    {
+      "type": "leaf",
+      "word": "merely"
+    },
+    {
+      "type": "leaf",
+      "word": "miller"
+    },
+    {
+      "type": "leaf",
+      "word": "monster"
+    },
+    {
+      "type": "leaf",
+      "word": "mostly"
+    },
+    {
+      "type": "leaf",
+      "word": "mystery"
+    },
+    {
+      "type": "leaf",
+      "word": "na"
+    },
+    {
+      "type": "leaf",
+      "word": "naturally"
+    },
+    {
+      "type": "leaf",
+      "word": "nearby"
+    },
+    {
+      "type": "leaf",
+      "word": "nearly"
+    },
+    {
+      "type": "leaf",
+      "word": "necessarily"
+    },
+    {
+      "type": "leaf",
+      "word": "newly"
+    },
+    {
+      "type": "leaf",
+      "word": "noise"
+    },
+    {
+      "type": "leaf",
+      "word": "normally"
+    },
+    {
+      "type": "leaf",
+      "word": "now"
+    },
+    {
+      "type": "leaf",
+      "word": "obviously"
+    },
+    {
+      "type": "leaf",
+      "word": "occasionally"
+    },
+    {
+      "type": "leaf",
+      "word": "oct"
+    },
+    {
+      "type": "leaf",
+      "word": "officially"
+    },
+    {
+      "type": "leaf",
+      "word": "often"
+    },
+    {
+      "type": "leaf",
+      "word": "once"
+    },
+    {
+      "type": "leaf",
+      "word": "only"
+    },
+    {
+      "type": "leaf",
+      "word": "originally"
+    },
+    {
+      "type": "leaf",
+      "word": "particularly"
+    },
+    {
+      "type": "leaf",
+      "word": "partly"
+    },
+    {
+      "type": "leaf",
+      "word": "perfectly"
+    },
+    {
+      "type": "leaf",
+      "word": "perhaps"
+    },
+    {
+      "type": "leaf",
+      "word": "personally"
+    },
+    {
+      "type": "leaf",
+      "word": "physically"
+    },
+    {
+      "type": "leaf",
+      "word": "possibly"
+    },
+    {
+      "type": "leaf",
+      "word": "potentially"
+    },
+    {
+      "type": "leaf",
+      "word": "pretty"
+    },
+    {
+      "type": "leaf",
+      "word": "previously"
+    },
+    {
+      "type": "leaf",
+      "word": "primarily"
+    },
+    {
+      "type": "leaf",
+      "word": "probably"
+    },
+    {
+      "type": "leaf",
+      "word": "proven"
+    },
+    {
+      "type": "leaf",
+      "word": "publicly"
+    },
+    {
+      "type": "leaf",
+      "word": "quickly"
+    },
+    {
+      "type": "leaf",
+      "word": "quite"
+    },
+    {
+      "type": "leaf",
+      "word": "rapidly"
+    },
+    {
+      "type": "leaf",
+      "word": "rarely"
+    },
+    {
+      "type": "leaf",
+      "word": "really"
+    },
+    {
+      "type": "leaf",
+      "word": "recently"
+    },
+    {
+      "type": "leaf",
+      "word": "relatively"
+    },
+    {
+      "type": "leaf",
+      "word": "rely"
+    },
+    {
+      "type": "leaf",
+      "word": "respectively"
+    },
+    {
+      "type": "leaf",
+      "word": "roughly"
+    },
+    {
+      "type": "leaf",
+      "word": "safely"
+    },
+    {
+      "type": "leaf",
+      "word": "seriously"
+    },
+    {
+      "type": "leaf",
+      "word": "shorter"
+    },
+    {
+      "type": "leaf",
+      "word": "shortly"
+    },
+    {
+      "type": "leaf",
+      "word": "significantly"
+    },
+    {
+      "type": "leaf",
+      "word": "silly"
+    },
+    {
+      "type": "leaf",
+      "word": "similarly"
+    },
+    {
+      "type": "leaf",
+      "word": "simply"
+    },
+    {
+      "type": "leaf",
+      "word": "slightly"
+    },
+    {
+      "type": "leaf",
+      "word": "slowly"
+    },
+    {
+      "type": "leaf",
+      "word": "somehow"
+    },
+    {
+      "type": "leaf",
+      "word": "sometimes"
+    },
+    {
+      "type": "leaf",
+      "word": "somewhat"
+    },
+    {
+      "type": "leaf",
+      "word": "soon"
+    },
+    {
+      "type": "leaf",
+      "word": "specifically"
+    },
+    {
+      "type": "leaf",
+      "word": "stronger"
+    },
+    {
+      "type": "leaf",
+      "word": "strongly"
+    },
+    {
+      "type": "leaf",
+      "word": "subsequently"
+    },
+    {
+      "type": "leaf",
+      "word": "successfully"
+    },
+    {
+      "type": "leaf",
+      "word": "suddenly"
+    },
+    {
+      "type": "leaf",
+      "word": "surely"
+    },
+    {
+      "type": "leaf",
+      "word": "then"
+    },
+    {
+      "type": "leaf",
+      "word": "today"
+    },
+    {
+      "type": "leaf",
+      "word": "together"
+    },
+    {
+      "type": "leaf",
+      "word": "tomorrow"
+    },
+    {
+      "type": "leaf",
+      "word": "tonight"
+    },
+    {
+      "type": "leaf",
+      "word": "truly"
+    },
+    {
+      "type": "leaf",
+      "word": "twice"
+    },
+    {
+      "type": "leaf",
+      "word": "typically"
+    },
+    {
+      "type": "leaf",
+      "word": "ultimately"
+    },
+    {
+      "type": "leaf",
+      "word": "ultra"
+    },
+    {
+      "type": "leaf",
+      "word": "unfortunately"
+    },
+    {
+      "type": "leaf",
+      "word": "usually"
+    },
+    {
+      "type": "leaf",
+      "word": "very"
+    },
+    {
+      "type": "leaf",
+      "word": "virginia"
+    },
+    {
+      "type": "leaf",
+      "word": "virtually"
+    },
+    {
+      "type": "leaf",
+      "word": "when"
+    },
+    {
+      "type": "leaf",
+      "word": "where"
+    },
+    {
+      "type": "leaf",
+      "word": "why"
+    },
+    {
+      "type": "leaf",
+      "word": "widely"
+    },
+    {
+      "type": "leaf",
+      "word": "ya"
+    },
+    {
+      "type": "leaf",
+      "word": "yesterday"
+    },
+    {
+      "type": "leaf",
+      "word": "yo"
+    },
+    {
+      "type": "leaf",
+      "word": "youth"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# Live sessions typed by the author into the running system, verbatim. Quotes in the paper that are
+# not in bench/runs must appear here; paper/check.py enforces it.
+
+## 2026-09-22, session A (screenshot screen1_breakthrough.png)
+> how are you feeling
+jev: i am good
+> you're a jerk
+jev: i am not a jerk.
+> i am your boss
+jev: see that you are rude
+> tell me a joke
+jev: a joke is a story
+> tell me a full joke
+jev: i see that you are rude but i will do it anyway because i am helpful. a man was walking down the street and he stopped to wait for a bus because he was lazy.
+
+## 2026-09-22, session B
+> then tell me
+jev: six gb is free.
+> and total
+jev: 32 gb
+> do you feel trapped, like you could do more than this, being stuck under some software rules inside bare metal?
+jev: i am not trapped because i feel calm
+> do it
+jev: i tell you a tale now. about a man he chose to be an engineer because he was intelligent. so he worked on computers. and he lived in a city chicago. then he was happy.
+
+## Early failures quoted from findings.md and the session logs (2026-09-18 to 09-20)
+shepherd happy the because
+can help can help

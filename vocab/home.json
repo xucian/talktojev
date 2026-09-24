@@ -1,0 +1,103 @@
+{
+  "id": "home",
+  "label": "a home or living space word \u2014 house, apartment, room, kitchen, bedroom, furniture, door, window, rent, floor",
+  "word_count": 24,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "apartment"
+    },
+    {
+      "type": "leaf",
+      "word": "bath"
+    },
+    {
+      "type": "leaf",
+      "word": "bathroom"
+    },
+    {
+      "type": "leaf",
+      "word": "bedroom"
+    },
+    {
+      "type": "leaf",
+      "word": "buildings"
+    },
+    {
+      "type": "leaf",
+      "word": "domestic"
+    },
+    {
+      "type": "leaf",
+      "word": "doors"
+    },
+    {
+      "type": "leaf",
+      "word": "gate"
+    },
+    {
+      "type": "leaf",
+      "word": "homes"
+    },
+    {
+      "type": "leaf",
+      "word": "household"
+    },
+    {
+      "type": "leaf",
+      "word": "houses"
+    },
+    {
+      "type": "leaf",
+      "word": "kitchen"
+    },
+    {
+      "type": "leaf",
+      "word": "living"
+    },
+    {
+      "type": "leaf",
+      "word": "mirror"
+    },
+    {
+      "type": "leaf",
+      "word": "neighborhood"
+    },
+    {
+      "type": "leaf",
+      "word": "neighbors"
+    },
+    {
+      "type": "leaf",
+      "word": "rent"
+    },
+    {
+      "type": "leaf",
+      "word": "residential"
+    },
+    {
+      "type": "leaf",
+      "word": "rooms"
+    },
+    {
+      "type": "leaf",
+      "word": "shower"
+    },
+    {
+      "type": "leaf",
+      "word": "toilet"
+    },
+    {
+      "type": "leaf",
+      "word": "walls"
+    },
+    {
+      "type": "leaf",
+      "word": "windows"
+    },
+    {
+      "type": "leaf",
+      "word": "yard"
+    }
+  ]
+}

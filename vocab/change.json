@@ -1,0 +1,99 @@
+{
+  "id": "change",
+  "label": "a change or transformation word \u2014 change, grow, improve, increase, reduce, fix, update, adjust, become, develop",
+  "word_count": 23,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "advanced"
+    },
+    {
+      "type": "leaf",
+      "word": "becoming"
+    },
+    {
+      "type": "leaf",
+      "word": "changing"
+    },
+    {
+      "type": "leaf",
+      "word": "conversion"
+    },
+    {
+      "type": "leaf",
+      "word": "decline"
+    },
+    {
+      "type": "leaf",
+      "word": "edit"
+    },
+    {
+      "type": "leaf",
+      "word": "edited"
+    },
+    {
+      "type": "leaf",
+      "word": "editing"
+    },
+    {
+      "type": "leaf",
+      "word": "expand"
+    },
+    {
+      "type": "leaf",
+      "word": "expanded"
+    },
+    {
+      "type": "leaf",
+      "word": "expansion"
+    },
+    {
+      "type": "leaf",
+      "word": "growing"
+    },
+    {
+      "type": "leaf",
+      "word": "improvement"
+    },
+    {
+      "type": "leaf",
+      "word": "improving"
+    },
+    {
+      "type": "leaf",
+      "word": "increasing"
+    },
+    {
+      "type": "leaf",
+      "word": "modified"
+    },
+    {
+      "type": "leaf",
+      "word": "recovered"
+    },
+    {
+      "type": "leaf",
+      "word": "reducing"
+    },
+    {
+      "type": "leaf",
+      "word": "reduction"
+    },
+    {
+      "type": "leaf",
+      "word": "repair"
+    },
+    {
+      "type": "leaf",
+      "word": "replace"
+    },
+    {
+      "type": "leaf",
+      "word": "replaced"
+    },
+    {
+      "type": "leaf",
+      "word": "updated"
+    }
+  ]
+}

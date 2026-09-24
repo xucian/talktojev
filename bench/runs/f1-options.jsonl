@@ -1,0 +1,280 @@
+{"prompt": "how are you", "answer": "good", "size": 5, "style": "bare", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 5, "style": "rich", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 10, "style": "bare", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 10, "style": "rich", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 15, "style": "bare", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 15, "style": "rich", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 25, "style": "bare", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 25, "style": "rich", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 50, "style": "bare", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 50, "style": "rich", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 100, "style": "bare", "choice": "good", "p_answer": 0.99, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 100, "style": "rich", "choice": "good", "p_answer": 1, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 200, "style": "bare", "choice": "good", "p_answer": 0.97, "correct": true}
+{"prompt": "how are you", "answer": "good", "size": 200, "style": "rich", "choice": "good", "p_answer": 0.95, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 5, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 5, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 10, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 10, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 15, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 15, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 25, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 25, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 50, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 50, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 100, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 100, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 200, "style": "bare", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is the sky", "answer": "blue", "size": 200, "style": "rich", "choice": "blue", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 5, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 5, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 10, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 10, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 15, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 15, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 25, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 25, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 50, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 50, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 100, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 100, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 200, "style": "bare", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "what color is grass", "answer": "green", "size": 200, "style": "rich", "choice": "green", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 5, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 5, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 10, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 10, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 15, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 15, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 25, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 25, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 50, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 50, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 100, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 100, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 200, "style": "bare", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "is fire hot or cold", "answer": "hot", "size": 200, "style": "rich", "choice": "hot", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 5, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 5, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 10, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 10, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 15, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 15, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 25, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 25, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 50, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 50, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 100, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 100, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 200, "style": "bare", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of up", "answer": "down", "size": 200, "style": "rich", "choice": "down", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 5, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 5, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 10, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 10, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 15, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 15, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 25, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 25, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 50, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 50, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 100, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 100, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 200, "style": "bare", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal says meow", "answer": "cat", "size": 200, "style": "rich", "choice": "cat", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 5, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 5, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 10, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 10, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 15, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 15, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 25, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 25, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 50, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 50, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 100, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 100, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 200, "style": "bare", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what animal barks", "answer": "dog", "size": 200, "style": "rich", "choice": "dog", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 5, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 5, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 10, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 10, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 15, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 15, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 25, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 25, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 50, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 50, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 100, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 100, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 200, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you drink when thirsty", "answer": "water", "size": 200, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 5, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 5, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 10, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 10, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 15, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 15, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 25, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 25, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 50, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 50, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 100, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 100, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 200, "style": "bare", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "which season has snow", "answer": "winter", "size": 200, "style": "rich", "choice": "winter", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 5, "style": "bare", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 5, "style": "rich", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 10, "style": "bare", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 10, "style": "rich", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 15, "style": "bare", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 15, "style": "rich", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 25, "style": "bare", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 25, "style": "rich", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 50, "style": "bare", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 50, "style": "rich", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 100, "style": "bare", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 100, "style": "rich", "choice": "tuesday", "p_answer": 1, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 200, "style": "bare", "choice": "tuesday", "p_answer": 0.99, "correct": true}
+{"prompt": "what day comes after monday", "answer": "tuesday", "size": 200, "style": "rich", "choice": "tuesday", "p_answer": 0.99, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 5, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 5, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 10, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 10, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 15, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 15, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 25, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 25, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 50, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 50, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 100, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 100, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 200, "style": "bare", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "is ice hot or cold", "answer": "cold", "size": 200, "style": "rich", "choice": "cold", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 5, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 5, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 10, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 10, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 15, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 15, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 25, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 25, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 50, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 50, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 100, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 100, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 200, "style": "bare", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of big", "answer": "small", "size": 200, "style": "rich", "choice": "small", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 5, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 5, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 10, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 10, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 15, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 15, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 25, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 25, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 50, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 50, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 100, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 100, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 200, "style": "bare", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what do bees make", "answer": "honey", "size": 200, "style": "rich", "choice": "honey", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 5, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 5, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 10, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 10, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 15, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 15, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 25, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 25, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 50, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 50, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 100, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 100, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 200, "style": "bare", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what color is a banana", "answer": "yellow", "size": 200, "style": "rich", "choice": "yellow", "p_answer": 1, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 5, "style": "bare", "choice": "bed", "p_answer": 0.98, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 5, "style": "rich", "choice": "bed", "p_answer": 0.89, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 10, "style": "bare", "choice": "bed", "p_answer": 0.99, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 10, "style": "rich", "choice": "bed", "p_answer": 0.96, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 15, "style": "bare", "choice": "bed", "p_answer": 0.99, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 15, "style": "rich", "choice": "bed", "p_answer": 0.98, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 25, "style": "bare", "choice": "bed", "p_answer": 0.97, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 25, "style": "rich", "choice": "bed", "p_answer": 0.97, "correct": true}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 50, "style": "bare", "choice": "pants", "p_answer": 0.38, "correct": false}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 50, "style": "rich", "choice": "pants", "p_answer": 0.42, "correct": false}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 100, "style": "bare", "choice": "pants", "p_answer": 0.39, "correct": false}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 100, "style": "rich", "choice": "pants", "p_answer": 0.27, "correct": false}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 200, "style": "bare", "choice": "pants", "p_answer": 0.36, "correct": false}
+{"prompt": "what do you sleep in", "answer": "bed", "size": 200, "style": "rich", "choice": "bed", "p_answer": 0.5, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 5, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 5, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 10, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 10, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 15, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 15, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 25, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 25, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 50, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 50, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 100, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 100, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 200, "style": "bare", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what is the opposite of day", "answer": "night", "size": 200, "style": "rich", "choice": "night", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 5, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 5, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 10, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 10, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 15, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 15, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 25, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 25, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 50, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 50, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 100, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 100, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 200, "style": "bare", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do fish live in", "answer": "water", "size": 200, "style": "rich", "choice": "water", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 5, "style": "bare", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 5, "style": "rich", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 10, "style": "bare", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 10, "style": "rich", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 15, "style": "bare", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 15, "style": "rich", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 25, "style": "bare", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 25, "style": "rich", "choice": "book", "p_answer": 1, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 50, "style": "bare", "choice": "book", "p_answer": 0.99, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 50, "style": "rich", "choice": "book", "p_answer": 0.99, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 100, "style": "bare", "choice": "book", "p_answer": 0.97, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 100, "style": "rich", "choice": "book", "p_answer": 0.99, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 200, "style": "bare", "choice": "book", "p_answer": 0.95, "correct": true}
+{"prompt": "what do you read", "answer": "book", "size": 200, "style": "rich", "choice": "book", "p_answer": 0.96, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 5, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 5, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 10, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 10, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 15, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 15, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 25, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 25, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 50, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 50, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 100, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 100, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 200, "style": "bare", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what shines in the sky at night", "answer": "moon", "size": 200, "style": "rich", "choice": "moon", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 5, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 5, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 10, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 10, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 15, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 15, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 25, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 25, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 50, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 50, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 100, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 100, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 200, "style": "bare", "choice": "rain", "p_answer": 1, "correct": true}
+{"prompt": "what falls from clouds", "answer": "rain", "size": 200, "style": "rich", "choice": "rain", "p_answer": 1, "correct": true}

@@ -1,0 +1,695 @@
+{
+  "id": "world",
+  "label": "a place or thing in the world \u2014 home, world, country, city, room, body, animal, nature",
+  "word_count": 172,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "air"
+    },
+    {
+      "type": "leaf",
+      "word": "airport"
+    },
+    {
+      "type": "leaf",
+      "word": "animal"
+    },
+    {
+      "type": "leaf",
+      "word": "animals"
+    },
+    {
+      "type": "leaf",
+      "word": "anywhere"
+    },
+    {
+      "type": "leaf",
+      "word": "area"
+    },
+    {
+      "type": "leaf",
+      "word": "arm"
+    },
+    {
+      "type": "leaf",
+      "word": "arms"
+    },
+    {
+      "type": "leaf",
+      "word": "base"
+    },
+    {
+      "type": "leaf",
+      "word": "bay"
+    },
+    {
+      "type": "leaf",
+      "word": "beach"
+    },
+    {
+      "type": "leaf",
+      "word": "bird"
+    },
+    {
+      "type": "leaf",
+      "word": "birth"
+    },
+    {
+      "type": "leaf",
+      "word": "blood"
+    },
+    {
+      "type": "leaf",
+      "word": "body"
+    },
+    {
+      "type": "leaf",
+      "word": "bone"
+    },
+    {
+      "type": "leaf",
+      "word": "border"
+    },
+    {
+      "type": "leaf",
+      "word": "bottom"
+    },
+    {
+      "type": "leaf",
+      "word": "brain"
+    },
+    {
+      "type": "leaf",
+      "word": "bridge"
+    },
+    {
+      "type": "leaf",
+      "word": "building"
+    },
+    {
+      "type": "leaf",
+      "word": "camp"
+    },
+    {
+      "type": "leaf",
+      "word": "campus"
+    },
+    {
+      "type": "leaf",
+      "word": "castle"
+    },
+    {
+      "type": "leaf",
+      "word": "cat"
+    },
+    {
+      "type": "leaf",
+      "word": "cell"
+    },
+    {
+      "type": "leaf",
+      "word": "cells"
+    },
+    {
+      "type": "leaf",
+      "word": "center"
+    },
+    {
+      "type": "leaf",
+      "word": "chest"
+    },
+    {
+      "type": "leaf",
+      "word": "church"
+    },
+    {
+      "type": "leaf",
+      "word": "cities"
+    },
+    {
+      "type": "leaf",
+      "word": "city"
+    },
+    {
+      "type": "leaf",
+      "word": "college"
+    },
+    {
+      "type": "leaf",
+      "word": "corner"
+    },
+    {
+      "type": "leaf",
+      "word": "countries"
+    },
+    {
+      "type": "leaf",
+      "word": "country"
+    },
+    {
+      "type": "leaf",
+      "word": "court"
+    },
+    {
+      "type": "leaf",
+      "word": "creek"
+    },
+    {
+      "type": "leaf",
+      "word": "death"
+    },
+    {
+      "type": "leaf",
+      "word": "desert"
+    },
+    {
+      "type": "leaf",
+      "word": "direction"
+    },
+    {
+      "type": "leaf",
+      "word": "disease"
+    },
+    {
+      "type": "leaf",
+      "word": "distance"
+    },
+    {
+      "type": "leaf",
+      "word": "dog"
+    },
+    {
+      "type": "leaf",
+      "word": "door"
+    },
+    {
+      "type": "leaf",
+      "word": "ear"
+    },
+    {
+      "type": "leaf",
+      "word": "earth"
+    },
+    {
+      "type": "leaf",
+      "word": "east"
+    },
+    {
+      "type": "leaf",
+      "word": "edge"
+    },
+    {
+      "type": "leaf",
+      "word": "environment"
+    },
+    {
+      "type": "leaf",
+      "word": "everywhere"
+    },
+    {
+      "type": "leaf",
+      "word": "eye"
+    },
+    {
+      "type": "leaf",
+      "word": "eyes"
+    },
+    {
+      "type": "leaf",
+      "word": "face"
+    },
+    {
+      "type": "leaf",
+      "word": "farm"
+    },
+    {
+      "type": "leaf",
+      "word": "feet"
+    },
+    {
+      "type": "leaf",
+      "word": "field"
+    },
+    {
+      "type": "leaf",
+      "word": "finger"
+    },
+    {
+      "type": "leaf",
+      "word": "fire"
+    },
+    {
+      "type": "leaf",
+      "word": "fish"
+    },
+    {
+      "type": "leaf",
+      "word": "floor"
+    },
+    {
+      "type": "leaf",
+      "word": "flower"
+    },
+    {
+      "type": "leaf",
+      "word": "food"
+    },
+    {
+      "type": "leaf",
+      "word": "foot"
+    },
+    {
+      "type": "leaf",
+      "word": "forest"
+    },
+    {
+      "type": "leaf",
+      "word": "front"
+    },
+    {
+      "type": "leaf",
+      "word": "garden"
+    },
+    {
+      "type": "leaf",
+      "word": "ground"
+    },
+    {
+      "type": "leaf",
+      "word": "hair"
+    },
+    {
+      "type": "leaf",
+      "word": "hand"
+    },
+    {
+      "type": "leaf",
+      "word": "hands"
+    },
+    {
+      "type": "leaf",
+      "word": "head"
+    },
+    {
+      "type": "leaf",
+      "word": "health"
+    },
+    {
+      "type": "leaf",
+      "word": "heart"
+    },
+    {
+      "type": "leaf",
+      "word": "here"
+    },
+    {
+      "type": "leaf",
+      "word": "hill"
+    },
+    {
+      "type": "leaf",
+      "word": "home"
+    },
+    {
+      "type": "leaf",
+      "word": "horse"
+    },
+    {
+      "type": "leaf",
+      "word": "hospital"
+    },
+    {
+      "type": "leaf",
+      "word": "hotel"
+    },
+    {
+      "type": "leaf",
+      "word": "house"
+    },
+    {
+      "type": "leaf",
+      "word": "ice"
+    },
+    {
+      "type": "leaf",
+      "word": "inside"
+    },
+    {
+      "type": "leaf",
+      "word": "island"
+    },
+    {
+      "type": "leaf",
+      "word": "lake"
+    },
+    {
+      "type": "leaf",
+      "word": "land"
+    },
+    {
+      "type": "leaf",
+      "word": "leg"
+    },
+    {
+      "type": "leaf",
+      "word": "legs"
+    },
+    {
+      "type": "leaf",
+      "word": "library"
+    },
+    {
+      "type": "leaf",
+      "word": "life"
+    },
+    {
+      "type": "leaf",
+      "word": "line"
+    },
+    {
+      "type": "leaf",
+      "word": "location"
+    },
+    {
+      "type": "leaf",
+      "word": "market"
+    },
+    {
+      "type": "leaf",
+      "word": "meal"
+    },
+    {
+      "type": "leaf",
+      "word": "middle"
+    },
+    {
+      "type": "leaf",
+      "word": "moon"
+    },
+    {
+      "type": "leaf",
+      "word": "mountain"
+    },
+    {
+      "type": "leaf",
+      "word": "mouth"
+    },
+    {
+      "type": "leaf",
+      "word": "muscle"
+    },
+    {
+      "type": "leaf",
+      "word": "museum"
+    },
+    {
+      "type": "leaf",
+      "word": "nature"
+    },
+    {
+      "type": "leaf",
+      "word": "neck"
+    },
+    {
+      "type": "leaf",
+      "word": "north"
+    },
+    {
+      "type": "leaf",
+      "word": "nose"
+    },
+    {
+      "type": "leaf",
+      "word": "nowhere"
+    },
+    {
+      "type": "leaf",
+      "word": "ocean"
+    },
+    {
+      "type": "leaf",
+      "word": "office"
+    },
+    {
+      "type": "leaf",
+      "word": "outside"
+    },
+    {
+      "type": "leaf",
+      "word": "palace"
+    },
+    {
+      "type": "leaf",
+      "word": "park"
+    },
+    {
+      "type": "leaf",
+      "word": "path"
+    },
+    {
+      "type": "leaf",
+      "word": "place"
+    },
+    {
+      "type": "leaf",
+      "word": "planet"
+    },
+    {
+      "type": "leaf",
+      "word": "plant"
+    },
+    {
+      "type": "leaf",
+      "word": "plants"
+    },
+    {
+      "type": "leaf",
+      "word": "port"
+    },
+    {
+      "type": "leaf",
+      "word": "position"
+    },
+    {
+      "type": "leaf",
+      "word": "rain"
+    },
+    {
+      "type": "leaf",
+      "word": "region"
+    },
+    {
+      "type": "leaf",
+      "word": "restaurant"
+    },
+    {
+      "type": "leaf",
+      "word": "river"
+    },
+    {
+      "type": "leaf",
+      "word": "road"
+    },
+    {
+      "type": "leaf",
+      "word": "roof"
+    },
+    {
+      "type": "leaf",
+      "word": "room"
+    },
+    {
+      "type": "leaf",
+      "word": "scene"
+    },
+    {
+      "type": "leaf",
+      "word": "school"
+    },
+    {
+      "type": "leaf",
+      "word": "schools"
+    },
+    {
+      "type": "leaf",
+      "word": "sea"
+    },
+    {
+      "type": "leaf",
+      "word": "shop"
+    },
+    {
+      "type": "leaf",
+      "word": "shoulder"
+    },
+    {
+      "type": "leaf",
+      "word": "side"
+    },
+    {
+      "type": "leaf",
+      "word": "site"
+    },
+    {
+      "type": "leaf",
+      "word": "skin"
+    },
+    {
+      "type": "leaf",
+      "word": "snow"
+    },
+    {
+      "type": "leaf",
+      "word": "somewhere"
+    },
+    {
+      "type": "leaf",
+      "word": "south"
+    },
+    {
+      "type": "leaf",
+      "word": "space"
+    },
+    {
+      "type": "leaf",
+      "word": "spring"
+    },
+    {
+      "type": "leaf",
+      "word": "stadium"
+    },
+    {
+      "type": "leaf",
+      "word": "star"
+    },
+    {
+      "type": "leaf",
+      "word": "stars"
+    },
+    {
+      "type": "leaf",
+      "word": "states"
+    },
+    {
+      "type": "leaf",
+      "word": "station"
+    },
+    {
+      "type": "leaf",
+      "word": "stomach"
+    },
+    {
+      "type": "leaf",
+      "word": "store"
+    },
+    {
+      "type": "leaf",
+      "word": "stream"
+    },
+    {
+      "type": "leaf",
+      "word": "street"
+    },
+    {
+      "type": "leaf",
+      "word": "summer"
+    },
+    {
+      "type": "leaf",
+      "word": "sun"
+    },
+    {
+      "type": "leaf",
+      "word": "surface"
+    },
+    {
+      "type": "leaf",
+      "word": "temple"
+    },
+    {
+      "type": "leaf",
+      "word": "theater"
+    },
+    {
+      "type": "leaf",
+      "word": "there"
+    },
+    {
+      "type": "leaf",
+      "word": "throat"
+    },
+    {
+      "type": "leaf",
+      "word": "tongue"
+    },
+    {
+      "type": "leaf",
+      "word": "top"
+    },
+    {
+      "type": "leaf",
+      "word": "tower"
+    },
+    {
+      "type": "leaf",
+      "word": "town"
+    },
+    {
+      "type": "leaf",
+      "word": "tree"
+    },
+    {
+      "type": "leaf",
+      "word": "trees"
+    },
+    {
+      "type": "leaf",
+      "word": "universe"
+    },
+    {
+      "type": "leaf",
+      "word": "university"
+    },
+    {
+      "type": "leaf",
+      "word": "valley"
+    },
+    {
+      "type": "leaf",
+      "word": "village"
+    },
+    {
+      "type": "leaf",
+      "word": "wall"
+    },
+    {
+      "type": "leaf",
+      "word": "water"
+    },
+    {
+      "type": "leaf",
+      "word": "weather"
+    },
+    {
+      "type": "leaf",
+      "word": "west"
+    },
+    {
+      "type": "leaf",
+      "word": "wind"
+    },
+    {
+      "type": "leaf",
+      "word": "window"
+    },
+    {
+      "type": "leaf",
+      "word": "winter"
+    },
+    {
+      "type": "leaf",
+      "word": "world"
+    }
+  ]
+}

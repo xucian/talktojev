@@ -1,0 +1,99 @@
+{
+  "id": "food_drink",
+  "label": "a food or drink word \u2014 meal, breakfast, dinner, cook, fruit, bread, coffee, meat, rice, drink, taste",
+  "word_count": 23,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "alcohol"
+    },
+    {
+      "type": "leaf",
+      "word": "beef"
+    },
+    {
+      "type": "leaf",
+      "word": "breakfast"
+    },
+    {
+      "type": "leaf",
+      "word": "butter"
+    },
+    {
+      "type": "leaf",
+      "word": "candy"
+    },
+    {
+      "type": "leaf",
+      "word": "cheese"
+    },
+    {
+      "type": "leaf",
+      "word": "chicken"
+    },
+    {
+      "type": "leaf",
+      "word": "cooking"
+    },
+    {
+      "type": "leaf",
+      "word": "cream"
+    },
+    {
+      "type": "leaf",
+      "word": "diet"
+    },
+    {
+      "type": "leaf",
+      "word": "dinner"
+    },
+    {
+      "type": "leaf",
+      "word": "drinks"
+    },
+    {
+      "type": "leaf",
+      "word": "honey"
+    },
+    {
+      "type": "leaf",
+      "word": "hungry"
+    },
+    {
+      "type": "leaf",
+      "word": "juice"
+    },
+    {
+      "type": "leaf",
+      "word": "lunch"
+    },
+    {
+      "type": "leaf",
+      "word": "nuts"
+    },
+    {
+      "type": "leaf",
+      "word": "pizza"
+    },
+    {
+      "type": "leaf",
+      "word": "recipe"
+    },
+    {
+      "type": "leaf",
+      "word": "sauce"
+    },
+    {
+      "type": "leaf",
+      "word": "seed"
+    },
+    {
+      "type": "leaf",
+      "word": "seeds"
+    },
+    {
+      "type": "leaf",
+      "word": "taste"
+    }
+  ]
+}

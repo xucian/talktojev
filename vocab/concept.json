@@ -1,0 +1,1992 @@
+{
+  "id": "concept",
+  "label": "an idea or concept \u2014 way, idea, fact, reason, problem, plan, system, goal, purpose",
+  "word_count": 491,
+  "children": [
+    {
+      "type": "branch",
+      "id": "a-j",
+      "label": "a-j: ability, abortion, access, account, achievement",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "ability"
+        },
+        {
+          "type": "leaf",
+          "word": "abortion"
+        },
+        {
+          "type": "leaf",
+          "word": "access"
+        },
+        {
+          "type": "leaf",
+          "word": "account"
+        },
+        {
+          "type": "leaf",
+          "word": "achievement"
+        },
+        {
+          "type": "leaf",
+          "word": "acquisition"
+        },
+        {
+          "type": "leaf",
+          "word": "action"
+        },
+        {
+          "type": "leaf",
+          "word": "activities"
+        },
+        {
+          "type": "leaf",
+          "word": "activity"
+        },
+        {
+          "type": "leaf",
+          "word": "addition"
+        },
+        {
+          "type": "leaf",
+          "word": "address"
+        },
+        {
+          "type": "leaf",
+          "word": "advantage"
+        },
+        {
+          "type": "leaf",
+          "word": "advice"
+        },
+        {
+          "type": "leaf",
+          "word": "aim"
+        },
+        {
+          "type": "leaf",
+          "word": "analysis"
+        },
+        {
+          "type": "leaf",
+          "word": "appearance"
+        },
+        {
+          "type": "leaf",
+          "word": "approach"
+        },
+        {
+          "type": "leaf",
+          "word": "areas"
+        },
+        {
+          "type": "leaf",
+          "word": "arrangement"
+        },
+        {
+          "type": "leaf",
+          "word": "article"
+        },
+        {
+          "type": "leaf",
+          "word": "aspect"
+        },
+        {
+          "type": "leaf",
+          "word": "aspects"
+        },
+        {
+          "type": "leaf",
+          "word": "assessment"
+        },
+        {
+          "type": "leaf",
+          "word": "assistance"
+        },
+        {
+          "type": "leaf",
+          "word": "association"
+        },
+        {
+          "type": "leaf",
+          "word": "attempt"
+        },
+        {
+          "type": "leaf",
+          "word": "auction"
+        },
+        {
+          "type": "leaf",
+          "word": "background"
+        },
+        {
+          "type": "leaf",
+          "word": "balance"
+        },
+        {
+          "type": "leaf",
+          "word": "basis"
+        },
+        {
+          "type": "leaf",
+          "word": "beliefs"
+        },
+        {
+          "type": "leaf",
+          "word": "benefit"
+        },
+        {
+          "type": "leaf",
+          "word": "burden"
+        },
+        {
+          "type": "leaf",
+          "word": "capacity"
+        },
+        {
+          "type": "leaf",
+          "word": "capital"
+        },
+        {
+          "type": "leaf",
+          "word": "category"
+        },
+        {
+          "type": "leaf",
+          "word": "challenge"
+        },
+        {
+          "type": "leaf",
+          "word": "challenges"
+        },
+        {
+          "type": "leaf",
+          "word": "chance"
+        },
+        {
+          "type": "leaf",
+          "word": "chances"
+        },
+        {
+          "type": "leaf",
+          "word": "changes"
+        },
+        {
+          "type": "leaf",
+          "word": "chapter"
+        },
+        {
+          "type": "leaf",
+          "word": "characteristics"
+        },
+        {
+          "type": "leaf",
+          "word": "charge"
+        },
+        {
+          "type": "leaf",
+          "word": "choice"
+        },
+        {
+          "type": "leaf",
+          "word": "choices"
+        },
+        {
+          "type": "leaf",
+          "word": "circumstances"
+        },
+        {
+          "type": "leaf",
+          "word": "claims"
+        },
+        {
+          "type": "leaf",
+          "word": "class"
+        },
+        {
+          "type": "leaf",
+          "word": "club"
+        },
+        {
+          "type": "leaf",
+          "word": "coalition"
+        },
+        {
+          "type": "leaf",
+          "word": "code"
+        },
+        {
+          "type": "leaf",
+          "word": "collaboration"
+        },
+        {
+          "type": "leaf",
+          "word": "combination"
+        },
+        {
+          "type": "leaf",
+          "word": "comparison"
+        },
+        {
+          "type": "leaf",
+          "word": "compensation"
+        },
+        {
+          "type": "leaf",
+          "word": "competition"
+        },
+        {
+          "type": "leaf",
+          "word": "complaints"
+        },
+        {
+          "type": "leaf",
+          "word": "completion"
+        },
+        {
+          "type": "leaf",
+          "word": "components"
+        },
+        {
+          "type": "leaf",
+          "word": "composition"
+        },
+        {
+          "type": "leaf",
+          "word": "concentration"
+        },
+        {
+          "type": "leaf",
+          "word": "concerns"
+        },
+        {
+          "type": "leaf",
+          "word": "condition"
+        },
+        {
+          "type": "leaf",
+          "word": "conditions"
+        },
+        {
+          "type": "leaf",
+          "word": "conduct"
+        },
+        {
+          "type": "leaf",
+          "word": "confidence"
+        },
+        {
+          "type": "leaf",
+          "word": "connection"
+        },
+        {
+          "type": "leaf",
+          "word": "connections"
+        },
+        {
+          "type": "leaf",
+          "word": "consequences"
+        },
+        {
+          "type": "leaf",
+          "word": "consideration"
+        },
+        {
+          "type": "leaf",
+          "word": "consumption"
+        },
+        {
+          "type": "leaf",
+          "word": "context"
+        },
+        {
+          "type": "leaf",
+          "word": "contribution"
+        },
+        {
+          "type": "leaf",
+          "word": "controversy"
+        },
+        {
+          "type": "leaf",
+          "word": "convention"
+        },
+        {
+          "type": "leaf",
+          "word": "core"
+        },
+        {
+          "type": "leaf",
+          "word": "course"
+        },
+        {
+          "type": "leaf",
+          "word": "coverage"
+        },
+        {
+          "type": "leaf",
+          "word": "criticism"
+        },
+        {
+          "type": "leaf",
+          "word": "cross"
+        },
+        {
+          "type": "leaf",
+          "word": "culture"
+        },
+        {
+          "type": "leaf",
+          "word": "damage"
+        },
+        {
+          "type": "leaf",
+          "word": "darkness"
+        },
+        {
+          "type": "leaf",
+          "word": "deaths"
+        },
+        {
+          "type": "leaf",
+          "word": "decades"
+        },
+        {
+          "type": "leaf",
+          "word": "decision"
+        },
+        {
+          "type": "leaf",
+          "word": "decisions"
+        },
+        {
+          "type": "leaf",
+          "word": "default"
+        },
+        {
+          "type": "leaf",
+          "word": "defence"
+        },
+        {
+          "type": "leaf",
+          "word": "definition"
+        },
+        {
+          "type": "leaf",
+          "word": "delay"
+        },
+        {
+          "type": "leaf",
+          "word": "desire"
+        },
+        {
+          "type": "leaf",
+          "word": "destruction"
+        },
+        {
+          "type": "leaf",
+          "word": "detail"
+        },
+        {
+          "type": "leaf",
+          "word": "details"
+        },
+        {
+          "type": "leaf",
+          "word": "development"
+        },
+        {
+          "type": "leaf",
+          "word": "developments"
+        },
+        {
+          "type": "leaf",
+          "word": "difference"
+        },
+        {
+          "type": "leaf",
+          "word": "differences"
+        },
+        {
+          "type": "leaf",
+          "word": "directions"
+        },
+        {
+          "type": "leaf",
+          "word": "discussions"
+        },
+        {
+          "type": "leaf",
+          "word": "distribution"
+        },
+        {
+          "type": "leaf",
+          "word": "district"
+        },
+        {
+          "type": "leaf",
+          "word": "division"
+        },
+        {
+          "type": "leaf",
+          "word": "education"
+        },
+        {
+          "type": "leaf",
+          "word": "effect"
+        },
+        {
+          "type": "leaf",
+          "word": "effort"
+        },
+        {
+          "type": "leaf",
+          "word": "efforts"
+        },
+        {
+          "type": "leaf",
+          "word": "element"
+        },
+        {
+          "type": "leaf",
+          "word": "elements"
+        },
+        {
+          "type": "leaf",
+          "word": "emotions"
+        },
+        {
+          "type": "leaf",
+          "word": "employment"
+        },
+        {
+          "type": "leaf",
+          "word": "energy"
+        },
+        {
+          "type": "leaf",
+          "word": "engagement"
+        },
+        {
+          "type": "leaf",
+          "word": "entrance"
+        },
+        {
+          "type": "leaf",
+          "word": "error"
+        },
+        {
+          "type": "leaf",
+          "word": "errors"
+        },
+        {
+          "type": "leaf",
+          "word": "estimates"
+        },
+        {
+          "type": "leaf",
+          "word": "evidence"
+        },
+        {
+          "type": "leaf",
+          "word": "examination"
+        },
+        {
+          "type": "leaf",
+          "word": "example"
+        },
+        {
+          "type": "leaf",
+          "word": "examples"
+        },
+        {
+          "type": "leaf",
+          "word": "exception"
+        },
+        {
+          "type": "leaf",
+          "word": "exchange"
+        },
+        {
+          "type": "leaf",
+          "word": "execution"
+        },
+        {
+          "type": "leaf",
+          "word": "existence"
+        },
+        {
+          "type": "leaf",
+          "word": "expectations"
+        },
+        {
+          "type": "leaf",
+          "word": "exposure"
+        },
+        {
+          "type": "leaf",
+          "word": "extension"
+        },
+        {
+          "type": "leaf",
+          "word": "extent"
+        },
+        {
+          "type": "leaf",
+          "word": "facility"
+        },
+        {
+          "type": "leaf",
+          "word": "fact"
+        },
+        {
+          "type": "leaf",
+          "word": "factor"
+        },
+        {
+          "type": "leaf",
+          "word": "factors"
+        },
+        {
+          "type": "leaf",
+          "word": "facts"
+        },
+        {
+          "type": "leaf",
+          "word": "failure"
+        },
+        {
+          "type": "leaf",
+          "word": "fame"
+        },
+        {
+          "type": "leaf",
+          "word": "fashion"
+        },
+        {
+          "type": "leaf",
+          "word": "fate"
+        },
+        {
+          "type": "leaf",
+          "word": "fault"
+        },
+        {
+          "type": "leaf",
+          "word": "favor"
+        },
+        {
+          "type": "leaf",
+          "word": "favourite"
+        },
+        {
+          "type": "leaf",
+          "word": "feature"
+        },
+        {
+          "type": "leaf",
+          "word": "features"
+        },
+        {
+          "type": "leaf",
+          "word": "federation"
+        },
+        {
+          "type": "leaf",
+          "word": "findings"
+        },
+        {
+          "type": "leaf",
+          "word": "force"
+        },
+        {
+          "type": "leaf",
+          "word": "formation"
+        },
+        {
+          "type": "leaf",
+          "word": "forms"
+        },
+        {
+          "type": "leaf",
+          "word": "fortune"
+        },
+        {
+          "type": "leaf",
+          "word": "framework"
+        },
+        {
+          "type": "leaf",
+          "word": "function"
+        },
+        {
+          "type": "leaf",
+          "word": "functions"
+        },
+        {
+          "type": "leaf",
+          "word": "gain"
+        },
+        {
+          "type": "leaf",
+          "word": "gains"
+        },
+        {
+          "type": "leaf",
+          "word": "gap"
+        },
+        {
+          "type": "leaf",
+          "word": "generation"
+        },
+        {
+          "type": "leaf",
+          "word": "glory"
+        },
+        {
+          "type": "leaf",
+          "word": "goal"
+        },
+        {
+          "type": "leaf",
+          "word": "goals"
+        },
+        {
+          "type": "leaf",
+          "word": "grounds"
+        },
+        {
+          "type": "leaf",
+          "word": "growth"
+        },
+        {
+          "type": "leaf",
+          "word": "guarantee"
+        },
+        {
+          "type": "leaf",
+          "word": "guidelines"
+        },
+        {
+          "type": "leaf",
+          "word": "habit"
+        },
+        {
+          "type": "leaf",
+          "word": "happiness"
+        },
+        {
+          "type": "leaf",
+          "word": "highlights"
+        },
+        {
+          "type": "leaf",
+          "word": "humanity"
+        },
+        {
+          "type": "leaf",
+          "word": "ideas"
+        },
+        {
+          "type": "leaf",
+          "word": "identity"
+        },
+        {
+          "type": "leaf",
+          "word": "images"
+        },
+        {
+          "type": "leaf",
+          "word": "impact"
+        },
+        {
+          "type": "leaf",
+          "word": "implementation"
+        },
+        {
+          "type": "leaf",
+          "word": "importance"
+        },
+        {
+          "type": "leaf",
+          "word": "impression"
+        },
+        {
+          "type": "leaf",
+          "word": "improvements"
+        },
+        {
+          "type": "leaf",
+          "word": "index"
+        },
+        {
+          "type": "leaf",
+          "word": "influence"
+        },
+        {
+          "type": "leaf",
+          "word": "infrastructure"
+        },
+        {
+          "type": "leaf",
+          "word": "innovation"
+        },
+        {
+          "type": "leaf",
+          "word": "input"
+        },
+        {
+          "type": "leaf",
+          "word": "inspiration"
+        },
+        {
+          "type": "leaf",
+          "word": "instance"
+        },
+        {
+          "type": "leaf",
+          "word": "instructions"
+        },
+        {
+          "type": "leaf",
+          "word": "integration"
+        },
+        {
+          "type": "leaf",
+          "word": "integrity"
+        },
+        {
+          "type": "leaf",
+          "word": "intent"
+        },
+        {
+          "type": "leaf",
+          "word": "intention"
+        },
+        {
+          "type": "leaf",
+          "word": "interaction"
+        },
+        {
+          "type": "leaf",
+          "word": "interests"
+        },
+        {
+          "type": "leaf",
+          "word": "interpretation"
+        },
+        {
+          "type": "leaf",
+          "word": "intervention"
+        },
+        {
+          "type": "leaf",
+          "word": "introduction"
+        },
+        {
+          "type": "leaf",
+          "word": "investigation"
+        },
+        {
+          "type": "leaf",
+          "word": "involvement"
+        },
+        {
+          "type": "leaf",
+          "word": "issue"
+        },
+        {
+          "type": "leaf",
+          "word": "issues"
+        },
+        {
+          "type": "leaf",
+          "word": "joy"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "k-r",
+      "label": "k-r: kinds, kingdom, lack, landscape, languages",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "kinds"
+        },
+        {
+          "type": "leaf",
+          "word": "kingdom"
+        },
+        {
+          "type": "leaf",
+          "word": "lack"
+        },
+        {
+          "type": "leaf",
+          "word": "landscape"
+        },
+        {
+          "type": "leaf",
+          "word": "languages"
+        },
+        {
+          "type": "leaf",
+          "word": "law"
+        },
+        {
+          "type": "leaf",
+          "word": "laws"
+        },
+        {
+          "type": "leaf",
+          "word": "layer"
+        },
+        {
+          "type": "leaf",
+          "word": "level"
+        },
+        {
+          "type": "leaf",
+          "word": "levels"
+        },
+        {
+          "type": "leaf",
+          "word": "license"
+        },
+        {
+          "type": "leaf",
+          "word": "limit"
+        },
+        {
+          "type": "leaf",
+          "word": "limits"
+        },
+        {
+          "type": "leaf",
+          "word": "list"
+        },
+        {
+          "type": "leaf",
+          "word": "lives"
+        },
+        {
+          "type": "leaf",
+          "word": "locations"
+        },
+        {
+          "type": "leaf",
+          "word": "loop"
+        },
+        {
+          "type": "leaf",
+          "word": "luxury"
+        },
+        {
+          "type": "leaf",
+          "word": "maintenance"
+        },
+        {
+          "type": "leaf",
+          "word": "majority"
+        },
+        {
+          "type": "leaf",
+          "word": "manner"
+        },
+        {
+          "type": "leaf",
+          "word": "margin"
+        },
+        {
+          "type": "leaf",
+          "word": "material"
+        },
+        {
+          "type": "leaf",
+          "word": "matter"
+        },
+        {
+          "type": "leaf",
+          "word": "matters"
+        },
+        {
+          "type": "leaf",
+          "word": "measures"
+        },
+        {
+          "type": "leaf",
+          "word": "mechanism"
+        },
+        {
+          "type": "leaf",
+          "word": "membership"
+        },
+        {
+          "type": "leaf",
+          "word": "memories"
+        },
+        {
+          "type": "leaf",
+          "word": "mess"
+        },
+        {
+          "type": "leaf",
+          "word": "method"
+        },
+        {
+          "type": "leaf",
+          "word": "methods"
+        },
+        {
+          "type": "leaf",
+          "word": "minority"
+        },
+        {
+          "type": "leaf",
+          "word": "mission"
+        },
+        {
+          "type": "leaf",
+          "word": "mistakes"
+        },
+        {
+          "type": "leaf",
+          "word": "mix"
+        },
+        {
+          "type": "leaf",
+          "word": "mode"
+        },
+        {
+          "type": "leaf",
+          "word": "model"
+        },
+        {
+          "type": "leaf",
+          "word": "models"
+        },
+        {
+          "type": "leaf",
+          "word": "moments"
+        },
+        {
+          "type": "leaf",
+          "word": "motion"
+        },
+        {
+          "type": "leaf",
+          "word": "motivation"
+        },
+        {
+          "type": "leaf",
+          "word": "movement"
+        },
+        {
+          "type": "leaf",
+          "word": "movements"
+        },
+        {
+          "type": "leaf",
+          "word": "network"
+        },
+        {
+          "type": "leaf",
+          "word": "objects"
+        },
+        {
+          "type": "leaf",
+          "word": "occasion"
+        },
+        {
+          "type": "leaf",
+          "word": "occasions"
+        },
+        {
+          "type": "leaf",
+          "word": "offers"
+        },
+        {
+          "type": "leaf",
+          "word": "operation"
+        },
+        {
+          "type": "leaf",
+          "word": "operations"
+        },
+        {
+          "type": "leaf",
+          "word": "opinions"
+        },
+        {
+          "type": "leaf",
+          "word": "opportunities"
+        },
+        {
+          "type": "leaf",
+          "word": "opportunity"
+        },
+        {
+          "type": "leaf",
+          "word": "opposition"
+        },
+        {
+          "type": "leaf",
+          "word": "option"
+        },
+        {
+          "type": "leaf",
+          "word": "options"
+        },
+        {
+          "type": "leaf",
+          "word": "orders"
+        },
+        {
+          "type": "leaf",
+          "word": "organisation"
+        },
+        {
+          "type": "leaf",
+          "word": "others"
+        },
+        {
+          "type": "leaf",
+          "word": "outcome"
+        },
+        {
+          "type": "leaf",
+          "word": "output"
+        },
+        {
+          "type": "leaf",
+          "word": "ownership"
+        },
+        {
+          "type": "leaf",
+          "word": "pace"
+        },
+        {
+          "type": "leaf",
+          "word": "panel"
+        },
+        {
+          "type": "leaf",
+          "word": "panic"
+        },
+        {
+          "type": "leaf",
+          "word": "part"
+        },
+        {
+          "type": "leaf",
+          "word": "participation"
+        },
+        {
+          "type": "leaf",
+          "word": "partnership"
+        },
+        {
+          "type": "leaf",
+          "word": "parts"
+        },
+        {
+          "type": "leaf",
+          "word": "passage"
+        },
+        {
+          "type": "leaf",
+          "word": "passion"
+        },
+        {
+          "type": "leaf",
+          "word": "pattern"
+        },
+        {
+          "type": "leaf",
+          "word": "percentage"
+        },
+        {
+          "type": "leaf",
+          "word": "performance"
+        },
+        {
+          "type": "leaf",
+          "word": "performances"
+        },
+        {
+          "type": "leaf",
+          "word": "periods"
+        },
+        {
+          "type": "leaf",
+          "word": "permission"
+        },
+        {
+          "type": "leaf",
+          "word": "personality"
+        },
+        {
+          "type": "leaf",
+          "word": "philosophy"
+        },
+        {
+          "type": "leaf",
+          "word": "pieces"
+        },
+        {
+          "type": "leaf",
+          "word": "places"
+        },
+        {
+          "type": "leaf",
+          "word": "planning"
+        },
+        {
+          "type": "leaf",
+          "word": "plans"
+        },
+        {
+          "type": "leaf",
+          "word": "points"
+        },
+        {
+          "type": "leaf",
+          "word": "policy"
+        },
+        {
+          "type": "leaf",
+          "word": "popularity"
+        },
+        {
+          "type": "leaf",
+          "word": "portion"
+        },
+        {
+          "type": "leaf",
+          "word": "positions"
+        },
+        {
+          "type": "leaf",
+          "word": "possession"
+        },
+        {
+          "type": "leaf",
+          "word": "possibility"
+        },
+        {
+          "type": "leaf",
+          "word": "potential"
+        },
+        {
+          "type": "leaf",
+          "word": "power"
+        },
+        {
+          "type": "leaf",
+          "word": "powers"
+        },
+        {
+          "type": "leaf",
+          "word": "practice"
+        },
+        {
+          "type": "leaf",
+          "word": "practices"
+        },
+        {
+          "type": "leaf",
+          "word": "preparation"
+        },
+        {
+          "type": "leaf",
+          "word": "presence"
+        },
+        {
+          "type": "leaf",
+          "word": "presentation"
+        },
+        {
+          "type": "leaf",
+          "word": "pressure"
+        },
+        {
+          "type": "leaf",
+          "word": "prevention"
+        },
+        {
+          "type": "leaf",
+          "word": "pride"
+        },
+        {
+          "type": "leaf",
+          "word": "principles"
+        },
+        {
+          "type": "leaf",
+          "word": "priority"
+        },
+        {
+          "type": "leaf",
+          "word": "privacy"
+        },
+        {
+          "type": "leaf",
+          "word": "problem"
+        },
+        {
+          "type": "leaf",
+          "word": "problems"
+        },
+        {
+          "type": "leaf",
+          "word": "process"
+        },
+        {
+          "type": "leaf",
+          "word": "processes"
+        },
+        {
+          "type": "leaf",
+          "word": "product"
+        },
+        {
+          "type": "leaf",
+          "word": "production"
+        },
+        {
+          "type": "leaf",
+          "word": "products"
+        },
+        {
+          "type": "leaf",
+          "word": "program"
+        },
+        {
+          "type": "leaf",
+          "word": "programs"
+        },
+        {
+          "type": "leaf",
+          "word": "progress"
+        },
+        {
+          "type": "leaf",
+          "word": "project"
+        },
+        {
+          "type": "leaf",
+          "word": "projects"
+        },
+        {
+          "type": "leaf",
+          "word": "promises"
+        },
+        {
+          "type": "leaf",
+          "word": "properties"
+        },
+        {
+          "type": "leaf",
+          "word": "protest"
+        },
+        {
+          "type": "leaf",
+          "word": "psychology"
+        },
+        {
+          "type": "leaf",
+          "word": "publication"
+        },
+        {
+          "type": "leaf",
+          "word": "punishment"
+        },
+        {
+          "type": "leaf",
+          "word": "purpose"
+        },
+        {
+          "type": "leaf",
+          "word": "purposes"
+        },
+        {
+          "type": "leaf",
+          "word": "quality"
+        },
+        {
+          "type": "leaf",
+          "word": "questions"
+        },
+        {
+          "type": "leaf",
+          "word": "range"
+        },
+        {
+          "type": "leaf",
+          "word": "reaction"
+        },
+        {
+          "type": "leaf",
+          "word": "reactions"
+        },
+        {
+          "type": "leaf",
+          "word": "reality"
+        },
+        {
+          "type": "leaf",
+          "word": "reasons"
+        },
+        {
+          "type": "leaf",
+          "word": "reception"
+        },
+        {
+          "type": "leaf",
+          "word": "recommendations"
+        },
+        {
+          "type": "leaf",
+          "word": "record"
+        },
+        {
+          "type": "leaf",
+          "word": "records"
+        },
+        {
+          "type": "leaf",
+          "word": "reference"
+        },
+        {
+          "type": "leaf",
+          "word": "references"
+        },
+        {
+          "type": "leaf",
+          "word": "regard"
+        },
+        {
+          "type": "leaf",
+          "word": "regions"
+        },
+        {
+          "type": "leaf",
+          "word": "registration"
+        },
+        {
+          "type": "leaf",
+          "word": "regret"
+        },
+        {
+          "type": "leaf",
+          "word": "relation"
+        },
+        {
+          "type": "leaf",
+          "word": "relations"
+        },
+        {
+          "type": "leaf",
+          "word": "relationship"
+        },
+        {
+          "type": "leaf",
+          "word": "relationships"
+        },
+        {
+          "type": "leaf",
+          "word": "release"
+        },
+        {
+          "type": "leaf",
+          "word": "religion"
+        },
+        {
+          "type": "leaf",
+          "word": "removal"
+        },
+        {
+          "type": "leaf",
+          "word": "replacement"
+        },
+        {
+          "type": "leaf",
+          "word": "reports"
+        },
+        {
+          "type": "leaf",
+          "word": "representation"
+        },
+        {
+          "type": "leaf",
+          "word": "reputation"
+        },
+        {
+          "type": "leaf",
+          "word": "requirement"
+        },
+        {
+          "type": "leaf",
+          "word": "requirements"
+        },
+        {
+          "type": "leaf",
+          "word": "reserves"
+        },
+        {
+          "type": "leaf",
+          "word": "residence"
+        },
+        {
+          "type": "leaf",
+          "word": "resistance"
+        },
+        {
+          "type": "leaf",
+          "word": "resort"
+        },
+        {
+          "type": "leaf",
+          "word": "response"
+        },
+        {
+          "type": "leaf",
+          "word": "responses"
+        },
+        {
+          "type": "leaf",
+          "word": "restrictions"
+        },
+        {
+          "type": "leaf",
+          "word": "results"
+        },
+        {
+          "type": "leaf",
+          "word": "returns"
+        },
+        {
+          "type": "leaf",
+          "word": "reviews"
+        },
+        {
+          "type": "leaf",
+          "word": "reward"
+        },
+        {
+          "type": "leaf",
+          "word": "risks"
+        },
+        {
+          "type": "leaf",
+          "word": "romance"
+        },
+        {
+          "type": "leaf",
+          "word": "rounds"
+        },
+        {
+          "type": "leaf",
+          "word": "rule"
+        },
+        {
+          "type": "leaf",
+          "word": "rules"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "s-z",
+      "label": "s-z: sacrifice, sales, savings, scenes, scheme",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "sacrifice"
+        },
+        {
+          "type": "leaf",
+          "word": "sales"
+        },
+        {
+          "type": "leaf",
+          "word": "savings"
+        },
+        {
+          "type": "leaf",
+          "word": "scenes"
+        },
+        {
+          "type": "leaf",
+          "word": "scheme"
+        },
+        {
+          "type": "leaf",
+          "word": "science"
+        },
+        {
+          "type": "leaf",
+          "word": "scope"
+        },
+        {
+          "type": "leaf",
+          "word": "scores"
+        },
+        {
+          "type": "leaf",
+          "word": "secrets"
+        },
+        {
+          "type": "leaf",
+          "word": "section"
+        },
+        {
+          "type": "leaf",
+          "word": "sections"
+        },
+        {
+          "type": "leaf",
+          "word": "sector"
+        },
+        {
+          "type": "leaf",
+          "word": "segment"
+        },
+        {
+          "type": "leaf",
+          "word": "selection"
+        },
+        {
+          "type": "leaf",
+          "word": "sequence"
+        },
+        {
+          "type": "leaf",
+          "word": "series"
+        },
+        {
+          "type": "leaf",
+          "word": "service"
+        },
+        {
+          "type": "leaf",
+          "word": "services"
+        },
+        {
+          "type": "leaf",
+          "word": "session"
+        },
+        {
+          "type": "leaf",
+          "word": "sessions"
+        },
+        {
+          "type": "leaf",
+          "word": "settings"
+        },
+        {
+          "type": "leaf",
+          "word": "settlement"
+        },
+        {
+          "type": "leaf",
+          "word": "shelter"
+        },
+        {
+          "type": "leaf",
+          "word": "sight"
+        },
+        {
+          "type": "leaf",
+          "word": "signature"
+        },
+        {
+          "type": "leaf",
+          "word": "silence"
+        },
+        {
+          "type": "leaf",
+          "word": "sin"
+        },
+        {
+          "type": "leaf",
+          "word": "situations"
+        },
+        {
+          "type": "leaf",
+          "word": "size"
+        },
+        {
+          "type": "leaf",
+          "word": "skill"
+        },
+        {
+          "type": "leaf",
+          "word": "skills"
+        },
+        {
+          "type": "leaf",
+          "word": "solution"
+        },
+        {
+          "type": "leaf",
+          "word": "solutions"
+        },
+        {
+          "type": "leaf",
+          "word": "sort"
+        },
+        {
+          "type": "leaf",
+          "word": "source"
+        },
+        {
+          "type": "leaf",
+          "word": "sources"
+        },
+        {
+          "type": "leaf",
+          "word": "spaces"
+        },
+        {
+          "type": "leaf",
+          "word": "stability"
+        },
+        {
+          "type": "leaf",
+          "word": "stage"
+        },
+        {
+          "type": "leaf",
+          "word": "stages"
+        },
+        {
+          "type": "leaf",
+          "word": "standards"
+        },
+        {
+          "type": "leaf",
+          "word": "statements"
+        },
+        {
+          "type": "leaf",
+          "word": "statistics"
+        },
+        {
+          "type": "leaf",
+          "word": "status"
+        },
+        {
+          "type": "leaf",
+          "word": "step"
+        },
+        {
+          "type": "leaf",
+          "word": "steps"
+        },
+        {
+          "type": "leaf",
+          "word": "strategies"
+        },
+        {
+          "type": "leaf",
+          "word": "strategy"
+        },
+        {
+          "type": "leaf",
+          "word": "strength"
+        },
+        {
+          "type": "leaf",
+          "word": "stress"
+        },
+        {
+          "type": "leaf",
+          "word": "structure"
+        },
+        {
+          "type": "leaf",
+          "word": "structures"
+        },
+        {
+          "type": "leaf",
+          "word": "struggle"
+        },
+        {
+          "type": "leaf",
+          "word": "studies"
+        },
+        {
+          "type": "leaf",
+          "word": "style"
+        },
+        {
+          "type": "leaf",
+          "word": "styles"
+        },
+        {
+          "type": "leaf",
+          "word": "subject"
+        },
+        {
+          "type": "leaf",
+          "word": "success"
+        },
+        {
+          "type": "leaf",
+          "word": "suggestion"
+        },
+        {
+          "type": "leaf",
+          "word": "suggestions"
+        },
+        {
+          "type": "leaf",
+          "word": "supplies"
+        },
+        {
+          "type": "leaf",
+          "word": "supports"
+        },
+        {
+          "type": "leaf",
+          "word": "survival"
+        },
+        {
+          "type": "leaf",
+          "word": "suspension"
+        },
+        {
+          "type": "leaf",
+          "word": "system"
+        },
+        {
+          "type": "leaf",
+          "word": "systems"
+        },
+        {
+          "type": "leaf",
+          "word": "talent"
+        },
+        {
+          "type": "leaf",
+          "word": "targets"
+        },
+        {
+          "type": "leaf",
+          "word": "task"
+        },
+        {
+          "type": "leaf",
+          "word": "techniques"
+        },
+        {
+          "type": "leaf",
+          "word": "technologies"
+        },
+        {
+          "type": "leaf",
+          "word": "technology"
+        },
+        {
+          "type": "leaf",
+          "word": "tension"
+        },
+        {
+          "type": "leaf",
+          "word": "term"
+        },
+        {
+          "type": "leaf",
+          "word": "terms"
+        },
+        {
+          "type": "leaf",
+          "word": "territory"
+        },
+        {
+          "type": "leaf",
+          "word": "test"
+        },
+        {
+          "type": "leaf",
+          "word": "text"
+        },
+        {
+          "type": "leaf",
+          "word": "theories"
+        },
+        {
+          "type": "leaf",
+          "word": "thoughts"
+        },
+        {
+          "type": "leaf",
+          "word": "threats"
+        },
+        {
+          "type": "leaf",
+          "word": "ties"
+        },
+        {
+          "type": "leaf",
+          "word": "tips"
+        },
+        {
+          "type": "leaf",
+          "word": "titles"
+        },
+        {
+          "type": "leaf",
+          "word": "tools"
+        },
+        {
+          "type": "leaf",
+          "word": "topic"
+        },
+        {
+          "type": "leaf",
+          "word": "topics"
+        },
+        {
+          "type": "leaf",
+          "word": "track"
+        },
+        {
+          "type": "leaf",
+          "word": "tracks"
+        },
+        {
+          "type": "leaf",
+          "word": "tradition"
+        },
+        {
+          "type": "leaf",
+          "word": "training"
+        },
+        {
+          "type": "leaf",
+          "word": "transactions"
+        },
+        {
+          "type": "leaf",
+          "word": "transfer"
+        },
+        {
+          "type": "leaf",
+          "word": "transition"
+        },
+        {
+          "type": "leaf",
+          "word": "translation"
+        },
+        {
+          "type": "leaf",
+          "word": "transportation"
+        },
+        {
+          "type": "leaf",
+          "word": "trend"
+        },
+        {
+          "type": "leaf",
+          "word": "trends"
+        },
+        {
+          "type": "leaf",
+          "word": "tribute"
+        },
+        {
+          "type": "leaf",
+          "word": "trouble"
+        },
+        {
+          "type": "leaf",
+          "word": "truth"
+        },
+        {
+          "type": "leaf",
+          "word": "type"
+        },
+        {
+          "type": "leaf",
+          "word": "types"
+        },
+        {
+          "type": "leaf",
+          "word": "union"
+        },
+        {
+          "type": "leaf",
+          "word": "unity"
+        },
+        {
+          "type": "leaf",
+          "word": "usage"
+        },
+        {
+          "type": "leaf",
+          "word": "utility"
+        },
+        {
+          "type": "leaf",
+          "word": "value"
+        },
+        {
+          "type": "leaf",
+          "word": "values"
+        },
+        {
+          "type": "leaf",
+          "word": "variety"
+        },
+        {
+          "type": "leaf",
+          "word": "venture"
+        },
+        {
+          "type": "leaf",
+          "word": "venue"
+        },
+        {
+          "type": "leaf",
+          "word": "version"
+        },
+        {
+          "type": "leaf",
+          "word": "versions"
+        },
+        {
+          "type": "leaf",
+          "word": "vision"
+        },
+        {
+          "type": "leaf",
+          "word": "voices"
+        },
+        {
+          "type": "leaf",
+          "word": "warning"
+        },
+        {
+          "type": "leaf",
+          "word": "way"
+        },
+        {
+          "type": "leaf",
+          "word": "ways"
+        },
+        {
+          "type": "leaf",
+          "word": "worship"
+        },
+        {
+          "type": "leaf",
+          "word": "zero"
+        }
+      ]
+    }
+  ]
+}

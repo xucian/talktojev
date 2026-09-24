@@ -1,0 +1,135 @@
+{
+  "id": "nature",
+  "label": "a nature or environment word \u2014 tree, forest, mountain, river, ocean, rain, sun, animal, flower, weather, sky",
+  "word_count": 32,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "autumn"
+    },
+    {
+      "type": "leaf",
+      "word": "bear"
+    },
+    {
+      "type": "leaf",
+      "word": "birds"
+    },
+    {
+      "type": "leaf",
+      "word": "branch"
+    },
+    {
+      "type": "leaf",
+      "word": "cats"
+    },
+    {
+      "type": "leaf",
+      "word": "coast"
+    },
+    {
+      "type": "leaf",
+      "word": "conservation"
+    },
+    {
+      "type": "leaf",
+      "word": "dogs"
+    },
+    {
+      "type": "leaf",
+      "word": "flood"
+    },
+    {
+      "type": "leaf",
+      "word": "flowers"
+    },
+    {
+      "type": "leaf",
+      "word": "grass"
+    },
+    {
+      "type": "leaf",
+      "word": "hills"
+    },
+    {
+      "type": "leaf",
+      "word": "horses"
+    },
+    {
+      "type": "leaf",
+      "word": "leaf"
+    },
+    {
+      "type": "leaf",
+      "word": "leaves"
+    },
+    {
+      "type": "leaf",
+      "word": "lightning"
+    },
+    {
+      "type": "leaf",
+      "word": "lion"
+    },
+    {
+      "type": "leaf",
+      "word": "mountains"
+    },
+    {
+      "type": "leaf",
+      "word": "rivers"
+    },
+    {
+      "type": "leaf",
+      "word": "rocks"
+    },
+    {
+      "type": "leaf",
+      "word": "root"
+    },
+    {
+      "type": "leaf",
+      "word": "roots"
+    },
+    {
+      "type": "leaf",
+      "word": "shore"
+    },
+    {
+      "type": "leaf",
+      "word": "sky"
+    },
+    {
+      "type": "leaf",
+      "word": "snake"
+    },
+    {
+      "type": "leaf",
+      "word": "soil"
+    },
+    {
+      "type": "leaf",
+      "word": "spider"
+    },
+    {
+      "type": "leaf",
+      "word": "storm"
+    },
+    {
+      "type": "leaf",
+      "word": "tiger"
+    },
+    {
+      "type": "leaf",
+      "word": "wildlife"
+    },
+    {
+      "type": "leaf",
+      "word": "wolf"
+    },
+    {
+      "type": "leaf",
+      "word": "woods"
+    }
+  ]
+}

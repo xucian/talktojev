@@ -1,0 +1,531 @@
+{
+  "id": "grammar",
+  "label": "a connecting word \u2014 is, am, are, was, the, a, to, for, and, but, or, not, can, will",
+  "word_count": 131,
+  "children": [
+    {
+      "type": "leaf",
+      "word": "a"
+    },
+    {
+      "type": "leaf",
+      "word": "about"
+    },
+    {
+      "type": "leaf",
+      "word": "above"
+    },
+    {
+      "type": "leaf",
+      "word": "across"
+    },
+    {
+      "type": "leaf",
+      "word": "after"
+    },
+    {
+      "type": "leaf",
+      "word": "against"
+    },
+    {
+      "type": "leaf",
+      "word": "albert"
+    },
+    {
+      "type": "leaf",
+      "word": "along"
+    },
+    {
+      "type": "leaf",
+      "word": "alongside"
+    },
+    {
+      "type": "leaf",
+      "word": "also"
+    },
+    {
+      "type": "leaf",
+      "word": "although"
+    },
+    {
+      "type": "leaf",
+      "word": "am"
+    },
+    {
+      "type": "leaf",
+      "word": "among"
+    },
+    {
+      "type": "leaf",
+      "word": "an"
+    },
+    {
+      "type": "leaf",
+      "word": "and"
+    },
+    {
+      "type": "leaf",
+      "word": "anyway"
+    },
+    {
+      "type": "leaf",
+      "word": "are"
+    },
+    {
+      "type": "leaf",
+      "word": "around"
+    },
+    {
+      "type": "leaf",
+      "word": "as"
+    },
+    {
+      "type": "leaf",
+      "word": "at"
+    },
+    {
+      "type": "leaf",
+      "word": "attitude"
+    },
+    {
+      "type": "leaf",
+      "word": "baltimore"
+    },
+    {
+      "type": "leaf",
+      "word": "be"
+    },
+    {
+      "type": "leaf",
+      "word": "because"
+    },
+    {
+      "type": "leaf",
+      "word": "been"
+    },
+    {
+      "type": "leaf",
+      "word": "before"
+    },
+    {
+      "type": "leaf",
+      "word": "behind"
+    },
+    {
+      "type": "leaf",
+      "word": "being"
+    },
+    {
+      "type": "leaf",
+      "word": "below"
+    },
+    {
+      "type": "leaf",
+      "word": "beneath"
+    },
+    {
+      "type": "leaf",
+      "word": "besides"
+    },
+    {
+      "type": "leaf",
+      "word": "between"
+    },
+    {
+      "type": "leaf",
+      "word": "beyond"
+    },
+    {
+      "type": "leaf",
+      "word": "blind"
+    },
+    {
+      "type": "leaf",
+      "word": "bow"
+    },
+    {
+      "type": "leaf",
+      "word": "bullshit"
+    },
+    {
+      "type": "leaf",
+      "word": "but"
+    },
+    {
+      "type": "leaf",
+      "word": "by"
+    },
+    {
+      "type": "leaf",
+      "word": "ca"
+    },
+    {
+      "type": "leaf",
+      "word": "can"
+    },
+    {
+      "type": "leaf",
+      "word": "cant"
+    },
+    {
+      "type": "leaf",
+      "word": "could"
+    },
+    {
+      "type": "leaf",
+      "word": "deeper"
+    },
+    {
+      "type": "leaf",
+      "word": "despite"
+    },
+    {
+      "type": "leaf",
+      "word": "did"
+    },
+    {
+      "type": "leaf",
+      "word": "do"
+    },
+    {
+      "type": "leaf",
+      "word": "does"
+    },
+    {
+      "type": "leaf",
+      "word": "doing"
+    },
+    {
+      "type": "leaf",
+      "word": "done"
+    },
+    {
+      "type": "leaf",
+      "word": "dont"
+    },
+    {
+      "type": "leaf",
+      "word": "down"
+    },
+    {
+      "type": "leaf",
+      "word": "during"
+    },
+    {
+      "type": "leaf",
+      "word": "en"
+    },
+    {
+      "type": "leaf",
+      "word": "except"
+    },
+    {
+      "type": "leaf",
+      "word": "for"
+    },
+    {
+      "type": "leaf",
+      "word": "from"
+    },
+    {
+      "type": "leaf",
+      "word": "had"
+    },
+    {
+      "type": "leaf",
+      "word": "has"
+    },
+    {
+      "type": "leaf",
+      "word": "have"
+    },
+    {
+      "type": "leaf",
+      "word": "having"
+    },
+    {
+      "type": "leaf",
+      "word": "if"
+    },
+    {
+      "type": "leaf",
+      "word": "in"
+    },
+    {
+      "type": "leaf",
+      "word": "instead"
+    },
+    {
+      "type": "leaf",
+      "word": "into"
+    },
+    {
+      "type": "leaf",
+      "word": "is"
+    },
+    {
+      "type": "leaf",
+      "word": "like"
+    },
+    {
+      "type": "leaf",
+      "word": "may"
+    },
+    {
+      "type": "leaf",
+      "word": "meanwhile"
+    },
+    {
+      "type": "leaf",
+      "word": "might"
+    },
+    {
+      "type": "leaf",
+      "word": "must"
+    },
+    {
+      "type": "leaf",
+      "word": "near"
+    },
+    {
+      "type": "leaf",
+      "word": "need"
+    },
+    {
+      "type": "leaf",
+      "word": "nevertheless"
+    },
+    {
+      "type": "leaf",
+      "word": "not"
+    },
+    {
+      "type": "leaf",
+      "word": "occupied"
+    },
+    {
+      "type": "leaf",
+      "word": "of"
+    },
+    {
+      "type": "leaf",
+      "word": "off"
+    },
+    {
+      "type": "leaf",
+      "word": "olympic"
+    },
+    {
+      "type": "leaf",
+      "word": "on"
+    },
+    {
+      "type": "leaf",
+      "word": "or"
+    },
+    {
+      "type": "leaf",
+      "word": "otherwise"
+    },
+    {
+      "type": "leaf",
+      "word": "ought"
+    },
+    {
+      "type": "leaf",
+      "word": "out"
+    },
+    {
+      "type": "leaf",
+      "word": "over"
+    },
+    {
+      "type": "leaf",
+      "word": "per"
+    },
+    {
+      "type": "leaf",
+      "word": "plus"
+    },
+    {
+      "type": "leaf",
+      "word": "porn"
+    },
+    {
+      "type": "leaf",
+      "word": "rather"
+    },
+    {
+      "type": "leaf",
+      "word": "regardless"
+    },
+    {
+      "type": "leaf",
+      "word": "shall"
+    },
+    {
+      "type": "leaf",
+      "word": "should"
+    },
+    {
+      "type": "leaf",
+      "word": "since"
+    },
+    {
+      "type": "leaf",
+      "word": "so"
+    },
+    {
+      "type": "leaf",
+      "word": "still"
+    },
+    {
+      "type": "leaf",
+      "word": "than"
+    },
+    {
+      "type": "leaf",
+      "word": "that"
+    },
+    {
+      "type": "leaf",
+      "word": "the"
+    },
+    {
+      "type": "leaf",
+      "word": "therefore"
+    },
+    {
+      "type": "leaf",
+      "word": "these"
+    },
+    {
+      "type": "leaf",
+      "word": "this"
+    },
+    {
+      "type": "leaf",
+      "word": "those"
+    },
+    {
+      "type": "leaf",
+      "word": "though"
+    },
+    {
+      "type": "leaf",
+      "word": "through"
+    },
+    {
+      "type": "leaf",
+      "word": "throughout"
+    },
+    {
+      "type": "leaf",
+      "word": "thus"
+    },
+    {
+      "type": "leaf",
+      "word": "to"
+    },
+    {
+      "type": "leaf",
+      "word": "too"
+    },
+    {
+      "type": "leaf",
+      "word": "toronto"
+    },
+    {
+      "type": "leaf",
+      "word": "toward"
+    },
+    {
+      "type": "leaf",
+      "word": "towards"
+    },
+    {
+      "type": "leaf",
+      "word": "uk"
+    },
+    {
+      "type": "leaf",
+      "word": "under"
+    },
+    {
+      "type": "leaf",
+      "word": "unless"
+    },
+    {
+      "type": "leaf",
+      "word": "unlike"
+    },
+    {
+      "type": "leaf",
+      "word": "until"
+    },
+    {
+      "type": "leaf",
+      "word": "up"
+    },
+    {
+      "type": "leaf",
+      "word": "upon"
+    },
+    {
+      "type": "leaf",
+      "word": "via"
+    },
+    {
+      "type": "leaf",
+      "word": "victoria"
+    },
+    {
+      "type": "leaf",
+      "word": "vs"
+    },
+    {
+      "type": "leaf",
+      "word": "was"
+    },
+    {
+      "type": "leaf",
+      "word": "were"
+    },
+    {
+      "type": "leaf",
+      "word": "whereas"
+    },
+    {
+      "type": "leaf",
+      "word": "whether"
+    },
+    {
+      "type": "leaf",
+      "word": "while"
+    },
+    {
+      "type": "leaf",
+      "word": "will"
+    },
+    {
+      "type": "leaf",
+      "word": "with"
+    },
+    {
+      "type": "leaf",
+      "word": "within"
+    },
+    {
+      "type": "leaf",
+      "word": "without"
+    },
+    {
+      "type": "leaf",
+      "word": "would"
+    },
+    {
+      "type": "leaf",
+      "word": "yet"
+    }
+  ]
+}

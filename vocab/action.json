@@ -1,0 +1,3817 @@
+{
+  "id": "action",
+  "label": "an action \u2014 go, come, take, give, make, get, put, move, do, run, work, play, help",
+  "word_count": 942,
+  "children": [
+    {
+      "type": "branch",
+      "id": "a-b",
+      "label": "a-b: abandoned, accepted, accompanied, according, accounting",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "abandoned"
+        },
+        {
+          "type": "leaf",
+          "word": "accepted"
+        },
+        {
+          "type": "leaf",
+          "word": "accompanied"
+        },
+        {
+          "type": "leaf",
+          "word": "according"
+        },
+        {
+          "type": "leaf",
+          "word": "accounting"
+        },
+        {
+          "type": "leaf",
+          "word": "achieve"
+        },
+        {
+          "type": "leaf",
+          "word": "achieved"
+        },
+        {
+          "type": "leaf",
+          "word": "act"
+        },
+        {
+          "type": "leaf",
+          "word": "acted"
+        },
+        {
+          "type": "leaf",
+          "word": "acting"
+        },
+        {
+          "type": "leaf",
+          "word": "acts"
+        },
+        {
+          "type": "leaf",
+          "word": "add"
+        },
+        {
+          "type": "leaf",
+          "word": "added"
+        },
+        {
+          "type": "leaf",
+          "word": "adding"
+        },
+        {
+          "type": "leaf",
+          "word": "addressed"
+        },
+        {
+          "type": "leaf",
+          "word": "adds"
+        },
+        {
+          "type": "leaf",
+          "word": "admit"
+        },
+        {
+          "type": "leaf",
+          "word": "adopted"
+        },
+        {
+          "type": "leaf",
+          "word": "affect"
+        },
+        {
+          "type": "leaf",
+          "word": "affected"
+        },
+        {
+          "type": "leaf",
+          "word": "aged"
+        },
+        {
+          "type": "leaf",
+          "word": "agreed"
+        },
+        {
+          "type": "leaf",
+          "word": "aimed"
+        },
+        {
+          "type": "leaf",
+          "word": "alert"
+        },
+        {
+          "type": "leaf",
+          "word": "alexander"
+        },
+        {
+          "type": "leaf",
+          "word": "alleged"
+        },
+        {
+          "type": "leaf",
+          "word": "allen"
+        },
+        {
+          "type": "leaf",
+          "word": "allowed"
+        },
+        {
+          "type": "leaf",
+          "word": "allowing"
+        },
+        {
+          "type": "leaf",
+          "word": "allows"
+        },
+        {
+          "type": "leaf",
+          "word": "america"
+        },
+        {
+          "type": "leaf",
+          "word": "amounts"
+        },
+        {
+          "type": "leaf",
+          "word": "andy"
+        },
+        {
+          "type": "leaf",
+          "word": "anime"
+        },
+        {
+          "type": "leaf",
+          "word": "anniversary"
+        },
+        {
+          "type": "leaf",
+          "word": "announced"
+        },
+        {
+          "type": "leaf",
+          "word": "annoying"
+        },
+        {
+          "type": "leaf",
+          "word": "answered"
+        },
+        {
+          "type": "leaf",
+          "word": "appear"
+        },
+        {
+          "type": "leaf",
+          "word": "appeared"
+        },
+        {
+          "type": "leaf",
+          "word": "appears"
+        },
+        {
+          "type": "leaf",
+          "word": "applied"
+        },
+        {
+          "type": "leaf",
+          "word": "applies"
+        },
+        {
+          "type": "leaf",
+          "word": "apply"
+        },
+        {
+          "type": "leaf",
+          "word": "applying"
+        },
+        {
+          "type": "leaf",
+          "word": "appointed"
+        },
+        {
+          "type": "leaf",
+          "word": "approved"
+        },
+        {
+          "type": "leaf",
+          "word": "argentina"
+        },
+        {
+          "type": "leaf",
+          "word": "argue"
+        },
+        {
+          "type": "leaf",
+          "word": "argued"
+        },
+        {
+          "type": "leaf",
+          "word": "arguing"
+        },
+        {
+          "type": "leaf",
+          "word": "arizona"
+        },
+        {
+          "type": "leaf",
+          "word": "arranged"
+        },
+        {
+          "type": "leaf",
+          "word": "articles"
+        },
+        {
+          "type": "leaf",
+          "word": "asking"
+        },
+        {
+          "type": "leaf",
+          "word": "associated"
+        },
+        {
+          "type": "leaf",
+          "word": "assumed"
+        },
+        {
+          "type": "leaf",
+          "word": "assuming"
+        },
+        {
+          "type": "leaf",
+          "word": "attached"
+        },
+        {
+          "type": "leaf",
+          "word": "attack"
+        },
+        {
+          "type": "leaf",
+          "word": "attacked"
+        },
+        {
+          "type": "leaf",
+          "word": "attacking"
+        },
+        {
+          "type": "leaf",
+          "word": "attempted"
+        },
+        {
+          "type": "leaf",
+          "word": "attempting"
+        },
+        {
+          "type": "leaf",
+          "word": "attempts"
+        },
+        {
+          "type": "leaf",
+          "word": "attended"
+        },
+        {
+          "type": "leaf",
+          "word": "attracted"
+        },
+        {
+          "type": "leaf",
+          "word": "aug"
+        },
+        {
+          "type": "leaf",
+          "word": "awarded"
+        },
+        {
+          "type": "leaf",
+          "word": "backed"
+        },
+        {
+          "type": "leaf",
+          "word": "backing"
+        },
+        {
+          "type": "leaf",
+          "word": "banned"
+        },
+        {
+          "type": "leaf",
+          "word": "bars"
+        },
+        {
+          "type": "leaf",
+          "word": "bc"
+        },
+        {
+          "type": "leaf",
+          "word": "bearing"
+        },
+        {
+          "type": "leaf",
+          "word": "bears"
+        },
+        {
+          "type": "leaf",
+          "word": "beat"
+        },
+        {
+          "type": "leaf",
+          "word": "beating"
+        },
+        {
+          "type": "leaf",
+          "word": "became"
+        },
+        {
+          "type": "leaf",
+          "word": "become"
+        },
+        {
+          "type": "leaf",
+          "word": "becomes"
+        },
+        {
+          "type": "leaf",
+          "word": "began"
+        },
+        {
+          "type": "leaf",
+          "word": "begin"
+        },
+        {
+          "type": "leaf",
+          "word": "begins"
+        },
+        {
+          "type": "leaf",
+          "word": "begun"
+        },
+        {
+          "type": "leaf",
+          "word": "believed"
+        },
+        {
+          "type": "leaf",
+          "word": "believes"
+        },
+        {
+          "type": "leaf",
+          "word": "belongs"
+        },
+        {
+          "type": "leaf",
+          "word": "bin"
+        },
+        {
+          "type": "leaf",
+          "word": "bitch"
+        },
+        {
+          "type": "leaf",
+          "word": "blessed"
+        },
+        {
+          "type": "leaf",
+          "word": "blocked"
+        },
+        {
+          "type": "leaf",
+          "word": "blow"
+        },
+        {
+          "type": "leaf",
+          "word": "boring"
+        },
+        {
+          "type": "leaf",
+          "word": "born"
+        },
+        {
+          "type": "leaf",
+          "word": "boston"
+        },
+        {
+          "type": "leaf",
+          "word": "bought"
+        },
+        {
+          "type": "leaf",
+          "word": "brave"
+        },
+        {
+          "type": "leaf",
+          "word": "break"
+        },
+        {
+          "type": "leaf",
+          "word": "breaks"
+        },
+        {
+          "type": "leaf",
+          "word": "breathe"
+        },
+        {
+          "type": "leaf",
+          "word": "breathing"
+        },
+        {
+          "type": "leaf",
+          "word": "brick"
+        },
+        {
+          "type": "leaf",
+          "word": "bring"
+        },
+        {
+          "type": "leaf",
+          "word": "bringing"
+        },
+        {
+          "type": "leaf",
+          "word": "brings"
+        },
+        {
+          "type": "leaf",
+          "word": "broke"
+        },
+        {
+          "type": "leaf",
+          "word": "brought"
+        },
+        {
+          "type": "leaf",
+          "word": "bruce"
+        },
+        {
+          "type": "leaf",
+          "word": "build"
+        },
+        {
+          "type": "leaf",
+          "word": "built"
+        },
+        {
+          "type": "leaf",
+          "word": "buried"
+        },
+        {
+          "type": "leaf",
+          "word": "burned"
+        },
+        {
+          "type": "leaf",
+          "word": "buy"
+        },
+        {
+          "type": "leaf",
+          "word": "buying"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "c-e",
+      "label": "c-e: calling, calls, came, cancelled, captured",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "calling"
+        },
+        {
+          "type": "leaf",
+          "word": "calls"
+        },
+        {
+          "type": "leaf",
+          "word": "came"
+        },
+        {
+          "type": "leaf",
+          "word": "cancelled"
+        },
+        {
+          "type": "leaf",
+          "word": "captured"
+        },
+        {
+          "type": "leaf",
+          "word": "carl"
+        },
+        {
+          "type": "leaf",
+          "word": "carried"
+        },
+        {
+          "type": "leaf",
+          "word": "carries"
+        },
+        {
+          "type": "leaf",
+          "word": "carry"
+        },
+        {
+          "type": "leaf",
+          "word": "carrying"
+        },
+        {
+          "type": "leaf",
+          "word": "cast"
+        },
+        {
+          "type": "leaf",
+          "word": "catch"
+        },
+        {
+          "type": "leaf",
+          "word": "caught"
+        },
+        {
+          "type": "leaf",
+          "word": "cause"
+        },
+        {
+          "type": "leaf",
+          "word": "caused"
+        },
+        {
+          "type": "leaf",
+          "word": "causes"
+        },
+        {
+          "type": "leaf",
+          "word": "causing"
+        },
+        {
+          "type": "leaf",
+          "word": "celebrate"
+        },
+        {
+          "type": "leaf",
+          "word": "celebrated"
+        },
+        {
+          "type": "leaf",
+          "word": "ceo"
+        },
+        {
+          "type": "leaf",
+          "word": "certified"
+        },
+        {
+          "type": "leaf",
+          "word": "challenging"
+        },
+        {
+          "type": "leaf",
+          "word": "change"
+        },
+        {
+          "type": "leaf",
+          "word": "changed"
+        },
+        {
+          "type": "leaf",
+          "word": "charged"
+        },
+        {
+          "type": "leaf",
+          "word": "check"
+        },
+        {
+          "type": "leaf",
+          "word": "checked"
+        },
+        {
+          "type": "leaf",
+          "word": "checking"
+        },
+        {
+          "type": "leaf",
+          "word": "childhood"
+        },
+        {
+          "type": "leaf",
+          "word": "choose"
+        },
+        {
+          "type": "leaf",
+          "word": "choosing"
+        },
+        {
+          "type": "leaf",
+          "word": "chose"
+        },
+        {
+          "type": "leaf",
+          "word": "cited"
+        },
+        {
+          "type": "leaf",
+          "word": "claimed"
+        },
+        {
+          "type": "leaf",
+          "word": "claiming"
+        },
+        {
+          "type": "leaf",
+          "word": "clark"
+        },
+        {
+          "type": "leaf",
+          "word": "classified"
+        },
+        {
+          "type": "leaf",
+          "word": "clean"
+        },
+        {
+          "type": "leaf",
+          "word": "cleaning"
+        },
+        {
+          "type": "leaf",
+          "word": "cleveland"
+        },
+        {
+          "type": "leaf",
+          "word": "climb"
+        },
+        {
+          "type": "leaf",
+          "word": "close"
+        },
+        {
+          "type": "leaf",
+          "word": "closed"
+        },
+        {
+          "type": "leaf",
+          "word": "closing"
+        },
+        {
+          "type": "leaf",
+          "word": "coaching"
+        },
+        {
+          "type": "leaf",
+          "word": "collect"
+        },
+        {
+          "type": "leaf",
+          "word": "columbia"
+        },
+        {
+          "type": "leaf",
+          "word": "combined"
+        },
+        {
+          "type": "leaf",
+          "word": "come"
+        },
+        {
+          "type": "leaf",
+          "word": "coming"
+        },
+        {
+          "type": "leaf",
+          "word": "commit"
+        },
+        {
+          "type": "leaf",
+          "word": "committed"
+        },
+        {
+          "type": "leaf",
+          "word": "commonwealth"
+        },
+        {
+          "type": "leaf",
+          "word": "communist"
+        },
+        {
+          "type": "leaf",
+          "word": "compared"
+        },
+        {
+          "type": "leaf",
+          "word": "competing"
+        },
+        {
+          "type": "leaf",
+          "word": "completed"
+        },
+        {
+          "type": "leaf",
+          "word": "complicated"
+        },
+        {
+          "type": "leaf",
+          "word": "concerning"
+        },
+        {
+          "type": "leaf",
+          "word": "concluded"
+        },
+        {
+          "type": "leaf",
+          "word": "conducted"
+        },
+        {
+          "type": "leaf",
+          "word": "confirmed"
+        },
+        {
+          "type": "leaf",
+          "word": "connect"
+        },
+        {
+          "type": "leaf",
+          "word": "connected"
+        },
+        {
+          "type": "leaf",
+          "word": "considering"
+        },
+        {
+          "type": "leaf",
+          "word": "consists"
+        },
+        {
+          "type": "leaf",
+          "word": "contain"
+        },
+        {
+          "type": "leaf",
+          "word": "contained"
+        },
+        {
+          "type": "leaf",
+          "word": "containing"
+        },
+        {
+          "type": "leaf",
+          "word": "continue"
+        },
+        {
+          "type": "leaf",
+          "word": "continued"
+        },
+        {
+          "type": "leaf",
+          "word": "continues"
+        },
+        {
+          "type": "leaf",
+          "word": "continuing"
+        },
+        {
+          "type": "leaf",
+          "word": "contrast"
+        },
+        {
+          "type": "leaf",
+          "word": "contributed"
+        },
+        {
+          "type": "leaf",
+          "word": "controlled"
+        },
+        {
+          "type": "leaf",
+          "word": "convince"
+        },
+        {
+          "type": "leaf",
+          "word": "convinced"
+        },
+        {
+          "type": "leaf",
+          "word": "cook"
+        },
+        {
+          "type": "leaf",
+          "word": "counting"
+        },
+        {
+          "type": "leaf",
+          "word": "counts"
+        },
+        {
+          "type": "leaf",
+          "word": "couples"
+        },
+        {
+          "type": "leaf",
+          "word": "courage"
+        },
+        {
+          "type": "leaf",
+          "word": "cousin"
+        },
+        {
+          "type": "leaf",
+          "word": "cover"
+        },
+        {
+          "type": "leaf",
+          "word": "covered"
+        },
+        {
+          "type": "leaf",
+          "word": "covering"
+        },
+        {
+          "type": "leaf",
+          "word": "covers"
+        },
+        {
+          "type": "leaf",
+          "word": "create"
+        },
+        {
+          "type": "leaf",
+          "word": "created"
+        },
+        {
+          "type": "leaf",
+          "word": "creates"
+        },
+        {
+          "type": "leaf",
+          "word": "crying"
+        },
+        {
+          "type": "leaf",
+          "word": "custom"
+        },
+        {
+          "type": "leaf",
+          "word": "cut"
+        },
+        {
+          "type": "leaf",
+          "word": "cutting"
+        },
+        {
+          "type": "leaf",
+          "word": "dallas"
+        },
+        {
+          "type": "leaf",
+          "word": "damaged"
+        },
+        {
+          "type": "leaf",
+          "word": "dance"
+        },
+        {
+          "type": "leaf",
+          "word": "dating"
+        },
+        {
+          "type": "leaf",
+          "word": "dave"
+        },
+        {
+          "type": "leaf",
+          "word": "dawn"
+        },
+        {
+          "type": "leaf",
+          "word": "dealing"
+        },
+        {
+          "type": "leaf",
+          "word": "decided"
+        },
+        {
+          "type": "leaf",
+          "word": "declared"
+        },
+        {
+          "type": "leaf",
+          "word": "dedicated"
+        },
+        {
+          "type": "leaf",
+          "word": "deeply"
+        },
+        {
+          "type": "leaf",
+          "word": "defend"
+        },
+        {
+          "type": "leaf",
+          "word": "defending"
+        },
+        {
+          "type": "leaf",
+          "word": "defined"
+        },
+        {
+          "type": "leaf",
+          "word": "delivered"
+        },
+        {
+          "type": "leaf",
+          "word": "demands"
+        },
+        {
+          "type": "leaf",
+          "word": "demonstrated"
+        },
+        {
+          "type": "leaf",
+          "word": "denied"
+        },
+        {
+          "type": "leaf",
+          "word": "deny"
+        },
+        {
+          "type": "leaf",
+          "word": "depending"
+        },
+        {
+          "type": "leaf",
+          "word": "depends"
+        },
+        {
+          "type": "leaf",
+          "word": "derived"
+        },
+        {
+          "type": "leaf",
+          "word": "described"
+        },
+        {
+          "type": "leaf",
+          "word": "describes"
+        },
+        {
+          "type": "leaf",
+          "word": "describing"
+        },
+        {
+          "type": "leaf",
+          "word": "deserve"
+        },
+        {
+          "type": "leaf",
+          "word": "deserves"
+        },
+        {
+          "type": "leaf",
+          "word": "designated"
+        },
+        {
+          "type": "leaf",
+          "word": "destroy"
+        },
+        {
+          "type": "leaf",
+          "word": "destroyed"
+        },
+        {
+          "type": "leaf",
+          "word": "detailed"
+        },
+        {
+          "type": "leaf",
+          "word": "determined"
+        },
+        {
+          "type": "leaf",
+          "word": "develop"
+        },
+        {
+          "type": "leaf",
+          "word": "developed"
+        },
+        {
+          "type": "leaf",
+          "word": "die"
+        },
+        {
+          "type": "leaf",
+          "word": "died"
+        },
+        {
+          "type": "leaf",
+          "word": "dies"
+        },
+        {
+          "type": "leaf",
+          "word": "dig"
+        },
+        {
+          "type": "leaf",
+          "word": "directed"
+        },
+        {
+          "type": "leaf",
+          "word": "disabled"
+        },
+        {
+          "type": "leaf",
+          "word": "disappeared"
+        },
+        {
+          "type": "leaf",
+          "word": "discipline"
+        },
+        {
+          "type": "leaf",
+          "word": "discovered"
+        },
+        {
+          "type": "leaf",
+          "word": "discovery"
+        },
+        {
+          "type": "leaf",
+          "word": "discussed"
+        },
+        {
+          "type": "leaf",
+          "word": "discussing"
+        },
+        {
+          "type": "leaf",
+          "word": "disgusting"
+        },
+        {
+          "type": "leaf",
+          "word": "distributed"
+        },
+        {
+          "type": "leaf",
+          "word": "divided"
+        },
+        {
+          "type": "leaf",
+          "word": "domain"
+        },
+        {
+          "type": "leaf",
+          "word": "donald"
+        },
+        {
+          "type": "leaf",
+          "word": "draw"
+        },
+        {
+          "type": "leaf",
+          "word": "drawn"
+        },
+        {
+          "type": "leaf",
+          "word": "drinking"
+        },
+        {
+          "type": "leaf",
+          "word": "drive"
+        },
+        {
+          "type": "leaf",
+          "word": "drives"
+        },
+        {
+          "type": "leaf",
+          "word": "drop"
+        },
+        {
+          "type": "leaf",
+          "word": "dropping"
+        },
+        {
+          "type": "leaf",
+          "word": "drove"
+        },
+        {
+          "type": "leaf",
+          "word": "dumb"
+        },
+        {
+          "type": "leaf",
+          "word": "dying"
+        },
+        {
+          "type": "leaf",
+          "word": "earned"
+        },
+        {
+          "type": "leaf",
+          "word": "earning"
+        },
+        {
+          "type": "leaf",
+          "word": "ease"
+        },
+        {
+          "type": "leaf",
+          "word": "eat"
+        },
+        {
+          "type": "leaf",
+          "word": "eating"
+        },
+        {
+          "type": "leaf",
+          "word": "educated"
+        },
+        {
+          "type": "leaf",
+          "word": "elected"
+        },
+        {
+          "type": "leaf",
+          "word": "employed"
+        },
+        {
+          "type": "leaf",
+          "word": "encourage"
+        },
+        {
+          "type": "leaf",
+          "word": "encouraged"
+        },
+        {
+          "type": "leaf",
+          "word": "end"
+        },
+        {
+          "type": "leaf",
+          "word": "ended"
+        },
+        {
+          "type": "leaf",
+          "word": "ends"
+        },
+        {
+          "type": "leaf",
+          "word": "engage"
+        },
+        {
+          "type": "leaf",
+          "word": "engaged"
+        },
+        {
+          "type": "leaf",
+          "word": "england"
+        },
+        {
+          "type": "leaf",
+          "word": "enjoying"
+        },
+        {
+          "type": "leaf",
+          "word": "ensure"
+        },
+        {
+          "type": "leaf",
+          "word": "enter"
+        },
+        {
+          "type": "leaf",
+          "word": "entered"
+        },
+        {
+          "type": "leaf",
+          "word": "enterprise"
+        },
+        {
+          "type": "leaf",
+          "word": "entitled"
+        },
+        {
+          "type": "leaf",
+          "word": "epic"
+        },
+        {
+          "type": "leaf",
+          "word": "episodes"
+        },
+        {
+          "type": "leaf",
+          "word": "equipped"
+        },
+        {
+          "type": "leaf",
+          "word": "er"
+        },
+        {
+          "type": "leaf",
+          "word": "establish"
+        },
+        {
+          "type": "leaf",
+          "word": "established"
+        },
+        {
+          "type": "leaf",
+          "word": "estimated"
+        },
+        {
+          "type": "leaf",
+          "word": "eve"
+        },
+        {
+          "type": "leaf",
+          "word": "executed"
+        },
+        {
+          "type": "leaf",
+          "word": "exist"
+        },
+        {
+          "type": "leaf",
+          "word": "existed"
+        },
+        {
+          "type": "leaf",
+          "word": "existing"
+        },
+        {
+          "type": "leaf",
+          "word": "expected"
+        },
+        {
+          "type": "leaf",
+          "word": "expecting"
+        },
+        {
+          "type": "leaf",
+          "word": "experienced"
+        },
+        {
+          "type": "leaf",
+          "word": "explained"
+        },
+        {
+          "type": "leaf",
+          "word": "explaining"
+        },
+        {
+          "type": "leaf",
+          "word": "explains"
+        },
+        {
+          "type": "leaf",
+          "word": "explosion"
+        },
+        {
+          "type": "leaf",
+          "word": "exposed"
+        },
+        {
+          "type": "leaf",
+          "word": "expressed"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "f-k",
+      "label": "f-k: faced, facing, failed, failing, fails",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "faced"
+        },
+        {
+          "type": "leaf",
+          "word": "facing"
+        },
+        {
+          "type": "leaf",
+          "word": "failed"
+        },
+        {
+          "type": "leaf",
+          "word": "failing"
+        },
+        {
+          "type": "leaf",
+          "word": "fails"
+        },
+        {
+          "type": "leaf",
+          "word": "fall"
+        },
+        {
+          "type": "leaf",
+          "word": "falls"
+        },
+        {
+          "type": "leaf",
+          "word": "featured"
+        },
+        {
+          "type": "leaf",
+          "word": "featuring"
+        },
+        {
+          "type": "leaf",
+          "word": "feed"
+        },
+        {
+          "type": "leaf",
+          "word": "fell"
+        },
+        {
+          "type": "leaf",
+          "word": "fight"
+        },
+        {
+          "type": "leaf",
+          "word": "filed"
+        },
+        {
+          "type": "leaf",
+          "word": "fill"
+        },
+        {
+          "type": "leaf",
+          "word": "filled"
+        },
+        {
+          "type": "leaf",
+          "word": "find"
+        },
+        {
+          "type": "leaf",
+          "word": "finds"
+        },
+        {
+          "type": "leaf",
+          "word": "finish"
+        },
+        {
+          "type": "leaf",
+          "word": "finished"
+        },
+        {
+          "type": "leaf",
+          "word": "finishing"
+        },
+        {
+          "type": "leaf",
+          "word": "firing"
+        },
+        {
+          "type": "leaf",
+          "word": "fishing"
+        },
+        {
+          "type": "leaf",
+          "word": "fits"
+        },
+        {
+          "type": "leaf",
+          "word": "fix"
+        },
+        {
+          "type": "leaf",
+          "word": "fixed"
+        },
+        {
+          "type": "leaf",
+          "word": "flash"
+        },
+        {
+          "type": "leaf",
+          "word": "fleet"
+        },
+        {
+          "type": "leaf",
+          "word": "fly"
+        },
+        {
+          "type": "leaf",
+          "word": "focused"
+        },
+        {
+          "type": "leaf",
+          "word": "focusing"
+        },
+        {
+          "type": "leaf",
+          "word": "follow"
+        },
+        {
+          "type": "leaf",
+          "word": "followed"
+        },
+        {
+          "type": "leaf",
+          "word": "following"
+        },
+        {
+          "type": "leaf",
+          "word": "follows"
+        },
+        {
+          "type": "leaf",
+          "word": "fool"
+        },
+        {
+          "type": "leaf",
+          "word": "forced"
+        },
+        {
+          "type": "leaf",
+          "word": "ford"
+        },
+        {
+          "type": "leaf",
+          "word": "forgotten"
+        },
+        {
+          "type": "leaf",
+          "word": "form"
+        },
+        {
+          "type": "leaf",
+          "word": "formed"
+        },
+        {
+          "type": "leaf",
+          "word": "forum"
+        },
+        {
+          "type": "leaf",
+          "word": "francisco"
+        },
+        {
+          "type": "leaf",
+          "word": "frank"
+        },
+        {
+          "type": "leaf",
+          "word": "fucked"
+        },
+        {
+          "type": "leaf",
+          "word": "gained"
+        },
+        {
+          "type": "leaf",
+          "word": "gang"
+        },
+        {
+          "type": "leaf",
+          "word": "gather"
+        },
+        {
+          "type": "leaf",
+          "word": "gathered"
+        },
+        {
+          "type": "leaf",
+          "word": "gave"
+        },
+        {
+          "type": "leaf",
+          "word": "gear"
+        },
+        {
+          "type": "leaf",
+          "word": "get"
+        },
+        {
+          "type": "leaf",
+          "word": "gets"
+        },
+        {
+          "type": "leaf",
+          "word": "getting"
+        },
+        {
+          "type": "leaf",
+          "word": "give"
+        },
+        {
+          "type": "leaf",
+          "word": "given"
+        },
+        {
+          "type": "leaf",
+          "word": "gives"
+        },
+        {
+          "type": "leaf",
+          "word": "giving"
+        },
+        {
+          "type": "leaf",
+          "word": "go"
+        },
+        {
+          "type": "leaf",
+          "word": "going"
+        },
+        {
+          "type": "leaf",
+          "word": "gone"
+        },
+        {
+          "type": "leaf",
+          "word": "got"
+        },
+        {
+          "type": "leaf",
+          "word": "grab"
+        },
+        {
+          "type": "leaf",
+          "word": "granted"
+        },
+        {
+          "type": "leaf",
+          "word": "grave"
+        },
+        {
+          "type": "leaf",
+          "word": "greece"
+        },
+        {
+          "type": "leaf",
+          "word": "grew"
+        },
+        {
+          "type": "leaf",
+          "word": "grow"
+        },
+        {
+          "type": "leaf",
+          "word": "grown"
+        },
+        {
+          "type": "leaf",
+          "word": "guaranteed"
+        },
+        {
+          "type": "leaf",
+          "word": "guard"
+        },
+        {
+          "type": "leaf",
+          "word": "gym"
+        },
+        {
+          "type": "leaf",
+          "word": "hamilton"
+        },
+        {
+          "type": "leaf",
+          "word": "handed"
+        },
+        {
+          "type": "leaf",
+          "word": "handle"
+        },
+        {
+          "type": "leaf",
+          "word": "handled"
+        },
+        {
+          "type": "leaf",
+          "word": "handling"
+        },
+        {
+          "type": "leaf",
+          "word": "hang"
+        },
+        {
+          "type": "leaf",
+          "word": "hanging"
+        },
+        {
+          "type": "leaf",
+          "word": "happen"
+        },
+        {
+          "type": "leaf",
+          "word": "happened"
+        },
+        {
+          "type": "leaf",
+          "word": "happening"
+        },
+        {
+          "type": "leaf",
+          "word": "happens"
+        },
+        {
+          "type": "leaf",
+          "word": "harm"
+        },
+        {
+          "type": "leaf",
+          "word": "headed"
+        },
+        {
+          "type": "leaf",
+          "word": "heading"
+        },
+        {
+          "type": "leaf",
+          "word": "hearing"
+        },
+        {
+          "type": "leaf",
+          "word": "height"
+        },
+        {
+          "type": "leaf",
+          "word": "held"
+        },
+        {
+          "type": "leaf",
+          "word": "help"
+        },
+        {
+          "type": "leaf",
+          "word": "helped"
+        },
+        {
+          "type": "leaf",
+          "word": "helping"
+        },
+        {
+          "type": "leaf",
+          "word": "helps"
+        },
+        {
+          "type": "leaf",
+          "word": "heritage"
+        },
+        {
+          "type": "leaf",
+          "word": "hidden"
+        },
+        {
+          "type": "leaf",
+          "word": "hiding"
+        },
+        {
+          "type": "leaf",
+          "word": "hit"
+        },
+        {
+          "type": "leaf",
+          "word": "hitting"
+        },
+        {
+          "type": "leaf",
+          "word": "hold"
+        },
+        {
+          "type": "leaf",
+          "word": "holding"
+        },
+        {
+          "type": "leaf",
+          "word": "holds"
+        },
+        {
+          "type": "leaf",
+          "word": "holy"
+        },
+        {
+          "type": "leaf",
+          "word": "honor"
+        },
+        {
+          "type": "leaf",
+          "word": "hoped"
+        },
+        {
+          "type": "leaf",
+          "word": "hopes"
+        },
+        {
+          "type": "leaf",
+          "word": "hoping"
+        },
+        {
+          "type": "leaf",
+          "word": "hunting"
+        },
+        {
+          "type": "leaf",
+          "word": "id"
+        },
+        {
+          "type": "leaf",
+          "word": "identified"
+        },
+        {
+          "type": "leaf",
+          "word": "ignore"
+        },
+        {
+          "type": "leaf",
+          "word": "ignored"
+        },
+        {
+          "type": "leaf",
+          "word": "ill"
+        },
+        {
+          "type": "leaf",
+          "word": "implemented"
+        },
+        {
+          "type": "leaf",
+          "word": "improve"
+        },
+        {
+          "type": "leaf",
+          "word": "improved"
+        },
+        {
+          "type": "leaf",
+          "word": "include"
+        },
+        {
+          "type": "leaf",
+          "word": "included"
+        },
+        {
+          "type": "leaf",
+          "word": "includes"
+        },
+        {
+          "type": "leaf",
+          "word": "including"
+        },
+        {
+          "type": "leaf",
+          "word": "increase"
+        },
+        {
+          "type": "leaf",
+          "word": "increased"
+        },
+        {
+          "type": "leaf",
+          "word": "indicated"
+        },
+        {
+          "type": "leaf",
+          "word": "indicates"
+        },
+        {
+          "type": "leaf",
+          "word": "indonesia"
+        },
+        {
+          "type": "leaf",
+          "word": "informed"
+        },
+        {
+          "type": "leaf",
+          "word": "injured"
+        },
+        {
+          "type": "leaf",
+          "word": "inspired"
+        },
+        {
+          "type": "leaf",
+          "word": "integrated"
+        },
+        {
+          "type": "leaf",
+          "word": "intended"
+        },
+        {
+          "type": "leaf",
+          "word": "introduce"
+        },
+        {
+          "type": "leaf",
+          "word": "introduced"
+        },
+        {
+          "type": "leaf",
+          "word": "invest"
+        },
+        {
+          "type": "leaf",
+          "word": "investigate"
+        },
+        {
+          "type": "leaf",
+          "word": "invited"
+        },
+        {
+          "type": "leaf",
+          "word": "involve"
+        },
+        {
+          "type": "leaf",
+          "word": "involved"
+        },
+        {
+          "type": "leaf",
+          "word": "involves"
+        },
+        {
+          "type": "leaf",
+          "word": "involving"
+        },
+        {
+          "type": "leaf",
+          "word": "isis"
+        },
+        {
+          "type": "leaf",
+          "word": "islamic"
+        },
+        {
+          "type": "leaf",
+          "word": "issued"
+        },
+        {
+          "type": "leaf",
+          "word": "jackson"
+        },
+        {
+          "type": "leaf",
+          "word": "join"
+        },
+        {
+          "type": "leaf",
+          "word": "joined"
+        },
+        {
+          "type": "leaf",
+          "word": "joining"
+        },
+        {
+          "type": "leaf",
+          "word": "jump"
+        },
+        {
+          "type": "leaf",
+          "word": "keep"
+        },
+        {
+          "type": "leaf",
+          "word": "keeping"
+        },
+        {
+          "type": "leaf",
+          "word": "keeps"
+        },
+        {
+          "type": "leaf",
+          "word": "kept"
+        },
+        {
+          "type": "leaf",
+          "word": "khan"
+        },
+        {
+          "type": "leaf",
+          "word": "kicked"
+        },
+        {
+          "type": "leaf",
+          "word": "kill"
+        },
+        {
+          "type": "leaf",
+          "word": "killed"
+        },
+        {
+          "type": "leaf",
+          "word": "killing"
+        },
+        {
+          "type": "leaf",
+          "word": "kit"
+        },
+        {
+          "type": "leaf",
+          "word": "km"
+        },
+        {
+          "type": "leaf",
+          "word": "knight"
+        },
+        {
+          "type": "leaf",
+          "word": "knock"
+        },
+        {
+          "type": "leaf",
+          "word": "knocked"
+        },
+        {
+          "type": "leaf",
+          "word": "knows"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "l-q",
+      "label": "l-q: laid, laughing, lay, lead, leading",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "laid"
+        },
+        {
+          "type": "leaf",
+          "word": "laughing"
+        },
+        {
+          "type": "leaf",
+          "word": "lay"
+        },
+        {
+          "type": "leaf",
+          "word": "lead"
+        },
+        {
+          "type": "leaf",
+          "word": "leading"
+        },
+        {
+          "type": "leaf",
+          "word": "leads"
+        },
+        {
+          "type": "leaf",
+          "word": "learned"
+        },
+        {
+          "type": "leaf",
+          "word": "learning"
+        },
+        {
+          "type": "leaf",
+          "word": "leave"
+        },
+        {
+          "type": "leaf",
+          "word": "led"
+        },
+        {
+          "type": "leaf",
+          "word": "left"
+        },
+        {
+          "type": "leaf",
+          "word": "let"
+        },
+        {
+          "type": "leaf",
+          "word": "lets"
+        },
+        {
+          "type": "leaf",
+          "word": "letting"
+        },
+        {
+          "type": "leaf",
+          "word": "lies"
+        },
+        {
+          "type": "leaf",
+          "word": "lifestyle"
+        },
+        {
+          "type": "leaf",
+          "word": "lifetime"
+        },
+        {
+          "type": "leaf",
+          "word": "lift"
+        },
+        {
+          "type": "leaf",
+          "word": "lighting"
+        },
+        {
+          "type": "leaf",
+          "word": "liked"
+        },
+        {
+          "type": "leaf",
+          "word": "likes"
+        },
+        {
+          "type": "leaf",
+          "word": "limited"
+        },
+        {
+          "type": "leaf",
+          "word": "linked"
+        },
+        {
+          "type": "leaf",
+          "word": "listed"
+        },
+        {
+          "type": "leaf",
+          "word": "listening"
+        },
+        {
+          "type": "leaf",
+          "word": "live"
+        },
+        {
+          "type": "leaf",
+          "word": "lived"
+        },
+        {
+          "type": "leaf",
+          "word": "lmao"
+        },
+        {
+          "type": "leaf",
+          "word": "loaded"
+        },
+        {
+          "type": "leaf",
+          "word": "loads"
+        },
+        {
+          "type": "leaf",
+          "word": "located"
+        },
+        {
+          "type": "leaf",
+          "word": "locked"
+        },
+        {
+          "type": "leaf",
+          "word": "looked"
+        },
+        {
+          "type": "leaf",
+          "word": "looking"
+        },
+        {
+          "type": "leaf",
+          "word": "looks"
+        },
+        {
+          "type": "leaf",
+          "word": "los"
+        },
+        {
+          "type": "leaf",
+          "word": "lose"
+        },
+        {
+          "type": "leaf",
+          "word": "losing"
+        },
+        {
+          "type": "leaf",
+          "word": "loving"
+        },
+        {
+          "type": "leaf",
+          "word": "luke"
+        },
+        {
+          "type": "leaf",
+          "word": "lying"
+        },
+        {
+          "type": "leaf",
+          "word": "made"
+        },
+        {
+          "type": "leaf",
+          "word": "mail"
+        },
+        {
+          "type": "leaf",
+          "word": "maintained"
+        },
+        {
+          "type": "leaf",
+          "word": "maintaining"
+        },
+        {
+          "type": "leaf",
+          "word": "make"
+        },
+        {
+          "type": "leaf",
+          "word": "making"
+        },
+        {
+          "type": "leaf",
+          "word": "manage"
+        },
+        {
+          "type": "leaf",
+          "word": "managed"
+        },
+        {
+          "type": "leaf",
+          "word": "managing"
+        },
+        {
+          "type": "leaf",
+          "word": "maps"
+        },
+        {
+          "type": "leaf",
+          "word": "marked"
+        },
+        {
+          "type": "leaf",
+          "word": "maryland"
+        },
+        {
+          "type": "leaf",
+          "word": "measured"
+        },
+        {
+          "type": "leaf",
+          "word": "meet"
+        },
+        {
+          "type": "leaf",
+          "word": "meets"
+        },
+        {
+          "type": "leaf",
+          "word": "mentioned"
+        },
+        {
+          "type": "leaf",
+          "word": "met"
+        },
+        {
+          "type": "leaf",
+          "word": "miami"
+        },
+        {
+          "type": "leaf",
+          "word": "michigan"
+        },
+        {
+          "type": "leaf",
+          "word": "midnight"
+        },
+        {
+          "type": "leaf",
+          "word": "missed"
+        },
+        {
+          "type": "leaf",
+          "word": "missing"
+        },
+        {
+          "type": "leaf",
+          "word": "mistake"
+        },
+        {
+          "type": "leaf",
+          "word": "mm"
+        },
+        {
+          "type": "leaf",
+          "word": "monitoring"
+        },
+        {
+          "type": "leaf",
+          "word": "mounted"
+        },
+        {
+          "type": "leaf",
+          "word": "move"
+        },
+        {
+          "type": "leaf",
+          "word": "moved"
+        },
+        {
+          "type": "leaf",
+          "word": "murdered"
+        },
+        {
+          "type": "leaf",
+          "word": "needed"
+        },
+        {
+          "type": "leaf",
+          "word": "needs"
+        },
+        {
+          "type": "leaf",
+          "word": "noted"
+        },
+        {
+          "type": "leaf",
+          "word": "noticed"
+        },
+        {
+          "type": "leaf",
+          "word": "observed"
+        },
+        {
+          "type": "leaf",
+          "word": "obtain"
+        },
+        {
+          "type": "leaf",
+          "word": "obtained"
+        },
+        {
+          "type": "leaf",
+          "word": "occur"
+        },
+        {
+          "type": "leaf",
+          "word": "odds"
+        },
+        {
+          "type": "leaf",
+          "word": "offer"
+        },
+        {
+          "type": "leaf",
+          "word": "offered"
+        },
+        {
+          "type": "leaf",
+          "word": "offering"
+        },
+        {
+          "type": "leaf",
+          "word": "ongoing"
+        },
+        {
+          "type": "leaf",
+          "word": "open"
+        },
+        {
+          "type": "leaf",
+          "word": "opened"
+        },
+        {
+          "type": "leaf",
+          "word": "opening"
+        },
+        {
+          "type": "leaf",
+          "word": "opens"
+        },
+        {
+          "type": "leaf",
+          "word": "operate"
+        },
+        {
+          "type": "leaf",
+          "word": "operated"
+        },
+        {
+          "type": "leaf",
+          "word": "operating"
+        },
+        {
+          "type": "leaf",
+          "word": "opposed"
+        },
+        {
+          "type": "leaf",
+          "word": "ordered"
+        },
+        {
+          "type": "leaf",
+          "word": "oregon"
+        },
+        {
+          "type": "leaf",
+          "word": "outer"
+        },
+        {
+          "type": "leaf",
+          "word": "overcome"
+        },
+        {
+          "type": "leaf",
+          "word": "owned"
+        },
+        {
+          "type": "leaf",
+          "word": "pacific"
+        },
+        {
+          "type": "leaf",
+          "word": "packed"
+        },
+        {
+          "type": "leaf",
+          "word": "paid"
+        },
+        {
+          "type": "leaf",
+          "word": "pass"
+        },
+        {
+          "type": "leaf",
+          "word": "passed"
+        },
+        {
+          "type": "leaf",
+          "word": "patterns"
+        },
+        {
+          "type": "leaf",
+          "word": "pay"
+        },
+        {
+          "type": "leaf",
+          "word": "pays"
+        },
+        {
+          "type": "leaf",
+          "word": "pennsylvania"
+        },
+        {
+          "type": "leaf",
+          "word": "perform"
+        },
+        {
+          "type": "leaf",
+          "word": "performed"
+        },
+        {
+          "type": "leaf",
+          "word": "performing"
+        },
+        {
+          "type": "leaf",
+          "word": "phase"
+        },
+        {
+          "type": "leaf",
+          "word": "photographs"
+        },
+        {
+          "type": "leaf",
+          "word": "pick"
+        },
+        {
+          "type": "leaf",
+          "word": "picked"
+        },
+        {
+          "type": "leaf",
+          "word": "picking"
+        },
+        {
+          "type": "leaf",
+          "word": "picks"
+        },
+        {
+          "type": "leaf",
+          "word": "pink"
+        },
+        {
+          "type": "leaf",
+          "word": "pissed"
+        },
+        {
+          "type": "leaf",
+          "word": "pitch"
+        },
+        {
+          "type": "leaf",
+          "word": "placed"
+        },
+        {
+          "type": "leaf",
+          "word": "planned"
+        },
+        {
+          "type": "leaf",
+          "word": "plates"
+        },
+        {
+          "type": "leaf",
+          "word": "play"
+        },
+        {
+          "type": "leaf",
+          "word": "played"
+        },
+        {
+          "type": "leaf",
+          "word": "playing"
+        },
+        {
+          "type": "leaf",
+          "word": "pleasure"
+        },
+        {
+          "type": "leaf",
+          "word": "pointed"
+        },
+        {
+          "type": "leaf",
+          "word": "poland"
+        },
+        {
+          "type": "leaf",
+          "word": "pop"
+        },
+        {
+          "type": "leaf",
+          "word": "post"
+        },
+        {
+          "type": "leaf",
+          "word": "posted"
+        },
+        {
+          "type": "leaf",
+          "word": "posting"
+        },
+        {
+          "type": "leaf",
+          "word": "powered"
+        },
+        {
+          "type": "leaf",
+          "word": "preferred"
+        },
+        {
+          "type": "leaf",
+          "word": "presented"
+        },
+        {
+          "type": "leaf",
+          "word": "prevent"
+        },
+        {
+          "type": "leaf",
+          "word": "print"
+        },
+        {
+          "type": "leaf",
+          "word": "printed"
+        },
+        {
+          "type": "leaf",
+          "word": "printing"
+        },
+        {
+          "type": "leaf",
+          "word": "procedures"
+        },
+        {
+          "type": "leaf",
+          "word": "processing"
+        },
+        {
+          "type": "leaf",
+          "word": "produce"
+        },
+        {
+          "type": "leaf",
+          "word": "produced"
+        },
+        {
+          "type": "leaf",
+          "word": "promised"
+        },
+        {
+          "type": "leaf",
+          "word": "promote"
+        },
+        {
+          "type": "leaf",
+          "word": "promoting"
+        },
+        {
+          "type": "leaf",
+          "word": "proposed"
+        },
+        {
+          "type": "leaf",
+          "word": "protect"
+        },
+        {
+          "type": "leaf",
+          "word": "protected"
+        },
+        {
+          "type": "leaf",
+          "word": "protecting"
+        },
+        {
+          "type": "leaf",
+          "word": "proved"
+        },
+        {
+          "type": "leaf",
+          "word": "provide"
+        },
+        {
+          "type": "leaf",
+          "word": "provided"
+        },
+        {
+          "type": "leaf",
+          "word": "provides"
+        },
+        {
+          "type": "leaf",
+          "word": "providing"
+        },
+        {
+          "type": "leaf",
+          "word": "publishing"
+        },
+        {
+          "type": "leaf",
+          "word": "pull"
+        },
+        {
+          "type": "leaf",
+          "word": "pulled"
+        },
+        {
+          "type": "leaf",
+          "word": "pulling"
+        },
+        {
+          "type": "leaf",
+          "word": "purchased"
+        },
+        {
+          "type": "leaf",
+          "word": "pursue"
+        },
+        {
+          "type": "leaf",
+          "word": "push"
+        },
+        {
+          "type": "leaf",
+          "word": "pushed"
+        },
+        {
+          "type": "leaf",
+          "word": "pushing"
+        },
+        {
+          "type": "leaf",
+          "word": "put"
+        },
+        {
+          "type": "leaf",
+          "word": "puts"
+        },
+        {
+          "type": "leaf",
+          "word": "putting"
+        },
+        {
+          "type": "leaf",
+          "word": "queensland"
+        },
+        {
+          "type": "leaf",
+          "word": "quotes"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "r-s",
+      "label": "r-s: racist, raise, raised, raising, ran",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "racist"
+        },
+        {
+          "type": "leaf",
+          "word": "raise"
+        },
+        {
+          "type": "leaf",
+          "word": "raised"
+        },
+        {
+          "type": "leaf",
+          "word": "raising"
+        },
+        {
+          "type": "leaf",
+          "word": "ran"
+        },
+        {
+          "type": "leaf",
+          "word": "ranked"
+        },
+        {
+          "type": "leaf",
+          "word": "rated"
+        },
+        {
+          "type": "leaf",
+          "word": "reach"
+        },
+        {
+          "type": "leaf",
+          "word": "reached"
+        },
+        {
+          "type": "leaf",
+          "word": "reader"
+        },
+        {
+          "type": "leaf",
+          "word": "reads"
+        },
+        {
+          "type": "leaf",
+          "word": "realized"
+        },
+        {
+          "type": "leaf",
+          "word": "receive"
+        },
+        {
+          "type": "leaf",
+          "word": "received"
+        },
+        {
+          "type": "leaf",
+          "word": "receiving"
+        },
+        {
+          "type": "leaf",
+          "word": "recognized"
+        },
+        {
+          "type": "leaf",
+          "word": "reduce"
+        },
+        {
+          "type": "leaf",
+          "word": "reduced"
+        },
+        {
+          "type": "leaf",
+          "word": "referring"
+        },
+        {
+          "type": "leaf",
+          "word": "refused"
+        },
+        {
+          "type": "leaf",
+          "word": "regarded"
+        },
+        {
+          "type": "leaf",
+          "word": "regarding"
+        },
+        {
+          "type": "leaf",
+          "word": "registered"
+        },
+        {
+          "type": "leaf",
+          "word": "rejected"
+        },
+        {
+          "type": "leaf",
+          "word": "relate"
+        },
+        {
+          "type": "leaf",
+          "word": "related"
+        },
+        {
+          "type": "leaf",
+          "word": "released"
+        },
+        {
+          "type": "leaf",
+          "word": "releases"
+        },
+        {
+          "type": "leaf",
+          "word": "remain"
+        },
+        {
+          "type": "leaf",
+          "word": "remained"
+        },
+        {
+          "type": "leaf",
+          "word": "remaining"
+        },
+        {
+          "type": "leaf",
+          "word": "remains"
+        },
+        {
+          "type": "leaf",
+          "word": "remembered"
+        },
+        {
+          "type": "leaf",
+          "word": "reminds"
+        },
+        {
+          "type": "leaf",
+          "word": "remote"
+        },
+        {
+          "type": "leaf",
+          "word": "remove"
+        },
+        {
+          "type": "leaf",
+          "word": "removed"
+        },
+        {
+          "type": "leaf",
+          "word": "removing"
+        },
+        {
+          "type": "leaf",
+          "word": "repeated"
+        },
+        {
+          "type": "leaf",
+          "word": "reported"
+        },
+        {
+          "type": "leaf",
+          "word": "reporting"
+        },
+        {
+          "type": "leaf",
+          "word": "represented"
+        },
+        {
+          "type": "leaf",
+          "word": "representing"
+        },
+        {
+          "type": "leaf",
+          "word": "represents"
+        },
+        {
+          "type": "leaf",
+          "word": "requested"
+        },
+        {
+          "type": "leaf",
+          "word": "require"
+        },
+        {
+          "type": "leaf",
+          "word": "required"
+        },
+        {
+          "type": "leaf",
+          "word": "requires"
+        },
+        {
+          "type": "leaf",
+          "word": "respect"
+        },
+        {
+          "type": "leaf",
+          "word": "responded"
+        },
+        {
+          "type": "leaf",
+          "word": "rest"
+        },
+        {
+          "type": "leaf",
+          "word": "result"
+        },
+        {
+          "type": "leaf",
+          "word": "resulted"
+        },
+        {
+          "type": "leaf",
+          "word": "resulting"
+        },
+        {
+          "type": "leaf",
+          "word": "return"
+        },
+        {
+          "type": "leaf",
+          "word": "returned"
+        },
+        {
+          "type": "leaf",
+          "word": "revealed"
+        },
+        {
+          "type": "leaf",
+          "word": "reveals"
+        },
+        {
+          "type": "leaf",
+          "word": "revenge"
+        },
+        {
+          "type": "leaf",
+          "word": "reviewed"
+        },
+        {
+          "type": "leaf",
+          "word": "rise"
+        },
+        {
+          "type": "leaf",
+          "word": "rob"
+        },
+        {
+          "type": "leaf",
+          "word": "robin"
+        },
+        {
+          "type": "leaf",
+          "word": "roll"
+        },
+        {
+          "type": "leaf",
+          "word": "rolling"
+        },
+        {
+          "type": "leaf",
+          "word": "rose"
+        },
+        {
+          "type": "leaf",
+          "word": "row"
+        },
+        {
+          "type": "leaf",
+          "word": "roy"
+        },
+        {
+          "type": "leaf",
+          "word": "rubber"
+        },
+        {
+          "type": "leaf",
+          "word": "ruined"
+        },
+        {
+          "type": "leaf",
+          "word": "ruled"
+        },
+        {
+          "type": "leaf",
+          "word": "run"
+        },
+        {
+          "type": "leaf",
+          "word": "running"
+        },
+        {
+          "type": "leaf",
+          "word": "runs"
+        },
+        {
+          "type": "leaf",
+          "word": "russell"
+        },
+        {
+          "type": "leaf",
+          "word": "sake"
+        },
+        {
+          "type": "leaf",
+          "word": "sand"
+        },
+        {
+          "type": "leaf",
+          "word": "sat"
+        },
+        {
+          "type": "leaf",
+          "word": "save"
+        },
+        {
+          "type": "leaf",
+          "word": "saved"
+        },
+        {
+          "type": "leaf",
+          "word": "saving"
+        },
+        {
+          "type": "leaf",
+          "word": "saying"
+        },
+        {
+          "type": "leaf",
+          "word": "says"
+        },
+        {
+          "type": "leaf",
+          "word": "scheduled"
+        },
+        {
+          "type": "leaf",
+          "word": "scored"
+        },
+        {
+          "type": "leaf",
+          "word": "scoring"
+        },
+        {
+          "type": "leaf",
+          "word": "screaming"
+        },
+        {
+          "type": "leaf",
+          "word": "se"
+        },
+        {
+          "type": "leaf",
+          "word": "search"
+        },
+        {
+          "type": "leaf",
+          "word": "searching"
+        },
+        {
+          "type": "leaf",
+          "word": "seattle"
+        },
+        {
+          "type": "leaf",
+          "word": "secured"
+        },
+        {
+          "type": "leaf",
+          "word": "seeing"
+        },
+        {
+          "type": "leaf",
+          "word": "seek"
+        },
+        {
+          "type": "leaf",
+          "word": "seeking"
+        },
+        {
+          "type": "leaf",
+          "word": "seem"
+        },
+        {
+          "type": "leaf",
+          "word": "seemed"
+        },
+        {
+          "type": "leaf",
+          "word": "seems"
+        },
+        {
+          "type": "leaf",
+          "word": "sees"
+        },
+        {
+          "type": "leaf",
+          "word": "selected"
+        },
+        {
+          "type": "leaf",
+          "word": "sell"
+        },
+        {
+          "type": "leaf",
+          "word": "send"
+        },
+        {
+          "type": "leaf",
+          "word": "sending"
+        },
+        {
+          "type": "leaf",
+          "word": "sent"
+        },
+        {
+          "type": "leaf",
+          "word": "separated"
+        },
+        {
+          "type": "leaf",
+          "word": "serve"
+        },
+        {
+          "type": "leaf",
+          "word": "served"
+        },
+        {
+          "type": "leaf",
+          "word": "serving"
+        },
+        {
+          "type": "leaf",
+          "word": "set"
+        },
+        {
+          "type": "leaf",
+          "word": "sets"
+        },
+        {
+          "type": "leaf",
+          "word": "setting"
+        },
+        {
+          "type": "leaf",
+          "word": "settle"
+        },
+        {
+          "type": "leaf",
+          "word": "settled"
+        },
+        {
+          "type": "leaf",
+          "word": "sexy"
+        },
+        {
+          "type": "leaf",
+          "word": "shake"
+        },
+        {
+          "type": "leaf",
+          "word": "share"
+        },
+        {
+          "type": "leaf",
+          "word": "shared"
+        },
+        {
+          "type": "leaf",
+          "word": "sharing"
+        },
+        {
+          "type": "leaf",
+          "word": "shed"
+        },
+        {
+          "type": "leaf",
+          "word": "shell"
+        },
+        {
+          "type": "leaf",
+          "word": "shipping"
+        },
+        {
+          "type": "leaf",
+          "word": "shit"
+        },
+        {
+          "type": "leaf",
+          "word": "shocked"
+        },
+        {
+          "type": "leaf",
+          "word": "shoot"
+        },
+        {
+          "type": "leaf",
+          "word": "shooting"
+        },
+        {
+          "type": "leaf",
+          "word": "shopping"
+        },
+        {
+          "type": "leaf",
+          "word": "shot"
+        },
+        {
+          "type": "leaf",
+          "word": "showed"
+        },
+        {
+          "type": "leaf",
+          "word": "showing"
+        },
+        {
+          "type": "leaf",
+          "word": "shown"
+        },
+        {
+          "type": "leaf",
+          "word": "shut"
+        },
+        {
+          "type": "leaf",
+          "word": "signed"
+        },
+        {
+          "type": "leaf",
+          "word": "sing"
+        },
+        {
+          "type": "leaf",
+          "word": "singapore"
+        },
+        {
+          "type": "leaf",
+          "word": "singing"
+        },
+        {
+          "type": "leaf",
+          "word": "sit"
+        },
+        {
+          "type": "leaf",
+          "word": "sites"
+        },
+        {
+          "type": "leaf",
+          "word": "slave"
+        },
+        {
+          "type": "leaf",
+          "word": "sleep"
+        },
+        {
+          "type": "leaf",
+          "word": "sleeping"
+        },
+        {
+          "type": "leaf",
+          "word": "smoke"
+        },
+        {
+          "type": "leaf",
+          "word": "smoking"
+        },
+        {
+          "type": "leaf",
+          "word": "sold"
+        },
+        {
+          "type": "leaf",
+          "word": "sought"
+        },
+        {
+          "type": "leaf",
+          "word": "sounds"
+        },
+        {
+          "type": "leaf",
+          "word": "speaks"
+        },
+        {
+          "type": "leaf",
+          "word": "spend"
+        },
+        {
+          "type": "leaf",
+          "word": "spent"
+        },
+        {
+          "type": "leaf",
+          "word": "sponsored"
+        },
+        {
+          "type": "leaf",
+          "word": "spread"
+        },
+        {
+          "type": "leaf",
+          "word": "stand"
+        },
+        {
+          "type": "leaf",
+          "word": "stands"
+        },
+        {
+          "type": "leaf",
+          "word": "start"
+        },
+        {
+          "type": "leaf",
+          "word": "started"
+        },
+        {
+          "type": "leaf",
+          "word": "starting"
+        },
+        {
+          "type": "leaf",
+          "word": "starts"
+        },
+        {
+          "type": "leaf",
+          "word": "stated"
+        },
+        {
+          "type": "leaf",
+          "word": "stats"
+        },
+        {
+          "type": "leaf",
+          "word": "stay"
+        },
+        {
+          "type": "leaf",
+          "word": "stayed"
+        },
+        {
+          "type": "leaf",
+          "word": "staying"
+        },
+        {
+          "type": "leaf",
+          "word": "steal"
+        },
+        {
+          "type": "leaf",
+          "word": "stealing"
+        },
+        {
+          "type": "leaf",
+          "word": "stephen"
+        },
+        {
+          "type": "leaf",
+          "word": "stolen"
+        },
+        {
+          "type": "leaf",
+          "word": "stood"
+        },
+        {
+          "type": "leaf",
+          "word": "stop"
+        },
+        {
+          "type": "leaf",
+          "word": "stopped"
+        },
+        {
+          "type": "leaf",
+          "word": "stops"
+        },
+        {
+          "type": "leaf",
+          "word": "strike"
+        },
+        {
+          "type": "leaf",
+          "word": "strikes"
+        },
+        {
+          "type": "leaf",
+          "word": "string"
+        },
+        {
+          "type": "leaf",
+          "word": "struck"
+        },
+        {
+          "type": "leaf",
+          "word": "struggling"
+        },
+        {
+          "type": "leaf",
+          "word": "stuck"
+        },
+        {
+          "type": "leaf",
+          "word": "stunning"
+        },
+        {
+          "type": "leaf",
+          "word": "subjects"
+        },
+        {
+          "type": "leaf",
+          "word": "submit"
+        },
+        {
+          "type": "leaf",
+          "word": "submitted"
+        },
+        {
+          "type": "leaf",
+          "word": "succeed"
+        },
+        {
+          "type": "leaf",
+          "word": "suffer"
+        },
+        {
+          "type": "leaf",
+          "word": "suffered"
+        },
+        {
+          "type": "leaf",
+          "word": "suffering"
+        },
+        {
+          "type": "leaf",
+          "word": "suggested"
+        },
+        {
+          "type": "leaf",
+          "word": "suggesting"
+        },
+        {
+          "type": "leaf",
+          "word": "suggests"
+        },
+        {
+          "type": "leaf",
+          "word": "sum"
+        },
+        {
+          "type": "leaf",
+          "word": "supplied"
+        },
+        {
+          "type": "leaf",
+          "word": "support"
+        },
+        {
+          "type": "leaf",
+          "word": "supported"
+        },
+        {
+          "type": "leaf",
+          "word": "supporting"
+        },
+        {
+          "type": "leaf",
+          "word": "supposed"
+        },
+        {
+          "type": "leaf",
+          "word": "surrounded"
+        },
+        {
+          "type": "leaf",
+          "word": "surrounding"
+        },
+        {
+          "type": "leaf",
+          "word": "survived"
+        },
+        {
+          "type": "leaf",
+          "word": "swing"
+        },
+        {
+          "type": "leaf",
+          "word": "switch"
+        },
+        {
+          "type": "leaf",
+          "word": "switzerland"
+        },
+        {
+          "type": "leaf",
+          "word": "symbol"
+        }
+      ]
+    },
+    {
+      "type": "branch",
+      "id": "t-y",
+      "label": "t-y: tag, take, taken, takes, taking",
+      "children": [
+        {
+          "type": "leaf",
+          "word": "tag"
+        },
+        {
+          "type": "leaf",
+          "word": "take"
+        },
+        {
+          "type": "leaf",
+          "word": "taken"
+        },
+        {
+          "type": "leaf",
+          "word": "takes"
+        },
+        {
+          "type": "leaf",
+          "word": "taking"
+        },
+        {
+          "type": "leaf",
+          "word": "talented"
+        },
+        {
+          "type": "leaf",
+          "word": "talking"
+        },
+        {
+          "type": "leaf",
+          "word": "targeted"
+        },
+        {
+          "type": "leaf",
+          "word": "taylor"
+        },
+        {
+          "type": "leaf",
+          "word": "teaching"
+        },
+        {
+          "type": "leaf",
+          "word": "tears"
+        },
+        {
+          "type": "leaf",
+          "word": "ted"
+        },
+        {
+          "type": "leaf",
+          "word": "telling"
+        },
+        {
+          "type": "leaf",
+          "word": "tells"
+        },
+        {
+          "type": "leaf",
+          "word": "terry"
+        },
+        {
+          "type": "leaf",
+          "word": "tested"
+        },
+        {
+          "type": "leaf",
+          "word": "testing"
+        },
+        {
+          "type": "leaf",
+          "word": "theatre"
+        },
+        {
+          "type": "leaf",
+          "word": "threatened"
+        },
+        {
+          "type": "leaf",
+          "word": "throw"
+        },
+        {
+          "type": "leaf",
+          "word": "throwing"
+        },
+        {
+          "type": "leaf",
+          "word": "tie"
+        },
+        {
+          "type": "leaf",
+          "word": "tied"
+        },
+        {
+          "type": "leaf",
+          "word": "timing"
+        },
+        {
+          "type": "leaf",
+          "word": "title"
+        },
+        {
+          "type": "leaf",
+          "word": "took"
+        },
+        {
+          "type": "leaf",
+          "word": "touched"
+        },
+        {
+          "type": "leaf",
+          "word": "touching"
+        },
+        {
+          "type": "leaf",
+          "word": "tourism"
+        },
+        {
+          "type": "leaf",
+          "word": "toys"
+        },
+        {
+          "type": "leaf",
+          "word": "tracking"
+        },
+        {
+          "type": "leaf",
+          "word": "trail"
+        },
+        {
+          "type": "leaf",
+          "word": "trailer"
+        },
+        {
+          "type": "leaf",
+          "word": "trained"
+        },
+        {
+          "type": "leaf",
+          "word": "trans"
+        },
+        {
+          "type": "leaf",
+          "word": "transferred"
+        },
+        {
+          "type": "leaf",
+          "word": "transmission"
+        },
+        {
+          "type": "leaf",
+          "word": "trash"
+        },
+        {
+          "type": "leaf",
+          "word": "traveling"
+        },
+        {
+          "type": "leaf",
+          "word": "treat"
+        },
+        {
+          "type": "leaf",
+          "word": "treated"
+        },
+        {
+          "type": "leaf",
+          "word": "treating"
+        },
+        {
+          "type": "leaf",
+          "word": "tried"
+        },
+        {
+          "type": "leaf",
+          "word": "tries"
+        },
+        {
+          "type": "leaf",
+          "word": "trigger"
+        },
+        {
+          "type": "leaf",
+          "word": "try"
+        },
+        {
+          "type": "leaf",
+          "word": "trying"
+        },
+        {
+          "type": "leaf",
+          "word": "turn"
+        },
+        {
+          "type": "leaf",
+          "word": "turned"
+        },
+        {
+          "type": "leaf",
+          "word": "turns"
+        },
+        {
+          "type": "leaf",
+          "word": "twelve"
+        },
+        {
+          "type": "leaf",
+          "word": "ukraine"
+        },
+        {
+          "type": "leaf",
+          "word": "ultimate"
+        },
+        {
+          "type": "leaf",
+          "word": "updates"
+        },
+        {
+          "type": "leaf",
+          "word": "upgrade"
+        },
+        {
+          "type": "leaf",
+          "word": "use"
+        },
+        {
+          "type": "leaf",
+          "word": "used"
+        },
+        {
+          "type": "leaf",
+          "word": "uses"
+        },
+        {
+          "type": "leaf",
+          "word": "using"
+        },
+        {
+          "type": "leaf",
+          "word": "viewed"
+        },
+        {
+          "type": "leaf",
+          "word": "views"
+        },
+        {
+          "type": "leaf",
+          "word": "virgin"
+        },
+        {
+          "type": "leaf",
+          "word": "visited"
+        },
+        {
+          "type": "leaf",
+          "word": "visiting"
+        },
+        {
+          "type": "leaf",
+          "word": "visits"
+        },
+        {
+          "type": "leaf",
+          "word": "voted"
+        },
+        {
+          "type": "leaf",
+          "word": "wait"
+        },
+        {
+          "type": "leaf",
+          "word": "waited"
+        },
+        {
+          "type": "leaf",
+          "word": "waiting"
+        },
+        {
+          "type": "leaf",
+          "word": "wake"
+        },
+        {
+          "type": "leaf",
+          "word": "wales"
+        },
+        {
+          "type": "leaf",
+          "word": "walk"
+        },
+        {
+          "type": "leaf",
+          "word": "walked"
+        },
+        {
+          "type": "leaf",
+          "word": "walks"
+        },
+        {
+          "type": "leaf",
+          "word": "walter"
+        },
+        {
+          "type": "leaf",
+          "word": "wanting"
+        },
+        {
+          "type": "leaf",
+          "word": "wants"
+        },
+        {
+          "type": "leaf",
+          "word": "wash"
+        },
+        {
+          "type": "leaf",
+          "word": "watched"
+        },
+        {
+          "type": "leaf",
+          "word": "watching"
+        },
+        {
+          "type": "leaf",
+          "word": "waves"
+        },
+        {
+          "type": "leaf",
+          "word": "wear"
+        },
+        {
+          "type": "leaf",
+          "word": "wearing"
+        },
+        {
+          "type": "leaf",
+          "word": "weed"
+        },
+        {
+          "type": "leaf",
+          "word": "wells"
+        },
+        {
+          "type": "leaf",
+          "word": "went"
+        },
+        {
+          "type": "leaf",
+          "word": "win"
+        },
+        {
+          "type": "leaf",
+          "word": "winning"
+        },
+        {
+          "type": "leaf",
+          "word": "wins"
+        },
+        {
+          "type": "leaf",
+          "word": "wire"
+        },
+        {
+          "type": "leaf",
+          "word": "witnesses"
+        },
+        {
+          "type": "leaf",
+          "word": "woke"
+        },
+        {
+          "type": "leaf",
+          "word": "won"
+        },
+        {
+          "type": "leaf",
+          "word": "wondering"
+        },
+        {
+          "type": "leaf",
+          "word": "wore"
+        },
+        {
+          "type": "leaf",
+          "word": "work"
+        },
+        {
+          "type": "leaf",
+          "word": "worked"
+        },
+        {
+          "type": "leaf",
+          "word": "works"
+        },
+        {
+          "type": "leaf",
+          "word": "worn"
+        },
+        {
+          "type": "leaf",
+          "word": "wounded"
+        },
+        {
+          "type": "leaf",
+          "word": "writes"
+        },
+        {
+          "type": "leaf",
+          "word": "ye"
+        }
+      ]
+    }
+  ]
+}
